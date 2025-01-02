@@ -1,1 +1,408 @@
-{}
+{
+    "Dinesh Khandelwal, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Inductive Quantum Embedding."
+        ]
+    ],
+    "Dinesh Garg, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Inductive Quantum Embedding."
+        ]
+    ],
+    "Hima Karanam, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Inductive Quantum Embedding."
+        ]
+    ],
+    "L. Venkata Subramaniam, IBM India Research Lab": [
+        [
+            "Unknown",
+            "Inductive Quantum Embedding."
+        ]
+    ],
+    "Sho Sonoda, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Learning with Optimized Random Features: Exponential Speedup by Quantum Machine Learning without Sparsity and Low-Rank Assumptions."
+        ]
+    ],
+    "Mei Si, Federal University of Pernambuco, Recife, Brazil": [
+        [
+            "Unknown",
+            "Playing Atari with Hybrid Quantum-Classical Reinforcement Learning."
+        ]
+    ],
+    "Hans J. Briegel, University of Innsbruck, Institute for Theoretical Physics, Austria": [
+        [
+            "Unknown",
+            "Parametrized Quantum Policies for Reinforcement Learning."
+        ]
+    ],
+    "Vedran Dunjko, Leiden University, The Netherlands": [
+        [
+            "Unknown",
+            "Parametrized Quantum Policies for Reinforcement Learning."
+        ],
+        [
+            "Unknown",
+            "Reinforcement learning for optimization of variational quantum circuit architectures."
+        ]
+    ],
+    "Bernhard Sch\u00f6lkopf, Max Planck Institute for Intelligent Systems, T\u00fcbingen, Germany": [
+        [
+            "Unknown",
+            "The Inductive Bias of Quantum Kernels."
+        ]
+    ],
+    "Mateusz Ostaszewski, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Reinforcement learning for optimization of variational quantum circuit architectures."
+        ]
+    ],
+    "Wojciech Masarczyk, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Reinforcement learning for optimization of variational quantum circuit architectures."
+        ]
+    ],
+    "Yihui Quek, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Private learning implies quantum stability."
+        ]
+    ],
+    "Srinivasan Arunachalam, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Private learning implies quantum stability."
+        ]
+    ],
+    "John A. Smolin, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Private learning implies quantum stability."
+        ]
+    ],
+    "Hongwei Chen, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Systematic improvement of neural network quantum states using Lanczos."
+        ]
+    ],
+    "Andrew M. Childs, University of Maryland, College Park, MD, USA": [
+        [
+            "Unknown",
+            "Quantum Algorithms for Sampling Log-Concave Distributions and Estimating Normalizing Constants."
+        ]
+    ],
+    "Tongyang Li, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Quantum Algorithms for Sampling Log-Concave Distributions and Estimating Normalizing Constants."
+        ],
+        [
+            "Unknown",
+            "Quantum Speedups of Optimizing Approximately Convex Functions with Applications to Logarithmic Regret Stochastic Convex Bandits."
+        ],
+        [
+            "Unknown",
+            "Logarithmic-Regret Quantum Learning Algorithms for Zero-Sum Games."
+        ]
+    ],
+    "Jin-Peng Liu, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Quantum Algorithms for Sampling Log-Concave Distributions and Estimating Normalizing Constants."
+        ]
+    ],
+    "Ruizhe Zhang 0001, University of Texas at Austin, TX, USA": [
+        [
+            "Unknown",
+            "Quantum Algorithms for Sampling Log-Concave Distributions and Estimating Normalizing Constants."
+        ],
+        [
+            "Unknown",
+            "Quantum Speedups of Optimizing Approximately Convex Functions with Applications to Logarithmic Regret Stochastic Convex Bandits."
+        ]
+    ],
+    "Rahul Jain, National University of Singapore, Centre for Quantum Technologies (CQT), Singapore": [
+        [
+            "Unknown",
+            "Matrix Multiplicative Weights Updates in Quantum Zero-Sum Games: Conservation Laws & Recurrence."
+        ]
+    ],
+    "Georgios Piliouras, Singapore University of Technology and Design": [
+        [
+            "Unknown",
+            "Matrix Multiplicative Weights Updates in Quantum Zero-Sum Games: Conservation Laws & Recurrence."
+        ]
+    ],
+    "Yi-Ling Qiao, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Differentiable Analog Quantum Computing for Optimization and Control."
+        ]
+    ],
+    "Xiaodi Wu 0001, University of Maryland, College Park, MA, USA": [
+        [
+            "Unknown",
+            "Differentiable Analog Quantum Computing for Optimization and Control."
+        ]
+    ],
+    "Xin Wang 0022, Hong Kong University of Science and Technology, Thrust of Artificial Intelligence, Information Hub, Guangzhou, China": [
+        [
+            "Unknown",
+            "Concentration of Data Encoding in Parameterized Quantum Circuits."
+        ],
+        [
+            "Unknown",
+            "Power and limitations of single-qubit native quantum neural networks."
+        ],
+        [
+            "Unknown",
+            "Statistical Analysis of Quantum State Learning Process in Quantum Neural Networks."
+        ]
+    ],
+    "Yehui Tang, Unknown Affiliation": [
+        [
+            "Unknown",
+            "GraphQNTK: Quantum Neural Tangent Kernel for Graph Data."
+        ]
+    ],
+    "Junchi Yan, Unknown Affiliation": [
+        [
+            "Unknown",
+            "GraphQNTK: Quantum Neural Tangent Kernel for Graph Data."
+        ]
+    ],
+    "Zhan Yu, Xiamen University, Software School, China": [
+        [
+            "Unknown",
+            "Power and limitations of single-qubit native quantum neural networks."
+        ]
+    ],
+    "Kaining Zhang, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Escaping from the Barren Plateau via Gaussian Initializations in Deep Variational Quantum Circuits."
+        ]
+    ],
+    "Min-Hsiu Hsieh, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Escaping from the Barren Plateau via Gaussian Initializations in Deep Variational Quantum Circuits."
+        ]
+    ],
+    "Dacheng Tao, Nanyang Technological University, Singapore": [
+        [
+            "Unknown",
+            "Escaping from the Barren Plateau via Gaussian Initializations in Deep Variational Quantum Circuits."
+        ]
+    ],
+    "Kirill Neklyudov, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Wasserstein Quantum Monte Carlo: A Novel Approach for Solving the Quantum Many-Body Schr\u00f6dinger Equation."
+        ]
+    ],
+    "Juan Carrasquilla, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Wasserstein Quantum Monte Carlo: A Novel Approach for Solving the Quantum Many-Body Schr\u00f6dinger Equation."
+        ]
+    ],
+    "Qiang Liu, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Wasserstein Quantum Monte Carlo: A Novel Approach for Solving the Quantum Many-Body Schr\u00f6dinger Equation."
+        ]
+    ],
+    "Max Welling, University of Amsterdam, Informatics Institute, The Netherlands": [
+        [
+            "Unknown",
+            "Wasserstein Quantum Monte Carlo: A Novel Approach for Solving the Quantum Many-Body Schr\u00f6dinger Equation."
+        ]
+    ],
+    "Alireza Makhzani, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Wasserstein Quantum Monte Carlo: A Novel Approach for Solving the Quantum Many-Body Schr\u00f6dinger Equation."
+        ]
+    ],
+    "Hsin-Yuan Huang, Unknown Affiliation": [
+        [
+            "Unknown",
+            "On quantum backpropagation, information reuse, and cheating measurement collapse."
+        ]
+    ],
+    "Dar Gilboa, Unknown Affiliation": [
+        [
+            "Unknown",
+            "On quantum backpropagation, information reuse, and cheating measurement collapse."
+        ]
+    ],
+    "Jarrod R. McClean, Unknown Affiliation": [
+        [
+            "Unknown",
+            "On quantum backpropagation, information reuse, and cheating measurement collapse."
+        ]
+    ],
+    "Noam Razin, Unknown Affiliation": [
+        [
+            "Unknown",
+            "What Makes Data Suitable for a Locally Connected Neural Network? A Necessary and Sufficient Condition Based on Quantum Entanglement."
+        ]
+    ],
+    "Nadav Cohen, Unknown Affiliation": [
+        [
+            "Unknown",
+            "What Makes Data Suitable for a Locally Connected Neural Network? A Necessary and Sufficient Condition Based on Quantum Entanglement."
+        ]
+    ],
+    "Marin Soljacic, Unknown Affiliation": [
+        [
+            "Unknown",
+            "ANTN: Bridging Autoregressive Neural Networks and Tensor Networks for Quantum Many-Body Simulation."
+        ],
+        [
+            "Unknown",
+            "QuACK: Accelerating Gradient-Based Quantum Optimization with Koopman Operator Learning."
+        ]
+    ],
+    "Zhongxiang Dai, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Quantum Bayesian Optimization."
+        ]
+    ],
+    "Arun Verma, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Quantum Bayesian Optimization."
+        ]
+    ],
+    "Bryan Kian Hsiang Low, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Quantum Bayesian Optimization."
+        ]
+    ],
+    "Patrick Jaillet, MIT, USA": [
+        [
+            "Unknown",
+            "Quantum Bayesian Optimization."
+        ]
+    ],
+    "Zhengfeng Ji, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Logarithmic-Regret Quantum Learning Algorithms for Zero-Sum Games."
+        ]
+    ],
+    "Woo Youn Kim, Unknown Affiliation": [
+        [
+            "Unknown",
+            "GeoTMI: Predicting Quantum Chemical Property with Easy-to-Obtain Geometry via Positional Denoising."
+        ]
+    ],
+    "Xiao-Yang Liu, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Classical Simulation of Quantum Circuits: Parallel Environments and Benchmark."
+        ]
+    ],
+    "Panayotis Mertikopoulos, Universit\u00e9 Grenoble Alpes, Grenoble INP, LIG, France": [
+        [
+            "Unknown",
+            "Payoff-based Learning with Matrix Multiplicative Weights in Quantum Games."
+        ]
+    ],
+    "Nicholas Bambos, Stanford University, USA": [
+        [
+            "Unknown",
+            "Payoff-based Learning with Matrix Multiplicative Weights in Quantum Games."
+        ]
+    ],
+    "Jose H. Blanchet, Stanford University, Department of Management Science & Engineering, CA, USA": [
+        [
+            "Unknown",
+            "Payoff-based Learning with Matrix Multiplicative Weights in Quantum Games."
+        ]
+    ],
+    "Rumen Dangovski, Unknown Affiliation": [
+        [
+            "Unknown",
+            "QuACK: Accelerating Gradient-Based Quantum Optimization with Koopman Operator Learning."
+        ]
+    ],
+    "Christopher J. Anders, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Physics-Informed Bayesian Optimization of Variational Quantum Circuits."
+        ]
+    ],
+    "Karl Jansen, University of Cyprus, Nicosia, Cyprus": [
+        [
+            "Unknown",
+            "Physics-Informed Bayesian Optimization of Variational Quantum Circuits."
+        ]
+    ],
+    "Klaus-Robert M\u00fcller, Technical University of Berlin, Germany": [
+        [
+            "Unknown",
+            "Physics-Informed Bayesian Optimization of Variational Quantum Circuits."
+        ]
+    ],
+    "Pan Kessel, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Physics-Informed Bayesian Optimization of Variational Quantum Circuits."
+        ]
+    ],
+    "Aaron Sidford, Stanford University, CA, USA": [
+        [
+            "Unknown",
+            "Quantum speedups for stochastic optimization."
+        ]
+    ],
+    "Chenyi Zhang, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Quantum speedups for stochastic optimization."
+        ]
+    ],
+    "Haiyang Yu, Beijing University of Technology, Data Mining and Security Lab and Beijing Key Laboratory of Trusted Computing, China": [
+        [
+            "Unknown",
+            "QH9: A Quantum Hamiltonian Prediction Benchmark for QM9 Molecules."
+        ]
+    ],
+    "Meng Liu 0015, Texas A&M University, Department of Computer Science and Engineering, College Station, TX, USA": [
+        [
+            "Unknown",
+            "QH9: A Quantum Hamiltonian Prediction Benchmark for QM9 Molecules."
+        ]
+    ],
+    "Youzhi Luo, Unknown Affiliation": [
+        [
+            "Unknown",
+            "QH9: A Quantum Hamiltonian Prediction Benchmark for QM9 Molecules."
+        ]
+    ],
+    "Xiaoning Qian, Unknown Affiliation": [
+        [
+            "Unknown",
+            "QH9: A Quantum Hamiltonian Prediction Benchmark for QM9 Molecules."
+        ]
+    ],
+    "Shuiwang Ji, Texas A&M University, College Station, TX, USA": [
+        [
+            "Unknown",
+            "QH9: A Quantum Hamiltonian Prediction Benchmark for QM9 Molecules."
+        ]
+    ]
+}
