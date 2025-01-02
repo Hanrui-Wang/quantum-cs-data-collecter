@@ -1,1 +1,758 @@
-{}
+{
+    "James Chien-Mo Li, National Taiwan University, Taipei, Taiwan": [
+        [
+            "Unknown",
+            "Realistic Fault Models and Fault Simulation for Quantum Dot Quantum Circuits."
+        ]
+    ],
+    "Lukas Burgholzer, Technical University of Munich, Germany": [
+        [
+            "Unknown",
+            "Improved DD-based Equivalence Checking of Quantum Circuits."
+        ],
+        [
+            "Unknown",
+            "The Power of Simulation for Equivalence Checking in Quantum Computing."
+        ],
+        [
+            "Unknown",
+            "Random Stimuli Generation for the Verification of Quantum Circuits."
+        ],
+        [
+            "Unknown",
+            "Limiting the Search Space in Optimal Quantum Circuit Mapping."
+        ],
+        [
+            "Unknown",
+            "Handling non-unitaries in quantum circuit equivalence checking."
+        ],
+        [
+            "Unknown",
+            "Equivalence checking paradigms in quantum circuit design: a case study."
+        ],
+        [
+            "Unknown",
+            "The basis of design tools for quantum computing: arrays, decision diagrams, tensor networks, and ZX-calculus."
+        ],
+        [
+            "Unknown",
+            "Equivalence Checking of Parameterized Quantum Circuits: Verifying the Compilation of Variational Quantum Algorithms."
+        ],
+        [
+            "Unknown",
+            "Software Tools for Decoding Quantum Low-Density Parity-Check Codes."
+        ],
+        [
+            "Unknown",
+            "Compiler Optimization for Quantum Computing Using Reinforcement Learning."
+        ]
+    ],
+    "Robert Wille, Free University of Amsterdam, Netherlands": [
+        [
+            "Unknown",
+            "Improved DD-based Equivalence Checking of Quantum Circuits."
+        ],
+        [
+            "Unknown",
+            "Concurrency in DD-based Quantum Circuit Simulation."
+        ],
+        [
+            "Unknown",
+            "Approximation of Quantum States Using Decision Diagrams."
+        ],
+        [
+            "Unknown",
+            "The Power of Simulation for Equivalence Checking in Quantum Computing."
+        ],
+        [
+            "Unknown",
+            "Just Like the Real Thing: Fast Weak Simulation of Quantum Computation."
+        ],
+        [
+            "Unknown",
+            "Exploiting Quantum Teleportation in Quantum Circuit Mapping."
+        ],
+        [
+            "Unknown",
+            "Random Stimuli Generation for the Verification of Quantum Circuits."
+        ],
+        [
+            "Unknown",
+            "Limiting the Search Space in Optimal Quantum Circuit Mapping."
+        ],
+        [
+            "Unknown",
+            "Handling non-unitaries in quantum circuit equivalence checking."
+        ],
+        [
+            "Unknown",
+            "Equivalence checking paradigms in quantum circuit design: a case study."
+        ],
+        [
+            "Unknown",
+            "The basis of design tools for quantum computing: arrays, decision diagrams, tensor networks, and ZX-calculus."
+        ],
+        [
+            "Unknown",
+            "Equivalence Checking of Parameterized Quantum Circuits: Verifying the Compilation of Variational Quantum Algorithms."
+        ],
+        [
+            "Unknown",
+            "Software Tools for Decoding Quantum Low-Density Parity-Check Codes."
+        ],
+        [
+            "Unknown",
+            "Compilation of Entangling Gates for High-Dimensional Quantum Systems."
+        ],
+        [
+            "Unknown",
+            "Compiler Optimization for Quantum Computing Using Reinforcement Learning."
+        ],
+        [
+            "Unknown",
+            "RCGP: An Automatic Synthesis Framework for Reversible Quantum-Flux-Parametron Logic Circuits based on Efficient Cartesian Genetic Programming."
+        ],
+        [
+            "Unknown",
+            "Hybrid Circuit Mapping: Leveraging the Full Spectrum of Computational Capabilities of Neutral Atom Quantum Computers."
+        ]
+    ],
+    "Stefan Hillmich, Johannes Kepler Universit\u00e4t Linz, Austria": [
+        [
+            "Unknown",
+            "Concurrency in DD-based Quantum Circuit Simulation."
+        ],
+        [
+            "Unknown",
+            "Approximation of Quantum States Using Decision Diagrams."
+        ],
+        [
+            "Unknown",
+            "Just Like the Real Thing: Fast Weak Simulation of Quantum Computation."
+        ],
+        [
+            "Unknown",
+            "Exploiting Quantum Teleportation in Quantum Circuit Mapping."
+        ],
+        [
+            "Unknown",
+            "The basis of design tools for quantum computing: arrays, decision diagrams, tensor networks, and ZX-calculus."
+        ],
+        [
+            "Unknown",
+            "Compilation of Entangling Gates for High-Dimensional Quantum Systems."
+        ]
+    ],
+    "Alwin Zulehner, Johannes Kepler University Linz, Austria": [
+        [
+            "Unknown",
+            "Concurrency in DD-based Quantum Circuit Simulation."
+        ],
+        [
+            "Unknown",
+            "Approximation of Quantum States Using Decision Diagrams."
+        ],
+        [
+            "Unknown",
+            "Exploiting Quantum Teleportation in Quantum Circuit Mapping."
+        ]
+    ],
+    "Igor L. Markov, Facebook Inc., Menlo Park, CA, USA": [
+        [
+            "Unknown",
+            "Approximation of Quantum States Using Decision Diagrams."
+        ],
+        [
+            "Unknown",
+            "Just Like the Real Thing: Fast Weak Simulation of Quantum Computation."
+        ],
+        [
+            "Unknown",
+            "Massively Parallel Approximate Simulation of Hard Quantum Circuits."
+        ],
+        [
+            "Unknown",
+            "Ever more optimized simulations of fermionic systems on a quantum computer."
+        ]
+    ],
+    "Abdullah Ash-Saki, Unknown Affiliation": [
+        [
+            "Unknown",
+            "An Efficient Circuit Compilation Flow for Quantum Approximate Optimization Algorithm."
+        ]
+    ],
+    "Swaroop Ghosh, Unknown Affiliation": [
+        [
+            "Unknown",
+            "An Efficient Circuit Compilation Flow for Quantum Approximate Optimization Algorithm."
+        ],
+        [
+            "Unknown",
+            "Invited: Drug Discovery Approaches using Quantum Machine Learning."
+        ],
+        [
+            "Unknown",
+            "Knowledge Distillation in Quantum Neural Network Using Approximate Synthesis."
+        ]
+    ],
+    "Gushu Li, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Eliminating Redundant Computation in Noisy Quantum Computing Simulation."
+        ],
+        [
+            "Unknown",
+            "Fast Virtual Gate Extraction For Silicon Quantum Dot Devices."
+        ]
+    ],
+    "Yufei Ding, University of California at Santa Barbara, CA, USA": [
+        [
+            "Unknown",
+            "Eliminating Redundant Computation in Noisy Quantum Computing Simulation."
+        ]
+    ],
+    "Yuan Xie 0001, Alibaba DAMO Academy": [
+        [
+            "Unknown",
+            "Eliminating Redundant Computation in Noisy Quantum Computing Simulation."
+        ]
+    ],
+    "Weiwen Jiang, Unknown Affiliation": [
+        [
+            "Unknown",
+            "When Machine Learning Meets Quantum Computers: A Case Study."
+        ],
+        [
+            "Unknown",
+            "Battle Against Fluctuating Quantum Noise: Compression-Aided Framework to Enable Robust Quantum Neural Network."
+        ],
+        [
+            "Unknown",
+            "QuGeo: An End-to-end Quantum Learning Framework for Geoscience - A Case Study on Full-Waveform Inversion."
+        ]
+    ],
+    "Jinjun Xiong, University at Buffalo, Buffalo, NY, USA": [
+        [
+            "Unknown",
+            "When Machine Learning Meets Quantum Computers: A Case Study."
+        ]
+    ],
+    "Yiyu Shi 0001, University of Notre Dame, Sustainable Computing Laboratory, USA": [
+        [
+            "Unknown",
+            "When Machine Learning Meets Quantum Computers: A Case Study."
+        ],
+        [
+            "Unknown",
+            "Hybrid Gate-Pulse Model for Variational Quantum Algorithms."
+        ],
+        [
+            "Unknown",
+            "Invited: Graph Learning for Parameter Prediction of Quantum Approximate Optimization Algorithm."
+        ]
+    ],
+    "Andrea Basso 0002, University of Bristol, UK": [
+        [
+            "Unknown",
+            "Optimized Polynomial Multiplier Architectures for Post-Quantum KEM Saber."
+        ]
+    ],
+    "Torsten Hoefler, ETH Z\u00fcrich": [
+        [
+            "Unknown",
+            "An Efficient Algorithm for Sparse Quantum State Preparation."
+        ]
+    ],
+    "Mingsheng Ying, Centre for Quantum Software and Information, University of Technology Sydney, Australia": [
+        [
+            "Unknown",
+            "Approximate Equivalence Checking of Noisy Quantum Circuits."
+        ]
+    ],
+    "Yuan Feng 0001, University of Technology Sydney, Center for Quantum Software and Information, NSW, Australia": [
+        [
+            "Unknown",
+            "Approximate Equivalence Checking of Noisy Quantum Circuits."
+        ]
+    ],
+    "Sanjiang Li, University of Technology Sydney, Australia": [
+        [
+            "Unknown",
+            "Approximate Equivalence Checking of Noisy Quantum Circuits."
+        ]
+    ],
+    "Aydin Aysu, Unknown Affiliation": [
+        [
+            "Unknown",
+            "FALCON Down: Breaking FALCON Post-Quantum Signature Scheme through Side-Channel Attacks."
+        ]
+    ],
+    "Junde Li, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Invited: Drug Discovery Approaches using Quantum Machine Learning."
+        ]
+    ],
+    "Nikolay V. Dokholyan, The University of North Carolina at Chapel Hill, Department of Biochemistry and Biophysics, NC, USA": [
+        [
+            "Unknown",
+            "Invited: Drug Discovery Approaches using Quantum Machine Learning."
+        ]
+    ],
+    "Jie-Hong R. Jiang, National Taiwan University, Taipei, Taiwan": [
+        [
+            "Unknown",
+            "Bit-Slicing the Hilbert Space: Scaling Up Accurate Quantum Circuit Simulation."
+        ],
+        [
+            "Unknown",
+            "Accurate BDD-based unitary operator manipulation for scalable and robust quantum circuit verification."
+        ]
+    ],
+    "Masaaki Kondo, Unknown Affiliation": [
+        [
+            "Unknown",
+            "QECOOL: On-Line Quantum Error Correction with a Superconducting Decoder for Surface Code."
+        ]
+    ],
+    "Masamitsu Tanaka, Nagoya University, Japan": [
+        [
+            "Unknown",
+            "QECOOL: On-Line Quantum Error Correction with a Superconducting Decoder for Surface Code."
+        ]
+    ],
+    "Prabhat Mishra 0001, University of Florida, Gainesville, USA": [
+        [
+            "Unknown",
+            "Quantum Spectral Clustering of Mixed Graphs."
+        ],
+        [
+            "Unknown",
+            "Quantum Data Compression for Efficient Generation of Control Pulses."
+        ]
+    ],
+    "Jiafeng Xie, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Efficient Implementation of Finite Field Arithmetic for Binary Ring-LWE Post-Quantum Cryptography Through a Novel Lookup-Table-Like Method."
+        ]
+    ],
+    "Pengzhou He, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Efficient Implementation of Finite Field Arithmetic for Binary Ring-LWE Post-Quantum Cryptography Through a Novel Lookup-Table-Like Method."
+        ]
+    ],
+    "Weimin Zheng, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Mitigating Crosstalk in Quantum Computers through Commutativity-Based Instruction Reordering."
+        ]
+    ],
+    "Hanrui Wang 0002, Massachusetts Institute of Technology, Cambridge, MA, USA": [
+        [
+            "Unknown",
+            "QuantumNAT: quantum noise-aware training with noise injection, quantization and normalization."
+        ],
+        [
+            "Unknown",
+            "QOC: quantum on-chip training with parameter shift and gradient pruning."
+        ],
+        [
+            "Unknown",
+            "Hybrid Gate-Pulse Model for Variational Quantum Algorithms."
+        ]
+    ],
+    "Jiaqi Gu 0002, University of Texas at Austin, Department of Electrical and Computer Engineering, Austin, TX, USA": [
+        [
+            "Unknown",
+            "QuantumNAT: quantum noise-aware training with noise injection, quantization and normalization."
+        ],
+        [
+            "Unknown",
+            "QOC: quantum on-chip training with parameter shift and gradient pruning."
+        ]
+    ],
+    "Yongshan Ding 0001, Yale University, New Haven, CT, USA": [
+        [
+            "Unknown",
+            "QuantumNAT: quantum noise-aware training with noise injection, quantization and normalization."
+        ],
+        [
+            "Unknown",
+            "QOC: quantum on-chip training with parameter shift and gradient pruning."
+        ]
+    ],
+    "Zirui Li, University of Minnesota, Minneapolis, MN, USA": [
+        [
+            "Unknown",
+            "QuantumNAT: quantum noise-aware training with noise injection, quantization and normalization."
+        ],
+        [
+            "Unknown",
+            "QOC: quantum on-chip training with parameter shift and gradient pruning."
+        ]
+    ],
+    "Frederic T. Chong, University of Chicago, IL, USA": [
+        [
+            "Unknown",
+            "QuantumNAT: quantum noise-aware training with noise injection, quantization and normalization."
+        ]
+    ],
+    "David Z. Pan, University of Texas at Austin, USA": [
+        [
+            "Unknown",
+            "QuantumNAT: quantum noise-aware training with noise injection, quantization and normalization."
+        ],
+        [
+            "Unknown",
+            "QOC: quantum on-chip training with parameter shift and gradient pruning."
+        ]
+    ],
+    "Song Han 0003, Massachusetts Institute of Technology, Cambridge, MA, USA": [
+        [
+            "Unknown",
+            "QuantumNAT: quantum noise-aware training with noise injection, quantization and normalization."
+        ],
+        [
+            "Unknown",
+            "QOC: quantum on-chip training with parameter shift and gradient pruning."
+        ],
+        [
+            "Unknown",
+            "Hybrid Gate-Pulse Model for Variational Quantum Algorithms."
+        ]
+    ],
+    "Ali Javadi-Abhari, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Optimizing quantum circuit synthesis for permutations using recursion."
+        ]
+    ],
+    "Hongxiang Fan, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Optimizing quantum circuit placement via machine learning."
+        ]
+    ],
+    "Wayne Luk, Imperial College London, UK": [
+        [
+            "Unknown",
+            "Optimizing quantum circuit placement via machine learning."
+        ]
+    ],
+    "Jae-Yoon Sim, Unknown Affiliation": [
+        [
+            "Unknown",
+            "A fast and scalable qubit-mapping method for noisy intermediate-scale quantum computers."
+        ]
+    ],
+    "Seokhyeong Kang, Unknown Affiliation": [
+        [
+            "Unknown",
+            "A fast and scalable qubit-mapping method for noisy intermediate-scale quantum computers."
+        ],
+        [
+            "Unknown",
+            "Graph Partitioning Approach for Fast Quantum Circuit Simulation."
+        ]
+    ],
+    "Mathias Soeken, Microsoft Quantum, Switzerland": [
+        [
+            "Unknown",
+            "Automatic oracle generation in microsoft's quantum development kit using QIR and LLVM passes."
+        ]
+    ],
+    "Zhirui Hu, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Battle Against Fluctuating Quantum Noise: Compression-Aided Framework to Enable Robust Quantum Neural Network."
+        ]
+    ],
+    "Youzuo Lin, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Battle Against Fluctuating Quantum Noise: Compression-Aided Framework to Enable Robust Quantum Neural Network."
+        ],
+        [
+            "Unknown",
+            "QuGeo: An End-to-end Quantum Learning Framework for Geoscience - A Case Study on Full-Waveform Inversion."
+        ]
+    ],
+    "Youtao Zhang, University of Pittsburgh, Computer Science Department, PA, USA": [
+        [
+            "Unknown",
+            "Orchestrating Measurement-Based Quantum Computation over Photonic Quantum Processors."
+        ],
+        [
+            "Unknown",
+            "FCM: A Fusion-aware Wire Cutting Approach for Measurement-based Quantum Computing."
+        ]
+    ],
+    "Nobuyuki Yoshikawa, Unknown Affiliation": [
+        [
+            "Unknown",
+            "A Global Optimization Algorithm for Buffer and Splitter Insertion in Adiabatic Quantum-Flux-Parametron Circuits."
+        ]
+    ],
+    "Tsung-Yi Ho, Chinese University of Hong Kong, Hong Kong, SAR, China": [
+        [
+            "Unknown",
+            "A Global Optimization Algorithm for Buffer and Splitter Insertion in Adiabatic Quantum-Flux-Parametron Circuits."
+        ],
+        [
+            "Unknown",
+            "RCGP: An Automatic Synthesis Framework for Reversible Quantum-Flux-Parametron Logic Circuits based on Efficient Cartesian Genetic Programming."
+        ]
+    ],
+    "Olivia Chen, Unknown Affiliation": [
+        [
+            "Unknown",
+            "A Global Optimization Algorithm for Buffer and Splitter Insertion in Adiabatic Quantum-Flux-Parametron Circuits."
+        ]
+    ],
+    "Shigeru Yamashita, Unknown Affiliation": [
+        [
+            "Unknown",
+            "An SMT-Solver-Based Synthesis of NNA-Compliant Quantum Circuits Consisting of CNOT, H and T Gates."
+        ]
+    ],
+    "Kai Ni 0004, Rochester Institute of Technology, Department of Electrical and Microelectronic Engineering, NY, USA": [
+        [
+            "Unknown",
+            "Cryogenic In-Memory Matrix-Vector Multiplication using Ferroelectric Superconducting Quantum Interference Device (FE-SQUID)."
+        ]
+    ],
+    "Ahmedullah Aziz, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Cryogenic In-Memory Matrix-Vector Multiplication using Ferroelectric Superconducting Quantum Interference Device (FE-SQUID)."
+        ]
+    ],
+    "Jason Cong, University of California, Los Angeles, USA": [
+        [
+            "Unknown",
+            "Lightning Talk: Scaling Up Quantum Compilation - Challenges and Opportunities."
+        ],
+        [
+            "Unknown",
+            "Scalable Optimal Layout Synthesis for NISQ Quantum Processors."
+        ]
+    ],
+    "Song Bian 0001, Beihang University, Beijing, China": [
+        [
+            "Unknown",
+            "PIMA-LPN: Processing-in-memory Acceleration for Efficient LPN-based Post-Quantum Cryptography."
+        ]
+    ],
+    "Jiliang Zhang 0002, Hunan University, College of Computer Science and Electronic Engineering, Changsha, China": [
+        [
+            "Unknown",
+            "PIMA-LPN: Processing-in-memory Acceleration for Efficient LPN-based Post-Quantum Cryptography."
+        ]
+    ],
+    "Won Woo Ro, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Quixote: Improving Fidelity of Quantum Program by Independent Execution of Controlled Gates."
+        ]
+    ],
+    "Rajiv V. Joshi, Unknown Affiliation": [
+        [
+            "Unknown",
+            "(Invited) Predictive analytics for cryogenic CMOS in future quantum computing systems."
+        ]
+    ],
+    "Sudipto Chakraborty, Unknown Affiliation": [
+        [
+            "Unknown",
+            "(Invited) Predictive analytics for cryogenic CMOS in future quantum computing systems."
+        ]
+    ],
+    "Zhiding Liang, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Hybrid Gate-Pulse Model for Variational Quantum Algorithms."
+        ],
+        [
+            "Unknown",
+            "Invited: Graph Learning for Parameter Prediction of Quantum Approximate Optimization Algorithm."
+        ]
+    ],
+    "Zhixin Song, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Hybrid Gate-Pulse Model for Variational Quantum Algorithms."
+        ],
+        [
+            "Unknown",
+            "Invited: Graph Learning for Parameter Prediction of Quantum Approximate Optimization Algorithm."
+        ]
+    ],
+    "Zichang He, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Hybrid Gate-Pulse Model for Variational Quantum Algorithms."
+        ],
+        [
+            "Unknown",
+            "Invited: Challenges and Opportunities of Quantum Optimization in Finance."
+        ]
+    ],
+    "Yiru Wang, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Hybrid Gate-Pulse Model for Variational Quantum Algorithms."
+        ]
+    ],
+    "Xuehai Qian, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Hybrid Gate-Pulse Model for Variational Quantum Algorithms."
+        ]
+    ],
+    "Bochen Tan, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Scalable Optimal Layout Synthesis for NISQ Quantum Processors."
+        ]
+    ],
+    "Nikolaj S. Bj\u00f8rner, Microsoft Research, Redmond, WA, USA": [
+        [
+            "Unknown",
+            "Scalable Optimal Layout Synthesis for NISQ Quantum Processors."
+        ]
+    ],
+    "Tirthak Patel, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Invited: Building Robust Quantum System Software for Technology-Specific Characteristics."
+        ]
+    ],
+    "Devesh Tiwari, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Invited: Building Robust Quantum System Software for Technology-Specific Characteristics."
+        ]
+    ],
+    "Qingfeng Wang, Zhejiang University, State Key Laboratory of Fluid Power Transmission and Control, Hangzhou, China": [
+        [
+            "Unknown",
+            "Ever more optimized simulations of fermionic systems on a quantum computer."
+        ]
+    ],
+    "Ming Li, Dublin City University, School of Electronic Engineering, Dublin, Ireland": [
+        [
+            "Unknown",
+            "Ever more optimized simulations of fermionic systems on a quantum computer."
+        ]
+    ],
+    "Johann Gro\u00dfsch\u00e4dl, University of Luxembourg": [
+        [
+            "Unknown",
+            "RISC-V Instruction Set Extensions for Multi-Precision Integer Arithmetic: A Case Study on Post-Quantum Key Exchange Using CSIDH-512."
+        ]
+    ],
+    "Thinh Hung Pham, Nanyang Technological University, Singapore": [
+        [
+            "Unknown",
+            "RISC-V Instruction Set Extensions for Multi-Precision Integer Arithmetic: A Case Study on Post-Quantum Key Exchange Using CSIDH-512."
+        ]
+    ],
+    "Shouvanik Chakrabarti, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Invited: Challenges and Opportunities of Quantum Optimization in Finance."
+        ]
+    ],
+    "Changhao Li, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Invited: Challenges and Opportunities of Quantum Optimization in Finance."
+        ]
+    ],
+    "Ruslan Shaydulin, JPMorgan Chase & Co, New York, NY, USA": [
+        [
+            "Unknown",
+            "Invited: Challenges and Opportunities of Quantum Optimization in Finance."
+        ]
+    ],
+    "Yue Sun, Soochow University, School of Rail Transportation, Suzhou, China": [
+        [
+            "Unknown",
+            "Invited: Challenges and Opportunities of Quantum Optimization in Finance."
+        ]
+    ],
+    "Marco Pistoia, JPMorgan Chase, New York, NY, USA": [
+        [
+            "Unknown",
+            "Invited: Challenges and Opportunities of Quantum Optimization in Finance."
+        ]
+    ],
+    "Gang Liu 0025, University of Notre Dame, Department of Computer Science and Engineering, IN, USA": [
+        [
+            "Unknown",
+            "Invited: Graph Learning for Parameter Prediction of Quantum Approximate Optimization Algorithm."
+        ]
+    ],
+    "Zheyuan Liu 0010, University of Notre Dame, IN, USA": [
+        [
+            "Unknown",
+            "Invited: Graph Learning for Parameter Prediction of Quantum Approximate Optimization Algorithm."
+        ]
+    ],
+    "Kecheng Liu, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Invited: Graph Learning for Parameter Prediction of Quantum Approximate Optimization Algorithm."
+        ]
+    ],
+    "Costin Iancu, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Effective Quantum Resource Optimization via Circuit Resizing in BQSKit."
+        ]
+    ],
+    "Wibe Albert de Jong, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Effective Quantum Resource Optimization via Circuit Resizing in BQSKit."
+        ]
+    ],
+    "Xiangyu Ren, Unknown Affiliation": [
+        [
+            "Unknown",
+            "Invited: Leveraging Machine Learning for Quantum Compilation Optimization."
+        ]
+    ],
+    "Shengyu Zhang 0002, Chinese University of Hong Kong, Shatin, Hong Kong": [
+        [
+            "Unknown",
+            "Invited: Leveraging Machine Learning for Quantum Compilation Optimization."
+        ]
+    ],
+    "Liqiang Lu, Unknown Affiliation": [
+        [
+            "Unknown",
+            "SpREM: Exploiting Hamming Sparsity for Fast Quantum Readout Error Mitigation."
+        ]
+    ],
+    "Size Zheng 0001, Peking University, China": [
+        [
+            "Unknown",
+            "SpREM: Exploiting Hamming Sparsity for Fast Quantum Readout Error Mitigation."
+        ]
+    ],
+    "Jia Yu, Unknown Affiliation": [
+        [
+            "Unknown",
+            "SpREM: Exploiting Hamming Sparsity for Fast Quantum Readout Error Mitigation."
+        ]
+    ],
+    "Jianwei Yin, Unknown Affiliation": [
+        [
+            "Unknown",
+            "SpREM: Exploiting Hamming Sparsity for Fast Quantum Readout Error Mitigation."
+        ]
+    ]
+}
