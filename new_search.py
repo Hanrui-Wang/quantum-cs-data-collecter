@@ -93,6 +93,7 @@ def get_dblp_author_profile(author_name):
     author_cache_path = f"cache/authors/{author_name.replace(' ', '_')}.json"
     author_cache = load_cache(author_cache_path)
     
+    # Return cached profile URL if available
     if 'profile_url' in author_cache:
         return author_cache['profile_url']
     
@@ -100,7 +101,7 @@ def get_dblp_author_profile(author_name):
     params = {"q": author_name, "format": "xml", "h": 1}
 
     try:
-        response = requests.get(search_url)
+        response = requests.get(search_url, params=params)  # Pass params here
         if response.status_code == 429:
             print("Rate limited. Sleeping before retry...")
             time.sleep(random.uniform(60, 120))
@@ -108,15 +109,20 @@ def get_dblp_author_profile(author_name):
         if response.status_code != 200:
             raise Exception(f"Failed to query DBLP: Status Code {response.status_code}")
         
+        # Parse the XML response
         root = ET.fromstring(response.content)
         author_entry = root.find(".//hits/hit/info/url")
         profile_url = author_entry.text if author_entry is not None else None
+        
+        # Cache the profile URL
         author_cache['profile_url'] = profile_url
         save_cache(author_cache, author_cache_path)
+        
         return profile_url
     except Exception as e:
         print(f"Error fetching DBLP author profile: {e}")
     return None
+
 
 
 def get_dblp_publication_count(author_url):
