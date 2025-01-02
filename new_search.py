@@ -4,7 +4,7 @@ import time
 import random
 import json
 import os
-
+import csv
 
 # ---------------------------- Utility Functions ----------------------------
 
@@ -68,7 +68,12 @@ def query_dblp(keyword, venue, year, max_results=50):
 
 
 def fetch_all_conference_papers():
-    """Fetch papers from multiple conferences and years."""
+    """
+    Fetch papers from multiple conferences and years, adding venue and year to each paper entry.
+    
+    Returns:
+        List[Dict]: A list of paper dictionaries with 'title', 'authors', 'conference', 'venue', and 'year'.
+    """
     keyword = "quantum"
     venues = ["NeurIPS", "DAC", "AAAI", "ICCAD"]
     years = range(2020, 2025)
@@ -78,12 +83,21 @@ def fetch_all_conference_papers():
         for year in years:
             print(f"Querying {venue} {year}...")
             is_sleep, papers = query_dblp(keyword, venue, year)
+            
+            # Add venue and year to each paper
+            for paper in papers:
+                paper['venue'] = venue
+                paper['year'] = year
+                paper['conference'] = f"{venue}{year}"
+            
             all_papers.extend(papers)
+            
             if is_sleep:
                 time.sleep(random.uniform(2, 5))
     
     save_cache(all_papers, 'cache/all_papers.json')
     return all_papers
+
 
 
 # ---------------------------- Stage 2: Process and Cache Author Profiles ----------------------------
@@ -200,13 +214,108 @@ def build_professor_paper_dict(papers):
     return professor_dict
 
 
+def build_professor_paper_count_dict(papers):
+    """
+    Build a dictionary of professors with their paper counts per conference.
+
+    Args:
+        papers (List[Dict]): List of paper dictionaries with 'title', 'authors', and 'conference'.
+
+    Returns:
+        Dict[str, List[str]]: Dictionary with professor name+affiliation as key,
+                              and a list of paper counts per conference as values.
+    """
+    professor_count_dict = {}
+    conference_author_paper_count = {}
+
+    # Step 1: Count papers per author per conference
+    for paper in papers:
+        conference = paper.get('conference', 'Unknown Conference')
+        authors = paper.get('authors', [])
+        
+        for author in authors:
+            author_cache_path = f"cache/authors/{author.replace(' ', '_')}.json"
+            author_data = load_cache(author_cache_path)
+            
+            # Check if the author is a professor
+            if author_data.get('is_professor'):
+                affiliation = author_data.get('affiliation', 'Unknown Affiliation')
+                key = f"{author}, {affiliation}"
+                
+                # Initialize entry if not exists
+                if key not in conference_author_paper_count:
+                    conference_author_paper_count[key] = {}
+                
+                # Increment count for the conference
+                if conference not in conference_author_paper_count[key]:
+                    conference_author_paper_count[key][conference] = 0
+                conference_author_paper_count[key][conference] += 1
+
+    # Step 2: Format the dictionary
+    for professor, conf_counts in conference_author_paper_count.items():
+        professor_count_dict[professor] = [
+            f"{conf}, {count}" for conf, count in conf_counts.items()
+        ]
+    
+    # Save to JSON cache
+    save_cache(professor_count_dict, 'professor_paper_counts.json')
+    
+    return professor_count_dict
+
+
+def generate_professor_paper_count_csv(professor_paper_count_dict, output_file='professor_paper_counts.csv'):
+    """
+    Generate a CSV file summarizing professor paper counts per conference with two-digit year format,
+    handling multiple commas in affiliation, and including the author URL.
+
+    Args:
+        professor_paper_count_dict (Dict): Dictionary with professor name+affiliation as keys,
+                                           and a list of paper counts per conference as values.
+        output_file (str): Path to the output CSV file.
+    """
+    with open(output_file, mode='w', newline='') as csvfile:
+        csv_writer = csv.writer(csvfile)
+        
+        # Write header row
+        csv_writer.writerow(['Professor Name', 'Affiliation', 'Paper Counts', 'Author URL'])
+        
+        # Process each professor entry
+        for key, counts in professor_paper_count_dict.items():
+            # Split the key into name and affiliation (split only on the first comma)
+            parts = key.split(',', 1)
+            professor_name = parts[0].strip()
+            affiliation = parts[1].strip() if len(parts) > 1 else 'Unknown Affiliation'
+            
+            # Format the counts into the desired format with two-digit year
+            formatted_counts = "; ".join([
+                f"{entry.split(',')[0][:-4]}({entry.split(',')[0][-2:]}):{entry.split(',')[1]}"
+                for entry in counts
+            ])
+            
+            # Fetch author URL from the cache
+            author_cache_path = f"cache/authors/{professor_name.replace(' ', '_')}.json"
+            author_data = load_cache(author_cache_path)
+            author_url = author_data.get('profile_url', 'Unknown URL')
+            
+            # Write the row to CSV
+            csv_writer.writerow([professor_name, affiliation, formatted_counts, author_url])
+    
+    print(f"CSV file successfully generated: {output_file}")
+
+
+
 # ---------------------------- Main Program ----------------------------
 
 def main():
     papers = fetch_all_conference_papers()
-    process_all_authors(papers)
-    professor_dict = build_professor_paper_dict(papers)
-    print(json.dumps(professor_dict, indent=4))
+    process_all_authors(papers) # Uncomment for first time run
+    professor_paper_count_dict = build_professor_paper_count_dict(papers)    
+    print(json.dumps(professor_paper_count_dict, indent=4))
+
+    generate_professor_paper_count_csv(professor_paper_count_dict)
+
+    # professor_dict = build_professor_paper_dict(papers)
+    # print(json.dumps(professor_dict, indent=4))
 
 
 if __name__ == "__main__":

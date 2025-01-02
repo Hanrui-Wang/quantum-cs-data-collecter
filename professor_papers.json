@@ -1,758 +1,2058 @@
 {
+    "Dinesh Khandelwal, Unknown Affiliation": [
+        [
+            "NeurIPS2020",
+            "Inductive Quantum Embedding."
+        ]
+    ],
+    "Dinesh Garg, Unknown Affiliation": [
+        [
+            "NeurIPS2020",
+            "Inductive Quantum Embedding."
+        ]
+    ],
+    "Hima Karanam, Unknown Affiliation": [
+        [
+            "NeurIPS2020",
+            "Inductive Quantum Embedding."
+        ]
+    ],
+    "L. Venkata Subramaniam, IBM India Research Lab": [
+        [
+            "NeurIPS2020",
+            "Inductive Quantum Embedding."
+        ]
+    ],
+    "Sho Sonoda, Unknown Affiliation": [
+        [
+            "NeurIPS2020",
+            "Learning with Optimized Random Features: Exponential Speedup by Quantum Machine Learning without Sparsity and Low-Rank Assumptions."
+        ]
+    ],
+    "Mei Si, Federal University of Pernambuco, Recife, Brazil": [
+        [
+            "NeurIPS2020",
+            "Playing Atari with Hybrid Quantum-Classical Reinforcement Learning."
+        ]
+    ],
+    "Hans J. Briegel, University of Innsbruck, Institute for Theoretical Physics, Austria": [
+        [
+            "NeurIPS2021",
+            "Parametrized Quantum Policies for Reinforcement Learning."
+        ]
+    ],
+    "Vedran Dunjko, Leiden University, The Netherlands": [
+        [
+            "NeurIPS2021",
+            "Parametrized Quantum Policies for Reinforcement Learning."
+        ],
+        [
+            "NeurIPS2021",
+            "Reinforcement learning for optimization of variational quantum circuit architectures."
+        ]
+    ],
+    "Bernhard Sch\u00f6lkopf, Max Planck Institute for Intelligent Systems, T\u00fcbingen, Germany": [
+        [
+            "NeurIPS2021",
+            "The Inductive Bias of Quantum Kernels."
+        ]
+    ],
+    "Mateusz Ostaszewski, Unknown Affiliation": [
+        [
+            "NeurIPS2021",
+            "Reinforcement learning for optimization of variational quantum circuit architectures."
+        ]
+    ],
+    "Wojciech Masarczyk, Unknown Affiliation": [
+        [
+            "NeurIPS2021",
+            "Reinforcement learning for optimization of variational quantum circuit architectures."
+        ]
+    ],
+    "Yihui Quek, Unknown Affiliation": [
+        [
+            "NeurIPS2021",
+            "Private learning implies quantum stability."
+        ]
+    ],
+    "Srinivasan Arunachalam, Unknown Affiliation": [
+        [
+            "NeurIPS2021",
+            "Private learning implies quantum stability."
+        ]
+    ],
+    "John A. Smolin, Unknown Affiliation": [
+        [
+            "NeurIPS2021",
+            "Private learning implies quantum stability."
+        ]
+    ],
+    "Hongwei Chen, Unknown Affiliation": [
+        [
+            "NeurIPS2022",
+            "Systematic improvement of neural network quantum states using Lanczos."
+        ]
+    ],
+    "Andrew M. Childs, University of Maryland, College Park, MD, USA": [
+        [
+            "NeurIPS2022",
+            "Quantum Algorithms for Sampling Log-Concave Distributions and Estimating Normalizing Constants."
+        ],
+        [
+            "AAAI2021",
+            "Quantum Exploration Algorithms for Multi-Armed Bandits."
+        ]
+    ],
+    "Tongyang Li, Unknown Affiliation": [
+        [
+            "NeurIPS2022",
+            "Quantum Algorithms for Sampling Log-Concave Distributions and Estimating Normalizing Constants."
+        ],
+        [
+            "NeurIPS2022",
+            "Quantum Speedups of Optimizing Approximately Convex Functions with Applications to Logarithmic Regret Stochastic Convex Bandits."
+        ],
+        [
+            "NeurIPS2023",
+            "Logarithmic-Regret Quantum Learning Algorithms for Zero-Sum Games."
+        ],
+        [
+            "AAAI2021",
+            "Sublinear Classical and Quantum Algorithms for General Matrix Games."
+        ],
+        [
+            "AAAI2021",
+            "Quantum Exploration Algorithms for Multi-Armed Bandits."
+        ],
+        [
+            "AAAI2023",
+            "Quantum Multi-Armed Bandits and Stochastic Linear Bandits Enjoy Logarithmic Regrets."
+        ]
+    ],
+    "Jin-Peng Liu, Unknown Affiliation": [
+        [
+            "NeurIPS2022",
+            "Quantum Algorithms for Sampling Log-Concave Distributions and Estimating Normalizing Constants."
+        ]
+    ],
+    "Ruizhe Zhang 0001, University of Texas at Austin, TX, USA": [
+        [
+            "NeurIPS2022",
+            "Quantum Algorithms for Sampling Log-Concave Distributions and Estimating Normalizing Constants."
+        ],
+        [
+            "NeurIPS2022",
+            "Quantum Speedups of Optimizing Approximately Convex Functions with Applications to Logarithmic Regret Stochastic Convex Bandits."
+        ]
+    ],
+    "Rahul Jain, National University of Singapore, Centre for Quantum Technologies (CQT), Singapore": [
+        [
+            "NeurIPS2022",
+            "Matrix Multiplicative Weights Updates in Quantum Zero-Sum Games: Conservation Laws & Recurrence."
+        ]
+    ],
+    "Georgios Piliouras, Singapore University of Technology and Design": [
+        [
+            "NeurIPS2022",
+            "Matrix Multiplicative Weights Updates in Quantum Zero-Sum Games: Conservation Laws & Recurrence."
+        ]
+    ],
+    "Yi-Ling Qiao, Unknown Affiliation": [
+        [
+            "NeurIPS2022",
+            "Differentiable Analog Quantum Computing for Optimization and Control."
+        ]
+    ],
+    "Xiaodi Wu 0001, University of Maryland, College Park, MA, USA": [
+        [
+            "NeurIPS2022",
+            "Differentiable Analog Quantum Computing for Optimization and Control."
+        ],
+        [
+            "AAAI2021",
+            "Sublinear Classical and Quantum Algorithms for General Matrix Games."
+        ],
+        [
+            "ICCAD2021",
+            "ICCAD Special Session Paper: Quantum Variational Methods for Quantum Applications."
+        ]
+    ],
+    "Xin Wang 0022, Hong Kong University of Science and Technology, Thrust of Artificial Intelligence, Information Hub, Guangzhou, China": [
+        [
+            "NeurIPS2022",
+            "Concentration of Data Encoding in Parameterized Quantum Circuits."
+        ],
+        [
+            "NeurIPS2022",
+            "Power and limitations of single-qubit native quantum neural networks."
+        ],
+        [
+            "NeurIPS2023",
+            "Statistical Analysis of Quantum State Learning Process in Quantum Neural Networks."
+        ],
+        [
+            "AAAI2021",
+            "VSQL: Variational Shadow Quantum Learning for Classification."
+        ]
+    ],
+    "Yehui Tang, Unknown Affiliation": [
+        [
+            "NeurIPS2022",
+            "GraphQNTK: Quantum Neural Tangent Kernel for Graph Data."
+        ]
+    ],
+    "Junchi Yan, Unknown Affiliation": [
+        [
+            "NeurIPS2022",
+            "GraphQNTK: Quantum Neural Tangent Kernel for Graph Data."
+        ]
+    ],
+    "Zhan Yu, Xiamen University, Software School, China": [
+        [
+            "NeurIPS2022",
+            "Power and limitations of single-qubit native quantum neural networks."
+        ]
+    ],
+    "Kaining Zhang, Unknown Affiliation": [
+        [
+            "NeurIPS2022",
+            "Escaping from the Barren Plateau via Gaussian Initializations in Deep Variational Quantum Circuits."
+        ],
+        [
+            "AAAI2023",
+            "Offline Quantum Reinforcement Learning in a Conservative Manner."
+        ]
+    ],
+    "Min-Hsiu Hsieh, Unknown Affiliation": [
+        [
+            "NeurIPS2022",
+            "Escaping from the Barren Plateau via Gaussian Initializations in Deep Variational Quantum Circuits."
+        ]
+    ],
+    "Dacheng Tao, Nanyang Technological University, Singapore": [
+        [
+            "NeurIPS2022",
+            "Escaping from the Barren Plateau via Gaussian Initializations in Deep Variational Quantum Circuits."
+        ],
+        [
+            "AAAI2023",
+            "Offline Quantum Reinforcement Learning in a Conservative Manner."
+        ]
+    ],
+    "Kirill Neklyudov, Unknown Affiliation": [
+        [
+            "NeurIPS2023",
+            "Wasserstein Quantum Monte Carlo: A Novel Approach for Solving the Quantum Many-Body Schr\u00f6dinger Equation."
+        ]
+    ],
+    "Juan Carrasquilla, Unknown Affiliation": [
+        [
+            "NeurIPS2023",
+            "Wasserstein Quantum Monte Carlo: A Novel Approach for Solving the Quantum Many-Body Schr\u00f6dinger Equation."
+        ]
+    ],
+    "Qiang Liu, Unknown Affiliation": [
+        [
+            "NeurIPS2023",
+            "Wasserstein Quantum Monte Carlo: A Novel Approach for Solving the Quantum Many-Body Schr\u00f6dinger Equation."
+        ]
+    ],
+    "Max Welling, University of Amsterdam, Informatics Institute, The Netherlands": [
+        [
+            "NeurIPS2023",
+            "Wasserstein Quantum Monte Carlo: A Novel Approach for Solving the Quantum Many-Body Schr\u00f6dinger Equation."
+        ]
+    ],
+    "Alireza Makhzani, Unknown Affiliation": [
+        [
+            "NeurIPS2023",
+            "Wasserstein Quantum Monte Carlo: A Novel Approach for Solving the Quantum Many-Body Schr\u00f6dinger Equation."
+        ]
+    ],
+    "Hsin-Yuan Huang, Unknown Affiliation": [
+        [
+            "NeurIPS2023",
+            "On quantum backpropagation, information reuse, and cheating measurement collapse."
+        ]
+    ],
+    "Dar Gilboa, Unknown Affiliation": [
+        [
+            "NeurIPS2023",
+            "On quantum backpropagation, information reuse, and cheating measurement collapse."
+        ]
+    ],
+    "Jarrod R. McClean, Unknown Affiliation": [
+        [
+            "NeurIPS2023",
+            "On quantum backpropagation, information reuse, and cheating measurement collapse."
+        ]
+    ],
+    "Noam Razin, Unknown Affiliation": [
+        [
+            "NeurIPS2023",
+            "What Makes Data Suitable for a Locally Connected Neural Network? A Necessary and Sufficient Condition Based on Quantum Entanglement."
+        ]
+    ],
+    "Nadav Cohen, Unknown Affiliation": [
+        [
+            "NeurIPS2023",
+            "What Makes Data Suitable for a Locally Connected Neural Network? A Necessary and Sufficient Condition Based on Quantum Entanglement."
+        ]
+    ],
+    "Marin Soljacic, Unknown Affiliation": [
+        [
+            "NeurIPS2023",
+            "ANTN: Bridging Autoregressive Neural Networks and Tensor Networks for Quantum Many-Body Simulation."
+        ],
+        [
+            "NeurIPS2023",
+            "QuACK: Accelerating Gradient-Based Quantum Optimization with Koopman Operator Learning."
+        ]
+    ],
+    "Zhongxiang Dai, Unknown Affiliation": [
+        [
+            "NeurIPS2023",
+            "Quantum Bayesian Optimization."
+        ]
+    ],
+    "Arun Verma, Unknown Affiliation": [
+        [
+            "NeurIPS2023",
+            "Quantum Bayesian Optimization."
+        ]
+    ],
+    "Bryan Kian Hsiang Low, Unknown Affiliation": [
+        [
+            "NeurIPS2023",
+            "Quantum Bayesian Optimization."
+        ]
+    ],
+    "Patrick Jaillet, MIT, USA": [
+        [
+            "NeurIPS2023",
+            "Quantum Bayesian Optimization."
+        ]
+    ],
+    "Zhengfeng Ji, Unknown Affiliation": [
+        [
+            "NeurIPS2023",
+            "Logarithmic-Regret Quantum Learning Algorithms for Zero-Sum Games."
+        ]
+    ],
+    "Woo Youn Kim, Unknown Affiliation": [
+        [
+            "NeurIPS2023",
+            "GeoTMI: Predicting Quantum Chemical Property with Easy-to-Obtain Geometry via Positional Denoising."
+        ]
+    ],
+    "Xiao-Yang Liu, Unknown Affiliation": [
+        [
+            "NeurIPS2023",
+            "Classical Simulation of Quantum Circuits: Parallel Environments and Benchmark."
+        ]
+    ],
+    "Panayotis Mertikopoulos, Universit\u00e9 Grenoble Alpes, Grenoble INP, LIG, France": [
+        [
+            "NeurIPS2023",
+            "Payoff-based Learning with Matrix Multiplicative Weights in Quantum Games."
+        ]
+    ],
+    "Nicholas Bambos, Stanford University, USA": [
+        [
+            "NeurIPS2023",
+            "Payoff-based Learning with Matrix Multiplicative Weights in Quantum Games."
+        ]
+    ],
+    "Jose H. Blanchet, Stanford University, Department of Management Science & Engineering, CA, USA": [
+        [
+            "NeurIPS2023",
+            "Payoff-based Learning with Matrix Multiplicative Weights in Quantum Games."
+        ]
+    ],
+    "Rumen Dangovski, Unknown Affiliation": [
+        [
+            "NeurIPS2023",
+            "QuACK: Accelerating Gradient-Based Quantum Optimization with Koopman Operator Learning."
+        ]
+    ],
+    "Christopher J. Anders, Unknown Affiliation": [
+        [
+            "NeurIPS2023",
+            "Physics-Informed Bayesian Optimization of Variational Quantum Circuits."
+        ]
+    ],
+    "Karl Jansen, University of Cyprus, Nicosia, Cyprus": [
+        [
+            "NeurIPS2023",
+            "Physics-Informed Bayesian Optimization of Variational Quantum Circuits."
+        ]
+    ],
+    "Klaus-Robert M\u00fcller, Technical University of Berlin, Germany": [
+        [
+            "NeurIPS2023",
+            "Physics-Informed Bayesian Optimization of Variational Quantum Circuits."
+        ]
+    ],
+    "Pan Kessel, Unknown Affiliation": [
+        [
+            "NeurIPS2023",
+            "Physics-Informed Bayesian Optimization of Variational Quantum Circuits."
+        ]
+    ],
+    "Aaron Sidford, Stanford University, CA, USA": [
+        [
+            "NeurIPS2023",
+            "Quantum speedups for stochastic optimization."
+        ]
+    ],
+    "Chenyi Zhang, Unknown Affiliation": [
+        [
+            "NeurIPS2023",
+            "Quantum speedups for stochastic optimization."
+        ]
+    ],
+    "Haiyang Yu, Beijing University of Technology, Data Mining and Security Lab and Beijing Key Laboratory of Trusted Computing, China": [
+        [
+            "NeurIPS2023",
+            "QH9: A Quantum Hamiltonian Prediction Benchmark for QM9 Molecules."
+        ]
+    ],
+    "Meng Liu 0015, Texas A&M University, Department of Computer Science and Engineering, College Station, TX, USA": [
+        [
+            "NeurIPS2023",
+            "QH9: A Quantum Hamiltonian Prediction Benchmark for QM9 Molecules."
+        ]
+    ],
+    "Youzhi Luo, Unknown Affiliation": [
+        [
+            "NeurIPS2023",
+            "QH9: A Quantum Hamiltonian Prediction Benchmark for QM9 Molecules."
+        ]
+    ],
+    "Xiaoning Qian, Unknown Affiliation": [
+        [
+            "NeurIPS2023",
+            "QH9: A Quantum Hamiltonian Prediction Benchmark for QM9 Molecules."
+        ]
+    ],
+    "Shuiwang Ji, Texas A&M University, College Station, TX, USA": [
+        [
+            "NeurIPS2023",
+            "QH9: A Quantum Hamiltonian Prediction Benchmark for QM9 Molecules."
+        ]
+    ],
     "James Chien-Mo Li, National Taiwan University, Taipei, Taiwan": [
         [
-            "Unknown",
+            "DAC2020",
             "Realistic Fault Models and Fault Simulation for Quantum Dot Quantum Circuits."
         ]
     ],
     "Lukas Burgholzer, Technical University of Munich, Germany": [
         [
-            "Unknown",
+            "DAC2020",
             "Improved DD-based Equivalence Checking of Quantum Circuits."
         ],
         [
-            "Unknown",
+            "DAC2020",
             "The Power of Simulation for Equivalence Checking in Quantum Computing."
         ],
         [
-            "Unknown",
+            "DAC2021",
             "Random Stimuli Generation for the Verification of Quantum Circuits."
         ],
         [
-            "Unknown",
+            "DAC2022",
             "Limiting the Search Space in Optimal Quantum Circuit Mapping."
         ],
         [
-            "Unknown",
+            "DAC2022",
             "Handling non-unitaries in quantum circuit equivalence checking."
         ],
         [
-            "Unknown",
+            "DAC2022",
             "Equivalence checking paradigms in quantum circuit design: a case study."
         ],
         [
-            "Unknown",
+            "DAC2022",
             "The basis of design tools for quantum computing: arrays, decision diagrams, tensor networks, and ZX-calculus."
         ],
         [
-            "Unknown",
+            "DAC2023",
             "Equivalence Checking of Parameterized Quantum Circuits: Verifying the Compilation of Variational Quantum Algorithms."
         ],
         [
-            "Unknown",
+            "DAC2023",
             "Software Tools for Decoding Quantum Low-Density Parity-Check Codes."
         ],
         [
-            "Unknown",
+            "DAC2023",
             "Compiler Optimization for Quantum Computing Using Reinforcement Learning."
+        ],
+        [
+            "ICCAD2020",
+            "JKQ: JKU Tools for Quantum Computing."
         ]
     ],
     "Robert Wille, Free University of Amsterdam, Netherlands": [
         [
-            "Unknown",
+            "DAC2020",
             "Improved DD-based Equivalence Checking of Quantum Circuits."
         ],
         [
-            "Unknown",
+            "DAC2020",
             "Concurrency in DD-based Quantum Circuit Simulation."
         ],
         [
-            "Unknown",
+            "DAC2020",
             "Approximation of Quantum States Using Decision Diagrams."
         ],
         [
-            "Unknown",
+            "DAC2020",
             "The Power of Simulation for Equivalence Checking in Quantum Computing."
         ],
         [
-            "Unknown",
+            "DAC2020",
             "Just Like the Real Thing: Fast Weak Simulation of Quantum Computation."
         ],
         [
-            "Unknown",
+            "DAC2021",
             "Exploiting Quantum Teleportation in Quantum Circuit Mapping."
         ],
         [
-            "Unknown",
+            "DAC2021",
             "Random Stimuli Generation for the Verification of Quantum Circuits."
         ],
         [
-            "Unknown",
+            "DAC2022",
             "Limiting the Search Space in Optimal Quantum Circuit Mapping."
         ],
         [
-            "Unknown",
+            "DAC2022",
             "Handling non-unitaries in quantum circuit equivalence checking."
         ],
         [
-            "Unknown",
+            "DAC2022",
             "Equivalence checking paradigms in quantum circuit design: a case study."
         ],
         [
-            "Unknown",
+            "DAC2022",
             "The basis of design tools for quantum computing: arrays, decision diagrams, tensor networks, and ZX-calculus."
         ],
         [
-            "Unknown",
+            "DAC2023",
             "Equivalence Checking of Parameterized Quantum Circuits: Verifying the Compilation of Variational Quantum Algorithms."
         ],
         [
-            "Unknown",
+            "DAC2023",
             "Software Tools for Decoding Quantum Low-Density Parity-Check Codes."
         ],
         [
-            "Unknown",
+            "DAC2023",
             "Compilation of Entangling Gates for High-Dimensional Quantum Systems."
         ],
         [
-            "Unknown",
+            "DAC2023",
             "Compiler Optimization for Quantum Computing Using Reinforcement Learning."
         ],
         [
-            "Unknown",
+            "DAC2024",
             "RCGP: An Automatic Synthesis Framework for Reversible Quantum-Flux-Parametron Logic Circuits based on Efficient Cartesian Genetic Programming."
         ],
         [
-            "Unknown",
+            "DAC2024",
             "Hybrid Circuit Mapping: Leveraging the Full Spectrum of Computational Capabilities of Neutral Atom Quantum Computers."
+        ],
+        [
+            "ICCAD2020",
+            "Considering Decoherence Errors in the Simulation of Quantum Circuits Using Decision Diagrams."
+        ],
+        [
+            "ICCAD2020",
+            "JKQ: JKU Tools for Quantum Computing."
         ]
     ],
     "Stefan Hillmich, Johannes Kepler Universit\u00e4t Linz, Austria": [
         [
-            "Unknown",
+            "DAC2020",
             "Concurrency in DD-based Quantum Circuit Simulation."
         ],
         [
-            "Unknown",
+            "DAC2020",
             "Approximation of Quantum States Using Decision Diagrams."
         ],
         [
-            "Unknown",
+            "DAC2020",
             "Just Like the Real Thing: Fast Weak Simulation of Quantum Computation."
         ],
         [
-            "Unknown",
+            "DAC2021",
             "Exploiting Quantum Teleportation in Quantum Circuit Mapping."
         ],
         [
-            "Unknown",
+            "DAC2022",
             "The basis of design tools for quantum computing: arrays, decision diagrams, tensor networks, and ZX-calculus."
         ],
         [
-            "Unknown",
+            "DAC2023",
             "Compilation of Entangling Gates for High-Dimensional Quantum Systems."
+        ],
+        [
+            "ICCAD2020",
+            "JKQ: JKU Tools for Quantum Computing."
         ]
     ],
     "Alwin Zulehner, Johannes Kepler University Linz, Austria": [
         [
-            "Unknown",
+            "DAC2020",
             "Concurrency in DD-based Quantum Circuit Simulation."
         ],
         [
-            "Unknown",
+            "DAC2020",
             "Approximation of Quantum States Using Decision Diagrams."
         ],
         [
-            "Unknown",
+            "DAC2021",
             "Exploiting Quantum Teleportation in Quantum Circuit Mapping."
         ]
     ],
     "Igor L. Markov, Facebook Inc., Menlo Park, CA, USA": [
         [
-            "Unknown",
+            "DAC2020",
             "Approximation of Quantum States Using Decision Diagrams."
         ],
         [
-            "Unknown",
+            "DAC2020",
             "Just Like the Real Thing: Fast Weak Simulation of Quantum Computation."
         ],
         [
-            "Unknown",
+            "DAC2020",
             "Massively Parallel Approximate Simulation of Hard Quantum Circuits."
         ],
         [
-            "Unknown",
+            "DAC2023",
             "Ever more optimized simulations of fermionic systems on a quantum computer."
         ]
     ],
     "Abdullah Ash-Saki, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2020",
             "An Efficient Circuit Compilation Flow for Quantum Approximate Optimization Algorithm."
+        ],
+        [
+            "ICCAD2020",
+            "Noise Resilient Compilation Policies for Quantum Approximate Optimization Algorithm."
+        ],
+        [
+            "ICCAD2021",
+            "Split Compilation for Security of Quantum Circuits."
         ]
     ],
     "Swaroop Ghosh, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2020",
             "An Efficient Circuit Compilation Flow for Quantum Approximate Optimization Algorithm."
         ],
         [
-            "Unknown",
+            "DAC2021",
             "Invited: Drug Discovery Approaches using Quantum Machine Learning."
         ],
         [
-            "Unknown",
+            "DAC2023",
             "Knowledge Distillation in Quantum Neural Network Using Approximate Synthesis."
+        ],
+        [
+            "ICCAD2020",
+            "Noise Resilient Compilation Policies for Quantum Approximate Optimization Algorithm."
+        ],
+        [
+            "ICCAD2021",
+            "Quantum-Classical Hybrid Machine Learning for Image Classification (ICCAD Special Session Paper)."
+        ],
+        [
+            "ICCAD2021",
+            "Split Compilation for Security of Quantum Circuits."
+        ],
+        [
+            "ICCAD2022",
+            "Quantum Machine Learning for Material Synthesis and Hardware Security (Invited Paper)."
         ]
     ],
     "Gushu Li, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2020",
             "Eliminating Redundant Computation in Noisy Quantum Computing Simulation."
         ],
         [
-            "Unknown",
+            "DAC2024",
             "Fast Virtual Gate Extraction For Silicon Quantum Dot Devices."
         ]
     ],
     "Yufei Ding, University of California at Santa Barbara, CA, USA": [
         [
-            "Unknown",
+            "DAC2020",
             "Eliminating Redundant Computation in Noisy Quantum Computing Simulation."
         ]
     ],
     "Yuan Xie 0001, Alibaba DAMO Academy": [
         [
-            "Unknown",
+            "DAC2020",
             "Eliminating Redundant Computation in Noisy Quantum Computing Simulation."
+        ]
+    ],
+    "Richard Kueng, Unknown Affiliation": [
+        [
+            "DAC2021",
+            "Random Stimuli Generation for the Verification of Quantum Circuits."
         ]
     ],
     "Weiwen Jiang, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2021",
             "When Machine Learning Meets Quantum Computers: A Case Study."
         ],
         [
-            "Unknown",
+            "DAC2023",
             "Battle Against Fluctuating Quantum Noise: Compression-Aided Framework to Enable Robust Quantum Neural Network."
         ],
         [
-            "Unknown",
+            "DAC2024",
             "QuGeo: An End-to-end Quantum Learning Framework for Geoscience - A Case Study on Full-Waveform Inversion."
+        ],
+        [
+            "ICCAD2021",
+            "Can Noise on Qubits Be Learned in Quantum Neural Network? A Case Study on QuantumFlow (Invited Paper)."
+        ],
+        [
+            "ICCAD2021",
+            "Exploration of Quantum Neural Architecture by Mixing Quantum Neuron Designs: (Invited Paper)."
+        ],
+        [
+            "ICCAD2022",
+            "TorchQuantum Case Study for Robust Quantum Circuits."
+        ],
+        [
+            "ICCAD2022",
+            "Quantum Neural Network Compression."
         ]
     ],
     "Jinjun Xiong, University at Buffalo, Buffalo, NY, USA": [
         [
-            "Unknown",
+            "DAC2021",
             "When Machine Learning Meets Quantum Computers: A Case Study."
         ]
     ],
     "Yiyu Shi 0001, University of Notre Dame, Sustainable Computing Laboratory, USA": [
         [
-            "Unknown",
+            "DAC2021",
             "When Machine Learning Meets Quantum Computers: A Case Study."
         ],
         [
-            "Unknown",
+            "DAC2023",
             "Hybrid Gate-Pulse Model for Variational Quantum Algorithms."
         ],
         [
-            "Unknown",
+            "DAC2024",
             "Invited: Graph Learning for Parameter Prediction of Quantum Approximate Optimization Algorithm."
+        ],
+        [
+            "ICCAD2021",
+            "Can Noise on Qubits Be Learned in Quantum Neural Network? A Case Study on QuantumFlow (Invited Paper)."
+        ],
+        [
+            "ICCAD2021",
+            "Exploration of Quantum Neural Architecture by Mixing Quantum Neuron Designs: (Invited Paper)."
+        ],
+        [
+            "ICCAD2022",
+            "TorchQuantum Case Study for Robust Quantum Circuits."
         ]
     ],
     "Andrea Basso 0002, University of Bristol, UK": [
         [
-            "Unknown",
+            "DAC2021",
+            "Optimized Polynomial Multiplier Architectures for Post-Quantum KEM Saber."
+        ]
+    ],
+    "Sujoy Sinha Roy, Unknown Affiliation": [
+        [
+            "DAC2021",
             "Optimized Polynomial Multiplier Architectures for Post-Quantum KEM Saber."
         ]
     ],
     "Torsten Hoefler, ETH Z\u00fcrich": [
         [
-            "Unknown",
+            "DAC2021",
             "An Efficient Algorithm for Sparse Quantum State Preparation."
         ]
     ],
     "Mingsheng Ying, Centre for Quantum Software and Information, University of Technology Sydney, Australia": [
         [
-            "Unknown",
+            "DAC2021",
             "Approximate Equivalence Checking of Noisy Quantum Circuits."
+        ],
+        [
+            "ICCAD2022",
+            "Equivalence Checking of Dynamic Quantum Circuits."
         ]
     ],
     "Yuan Feng 0001, University of Technology Sydney, Center for Quantum Software and Information, NSW, Australia": [
         [
-            "Unknown",
+            "DAC2021",
             "Approximate Equivalence Checking of Noisy Quantum Circuits."
+        ],
+        [
+            "AAAI2023",
+            "Alternating Layered Variational Quantum Circuits Can Be Classically Optimized Efficiently Using Classical Shadows."
+        ],
+        [
+            "ICCAD2020",
+            "A Monte Carlo Tree Search Framework for Quantum Circuit Transformation."
+        ],
+        [
+            "ICCAD2022",
+            "Equivalence Checking of Dynamic Quantum Circuits."
+        ],
+        [
+            "ICCAD2023",
+            "Single-Qubit Gates Matter for Optimising Quantum Circuit Depth in Qubit Mapping."
         ]
     ],
     "Sanjiang Li, University of Technology Sydney, Australia": [
         [
-            "Unknown",
+            "DAC2021",
             "Approximate Equivalence Checking of Noisy Quantum Circuits."
+        ],
+        [
+            "AAAI2023",
+            "Alternating Layered Variational Quantum Circuits Can Be Classically Optimized Efficiently Using Classical Shadows."
+        ],
+        [
+            "ICCAD2020",
+            "A Monte Carlo Tree Search Framework for Quantum Circuit Transformation."
+        ],
+        [
+            "ICCAD2022",
+            "Equivalence Checking of Dynamic Quantum Circuits."
+        ],
+        [
+            "ICCAD2023",
+            "Single-Qubit Gates Matter for Optimising Quantum Circuit Depth in Qubit Mapping."
+        ]
+    ],
+    "Emre Karabulut, Unknown Affiliation": [
+        [
+            "DAC2021",
+            "FALCON Down: Breaking FALCON Post-Quantum Signature Scheme through Side-Channel Attacks."
         ]
     ],
     "Aydin Aysu, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2021",
             "FALCON Down: Breaking FALCON Post-Quantum Signature Scheme through Side-Channel Attacks."
         ]
     ],
     "Junde Li, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2021",
             "Invited: Drug Discovery Approaches using Quantum Machine Learning."
+        ],
+        [
+            "ICCAD2020",
+            "Noise Resilient Compilation Policies for Quantum Approximate Optimization Algorithm."
         ]
     ],
     "Nikolay V. Dokholyan, The University of North Carolina at Chapel Hill, Department of Biochemistry and Biophysics, NC, USA": [
         [
-            "Unknown",
+            "DAC2021",
             "Invited: Drug Discovery Approaches using Quantum Machine Learning."
+        ]
+    ],
+    "Rudy Raymond, IBM Research": [
+        [
+            "DAC2021",
+            "Invited: Trainable Discrete Feature Embeddings for Quantum Machine Learning."
         ]
     ],
     "Jie-Hong R. Jiang, National Taiwan University, Taipei, Taiwan": [
         [
-            "Unknown",
+            "DAC2021",
             "Bit-Slicing the Hilbert Space: Scaling Up Accurate Quantum Circuit Simulation."
         ],
         [
-            "Unknown",
+            "DAC2022",
             "Accurate BDD-based unitary operator manipulation for scalable and robust quantum circuit verification."
         ]
     ],
     "Masaaki Kondo, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2021",
             "QECOOL: On-Line Quantum Error Correction with a Superconducting Decoder for Surface Code."
         ]
     ],
     "Masamitsu Tanaka, Nagoya University, Japan": [
         [
-            "Unknown",
+            "DAC2021",
             "QECOOL: On-Line Quantum Error Correction with a Superconducting Decoder for Surface Code."
         ]
     ],
     "Prabhat Mishra 0001, University of Florida, Gainesville, USA": [
         [
-            "Unknown",
+            "DAC2021",
             "Quantum Spectral Clustering of Mixed Graphs."
         ],
         [
-            "Unknown",
+            "DAC2023",
             "Quantum Data Compression for Efficient Generation of Control Pulses."
         ]
     ],
     "Jiafeng Xie, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2021",
             "Efficient Implementation of Finite Field Arithmetic for Binary Ring-LWE Post-Quantum Cryptography Through a Novel Lookup-Table-Like Method."
         ]
     ],
     "Pengzhou He, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2021",
             "Efficient Implementation of Finite Field Arithmetic for Binary Ring-LWE Post-Quantum Cryptography Through a Novel Lookup-Table-Like Method."
+        ]
+    ],
+    "Jidong Zhai, Unknown Affiliation": [
+        [
+            "DAC2021",
+            "Mitigating Crosstalk in Quantum Computers through Commutativity-Based Instruction Reordering."
         ]
     ],
     "Weimin Zheng, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2021",
             "Mitigating Crosstalk in Quantum Computers through Commutativity-Based Instruction Reordering."
         ]
     ],
     "Hanrui Wang 0002, Massachusetts Institute of Technology, Cambridge, MA, USA": [
         [
-            "Unknown",
+            "DAC2022",
             "QuantumNAT: quantum noise-aware training with noise injection, quantization and normalization."
         ],
         [
-            "Unknown",
+            "DAC2022",
             "QOC: quantum on-chip training with parameter shift and gradient pruning."
         ],
         [
-            "Unknown",
+            "DAC2023",
             "Hybrid Gate-Pulse Model for Variational Quantum Algorithms."
+        ],
+        [
+            "ICCAD2022",
+            "TorchQuantum Case Study for Robust Quantum Circuits."
         ]
     ],
     "Jiaqi Gu 0002, University of Texas at Austin, Department of Electrical and Computer Engineering, Austin, TX, USA": [
         [
-            "Unknown",
+            "DAC2022",
             "QuantumNAT: quantum noise-aware training with noise injection, quantization and normalization."
         ],
         [
-            "Unknown",
+            "DAC2022",
             "QOC: quantum on-chip training with parameter shift and gradient pruning."
+        ],
+        [
+            "ICCAD2022",
+            "TorchQuantum Case Study for Robust Quantum Circuits."
         ]
     ],
     "Yongshan Ding 0001, Yale University, New Haven, CT, USA": [
         [
-            "Unknown",
+            "DAC2022",
             "QuantumNAT: quantum noise-aware training with noise injection, quantization and normalization."
         ],
         [
-            "Unknown",
+            "DAC2022",
             "QOC: quantum on-chip training with parameter shift and gradient pruning."
+        ],
+        [
+            "ICCAD2022",
+            "TorchQuantum Case Study for Robust Quantum Circuits."
         ]
     ],
     "Zirui Li, University of Minnesota, Minneapolis, MN, USA": [
         [
-            "Unknown",
+            "DAC2022",
             "QuantumNAT: quantum noise-aware training with noise injection, quantization and normalization."
         ],
         [
-            "Unknown",
+            "DAC2022",
             "QOC: quantum on-chip training with parameter shift and gradient pruning."
+        ],
+        [
+            "ICCAD2022",
+            "TorchQuantum Case Study for Robust Quantum Circuits."
         ]
     ],
     "Frederic T. Chong, University of Chicago, IL, USA": [
         [
-            "Unknown",
+            "DAC2022",
             "QuantumNAT: quantum noise-aware training with noise injection, quantization and normalization."
+        ],
+        [
+            "ICCAD2022",
+            "TorchQuantum Case Study for Robust Quantum Circuits."
         ]
     ],
     "David Z. Pan, University of Texas at Austin, USA": [
         [
-            "Unknown",
+            "DAC2022",
             "QuantumNAT: quantum noise-aware training with noise injection, quantization and normalization."
         ],
         [
-            "Unknown",
+            "DAC2022",
             "QOC: quantum on-chip training with parameter shift and gradient pruning."
+        ],
+        [
+            "ICCAD2022",
+            "TorchQuantum Case Study for Robust Quantum Circuits."
         ]
     ],
     "Song Han 0003, Massachusetts Institute of Technology, Cambridge, MA, USA": [
         [
-            "Unknown",
+            "DAC2022",
             "QuantumNAT: quantum noise-aware training with noise injection, quantization and normalization."
         ],
         [
-            "Unknown",
+            "DAC2022",
             "QOC: quantum on-chip training with parameter shift and gradient pruning."
         ],
         [
-            "Unknown",
+            "DAC2023",
             "Hybrid Gate-Pulse Model for Variational Quantum Algorithms."
+        ],
+        [
+            "ICCAD2022",
+            "TorchQuantum Case Study for Robust Quantum Circuits."
+        ]
+    ],
+    "Giovanni De Micheli, Swiss Federal Institute of Technology in Lausanne, Switzerland": [
+        [
+            "DAC2022",
+            "Efficient Preparation of Cyclic Quantum States."
         ]
     ],
     "Ali Javadi-Abhari, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2022",
             "Optimizing quantum circuit synthesis for permutations using recursion."
         ]
     ],
     "Hongxiang Fan, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2022",
             "Optimizing quantum circuit placement via machine learning."
         ]
     ],
     "Wayne Luk, Imperial College London, UK": [
         [
-            "Unknown",
+            "DAC2022",
             "Optimizing quantum circuit placement via machine learning."
         ]
     ],
     "Jae-Yoon Sim, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2022",
             "A fast and scalable qubit-mapping method for noisy intermediate-scale quantum computers."
         ]
     ],
     "Seokhyeong Kang, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2022",
             "A fast and scalable qubit-mapping method for noisy intermediate-scale quantum computers."
         ],
         [
-            "Unknown",
+            "DAC2023",
             "Graph Partitioning Approach for Fast Quantum Circuit Simulation."
         ]
     ],
     "Mathias Soeken, Microsoft Quantum, Switzerland": [
         [
-            "Unknown",
+            "DAC2022",
             "Automatic oracle generation in microsoft's quantum development kit using QIR and LLVM passes."
         ]
     ],
     "Zhirui Hu, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2023",
             "Battle Against Fluctuating Quantum Noise: Compression-Aided Framework to Enable Robust Quantum Neural Network."
+        ],
+        [
+            "ICCAD2022",
+            "Quantum Neural Network Compression."
         ]
     ],
     "Youzuo Lin, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2023",
             "Battle Against Fluctuating Quantum Noise: Compression-Aided Framework to Enable Robust Quantum Neural Network."
         ],
         [
-            "Unknown",
+            "DAC2024",
             "QuGeo: An End-to-end Quantum Learning Framework for Geoscience - A Case Study on Full-Waveform Inversion."
+        ],
+        [
+            "ICCAD2022",
+            "Quantum Neural Network Compression."
+        ]
+    ],
+    "Jin-Sung Kim, Unknown Affiliation": [
+        [
+            "DAC2023",
+            "CUDA Quantum: The Platform for Integrated Quantum-Classical Computing."
+        ]
+    ],
+    "Alex McCaskey, NVIDIA Corp, Santa Clara, CA, USA": [
+        [
+            "DAC2023",
+            "CUDA Quantum: The Platform for Integrated Quantum-Classical Computing."
         ]
     ],
     "Youtao Zhang, University of Pittsburgh, Computer Science Department, PA, USA": [
         [
-            "Unknown",
+            "DAC2023",
             "Orchestrating Measurement-Based Quantum Computation over Photonic Quantum Processors."
         ],
         [
-            "Unknown",
+            "DAC2024",
+            "FCM: A Fusion-aware Wire Cutting Approach for Measurement-based Quantum Computing."
+        ]
+    ],
+    "Xulong Tang, Unknown Affiliation": [
+        [
+            "DAC2023",
+            "Orchestrating Measurement-Based Quantum Computation over Photonic Quantum Processors."
+        ],
+        [
+            "DAC2024",
             "FCM: A Fusion-aware Wire Cutting Approach for Measurement-based Quantum Computing."
         ]
     ],
     "Nobuyuki Yoshikawa, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2023",
             "A Global Optimization Algorithm for Buffer and Splitter Insertion in Adiabatic Quantum-Flux-Parametron Circuits."
+        ],
+        [
+            "ICCAD2023",
+            "Exact Logic Synthesis for Reversible Quantum-Flux-Parametron Logic."
         ]
     ],
     "Tsung-Yi Ho, Chinese University of Hong Kong, Hong Kong, SAR, China": [
         [
-            "Unknown",
+            "DAC2023",
             "A Global Optimization Algorithm for Buffer and Splitter Insertion in Adiabatic Quantum-Flux-Parametron Circuits."
         ],
         [
-            "Unknown",
+            "DAC2024",
             "RCGP: An Automatic Synthesis Framework for Reversible Quantum-Flux-Parametron Logic Circuits based on Efficient Cartesian Genetic Programming."
+        ],
+        [
+            "ICCAD2021",
+            "An Optimal Algorithm for Splitter and Buffer Insertion in Adiabatic Quantum-Flux-Parametron Circuits."
+        ],
+        [
+            "ICCAD2023",
+            "Exact Logic Synthesis for Reversible Quantum-Flux-Parametron Logic."
         ]
     ],
     "Olivia Chen, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2023",
             "A Global Optimization Algorithm for Buffer and Splitter Insertion in Adiabatic Quantum-Flux-Parametron Circuits."
+        ],
+        [
+            "ICCAD2023",
+            "Exact Logic Synthesis for Reversible Quantum-Flux-Parametron Logic."
+        ]
+    ],
+    "Yung-Chih Chen, Unknown Affiliation": [
+        [
+            "DAC2023",
+            "A Robust Approach to Detecting Non-Equivalent Quantum Circuits Using Specially Designed Stimuli."
+        ]
+    ],
+    "Chun-Yao Wang, Unknown Affiliation": [
+        [
+            "DAC2023",
+            "A Robust Approach to Detecting Non-Equivalent Quantum Circuits Using Specially Designed Stimuli."
         ]
     ],
     "Shigeru Yamashita, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2023",
             "An SMT-Solver-Based Synthesis of NNA-Compliant Quantum Circuits Consisting of CNOT, H and T Gates."
+        ],
+        [
+            "ICCAD2023",
+            "Optimizing LUT-Based Quantum Circuit Synthesis Using Relative Phase Boolean Operations."
+        ]
+    ],
+    "Shamiul Alam, Unknown Affiliation": [
+        [
+            "DAC2023",
+            "Cryogenic In-Memory Matrix-Vector Multiplication using Ferroelectric Superconducting Quantum Interference Device (FE-SQUID)."
         ]
     ],
     "Kai Ni 0004, Rochester Institute of Technology, Department of Electrical and Microelectronic Engineering, NY, USA": [
         [
-            "Unknown",
+            "DAC2023",
+            "Cryogenic In-Memory Matrix-Vector Multiplication using Ferroelectric Superconducting Quantum Interference Device (FE-SQUID)."
+        ]
+    ],
+    "Vijaykrishnan Narayanan, Penn State, University Park, USA": [
+        [
+            "DAC2023",
             "Cryogenic In-Memory Matrix-Vector Multiplication using Ferroelectric Superconducting Quantum Interference Device (FE-SQUID)."
         ]
     ],
     "Ahmedullah Aziz, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2023",
             "Cryogenic In-Memory Matrix-Vector Multiplication using Ferroelectric Superconducting Quantum Interference Device (FE-SQUID)."
         ]
     ],
     "Jason Cong, University of California, Los Angeles, USA": [
         [
-            "Unknown",
+            "DAC2023",
             "Lightning Talk: Scaling Up Quantum Compilation - Challenges and Opportunities."
         ],
         [
-            "Unknown",
+            "DAC2023",
             "Scalable Optimal Layout Synthesis for NISQ Quantum Processors."
+        ],
+        [
+            "ICCAD2020",
+            "Optimal Layout Synthesis for Quantum Computing."
         ]
     ],
     "Song Bian 0001, Beihang University, Beijing, China": [
         [
-            "Unknown",
+            "DAC2023",
             "PIMA-LPN: Processing-in-memory Acceleration for Efficient LPN-based Post-Quantum Cryptography."
         ]
     ],
     "Jiliang Zhang 0002, Hunan University, College of Computer Science and Electronic Engineering, Changsha, China": [
         [
-            "Unknown",
+            "DAC2023",
             "PIMA-LPN: Processing-in-memory Acceleration for Efficient LPN-based Post-Quantum Cryptography."
         ]
     ],
     "Won Woo Ro, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2023",
             "Quixote: Improving Fidelity of Quantum Program by Independent Execution of Controlled Gates."
         ]
     ],
     "Rajiv V. Joshi, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2023",
             "(Invited) Predictive analytics for cryogenic CMOS in future quantum computing systems."
         ]
     ],
     "Sudipto Chakraborty, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2023",
             "(Invited) Predictive analytics for cryogenic CMOS in future quantum computing systems."
         ]
     ],
     "Zhiding Liang, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2023",
             "Hybrid Gate-Pulse Model for Variational Quantum Algorithms."
         ],
         [
-            "Unknown",
+            "DAC2024",
             "Invited: Graph Learning for Parameter Prediction of Quantum Approximate Optimization Algorithm."
+        ],
+        [
+            "ICCAD2021",
+            "Can Noise on Qubits Be Learned in Quantum Neural Network? A Case Study on QuantumFlow (Invited Paper)."
+        ],
+        [
+            "ICCAD2021",
+            "Exploration of Quantum Neural Architecture by Mixing Quantum Neuron Designs: (Invited Paper)."
+        ],
+        [
+            "ICCAD2022",
+            "TorchQuantum Case Study for Robust Quantum Circuits."
         ]
     ],
     "Zhixin Song, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2023",
             "Hybrid Gate-Pulse Model for Variational Quantum Algorithms."
         ],
         [
-            "Unknown",
+            "DAC2024",
             "Invited: Graph Learning for Parameter Prediction of Quantum Approximate Optimization Algorithm."
+        ],
+        [
+            "AAAI2021",
+            "VSQL: Variational Shadow Quantum Learning for Classification."
         ]
     ],
     "Zichang He, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2023",
             "Hybrid Gate-Pulse Model for Variational Quantum Algorithms."
         ],
         [
-            "Unknown",
+            "DAC2024",
             "Invited: Challenges and Opportunities of Quantum Optimization in Finance."
         ]
     ],
     "Yiru Wang, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2023",
             "Hybrid Gate-Pulse Model for Variational Quantum Algorithms."
         ]
     ],
     "Xuehai Qian, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2023",
             "Hybrid Gate-Pulse Model for Variational Quantum Algorithms."
         ]
     ],
     "Bochen Tan, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2023",
             "Scalable Optimal Layout Synthesis for NISQ Quantum Processors."
+        ],
+        [
+            "ICCAD2020",
+            "Optimal Layout Synthesis for Quantum Computing."
         ]
     ],
     "Nikolaj S. Bj\u00f8rner, Microsoft Research, Redmond, WA, USA": [
         [
-            "Unknown",
+            "DAC2023",
             "Scalable Optimal Layout Synthesis for NISQ Quantum Processors."
         ]
     ],
     "Tirthak Patel, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2023",
             "Invited: Building Robust Quantum System Software for Technology-Specific Characteristics."
+        ],
+        [
+            "AAAI2022",
+            "QUILT: Effective Multi-Class Classification on Quantum Computers Using an Ensemble of Diverse Quantum Classifiers."
+        ],
+        [
+            "AAAI2023",
+            "SLIQ: Quantum Image Similarity Networks on Noisy Quantum Computers."
+        ],
+        [
+            "ICCAD2020",
+            "DisQ: A Novel Quantum Output State Classification Method on IBM Quantum Computers using OpenPulse."
         ]
     ],
     "Devesh Tiwari, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2023",
             "Invited: Building Robust Quantum System Software for Technology-Specific Characteristics."
+        ],
+        [
+            "AAAI2022",
+            "QUILT: Effective Multi-Class Classification on Quantum Computers Using an Ensemble of Diverse Quantum Classifiers."
+        ],
+        [
+            "AAAI2023",
+            "SLIQ: Quantum Image Similarity Networks on Noisy Quantum Computers."
+        ],
+        [
+            "ICCAD2020",
+            "DisQ: A Novel Quantum Output State Classification Method on IBM Quantum Computers using OpenPulse."
+        ]
+    ],
+    "Nils Quetschlich, Unknown Affiliation": [
+        [
+            "DAC2023",
+            "Compiler Optimization for Quantum Computing Using Reinforcement Learning."
         ]
     ],
     "Qingfeng Wang, Zhejiang University, State Key Laboratory of Fluid Power Transmission and Control, Hangzhou, China": [
         [
-            "Unknown",
+            "DAC2023",
             "Ever more optimized simulations of fermionic systems on a quantum computer."
         ]
     ],
     "Ming Li, Dublin City University, School of Electronic Engineering, Dublin, Ireland": [
         [
-            "Unknown",
+            "DAC2023",
             "Ever more optimized simulations of fermionic systems on a quantum computer."
+        ]
+    ],
+    "Georgios Fotiadis, Unknown Affiliation": [
+        [
+            "DAC2024",
+            "RISC-V Instruction Set Extensions for Multi-Precision Integer Arithmetic: A Case Study on Post-Quantum Key Exchange Using CSIDH-512."
         ]
     ],
     "Johann Gro\u00dfsch\u00e4dl, University of Luxembourg": [
         [
-            "Unknown",
+            "DAC2024",
             "RISC-V Instruction Set Extensions for Multi-Precision Integer Arithmetic: A Case Study on Post-Quantum Key Exchange Using CSIDH-512."
         ]
     ],
     "Thinh Hung Pham, Nanyang Technological University, Singapore": [
         [
-            "Unknown",
+            "DAC2024",
+            "RISC-V Instruction Set Extensions for Multi-Precision Integer Arithmetic: A Case Study on Post-Quantum Key Exchange Using CSIDH-512."
+        ]
+    ],
+    "Peter Y. A. Ryan, University of Luxembourg": [
+        [
+            "DAC2024",
             "RISC-V Instruction Set Extensions for Multi-Precision Integer Arithmetic: A Case Study on Post-Quantum Key Exchange Using CSIDH-512."
         ]
     ],
     "Shouvanik Chakrabarti, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2024",
             "Invited: Challenges and Opportunities of Quantum Optimization in Finance."
+        ],
+        [
+            "AAAI2021",
+            "Sublinear Classical and Quantum Algorithms for General Matrix Games."
+        ],
+        [
+            "ICCAD2021",
+            "ICCAD Special Session Paper: Quantum Variational Methods for Quantum Applications."
+        ],
+        [
+            "ICCAD2021",
+            "Quantum Machine Learning for Finance ICCAD Special Session Paper."
         ]
     ],
     "Changhao Li, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2024",
             "Invited: Challenges and Opportunities of Quantum Optimization in Finance."
         ]
     ],
     "Ruslan Shaydulin, JPMorgan Chase & Co, New York, NY, USA": [
         [
-            "Unknown",
+            "DAC2024",
             "Invited: Challenges and Opportunities of Quantum Optimization in Finance."
+        ],
+        [
+            "AAAI2020",
+            "Learning to Optimize Variational Quantum Circuits to Solve Combinatorial Problems."
         ]
     ],
     "Yue Sun, Soochow University, School of Rail Transportation, Suzhou, China": [
         [
-            "Unknown",
+            "DAC2024",
             "Invited: Challenges and Opportunities of Quantum Optimization in Finance."
+        ],
+        [
+            "ICCAD2021",
+            "Quantum Machine Learning for Finance ICCAD Special Session Paper."
         ]
     ],
     "Marco Pistoia, JPMorgan Chase, New York, NY, USA": [
         [
-            "Unknown",
+            "DAC2024",
             "Invited: Challenges and Opportunities of Quantum Optimization in Finance."
+        ],
+        [
+            "ICCAD2021",
+            "Quantum Machine Learning for Finance ICCAD Special Session Paper."
+        ]
+    ],
+    "Alessandro Barenghi, Polytechnic University of Milan, Italy": [
+        [
+            "DAC2024",
+            "Design of a Quantum Walk Circuit to Solve the Subset-Sum Problem."
+        ]
+    ],
+    "Gerardo Pelosi, Unknown Affiliation": [
+        [
+            "DAC2024",
+            "Design of a Quantum Walk Circuit to Solve the Subset-Sum Problem."
         ]
     ],
     "Gang Liu 0025, University of Notre Dame, Department of Computer Science and Engineering, IN, USA": [
         [
-            "Unknown",
+            "DAC2024",
             "Invited: Graph Learning for Parameter Prediction of Quantum Approximate Optimization Algorithm."
         ]
     ],
     "Zheyuan Liu 0010, University of Notre Dame, IN, USA": [
         [
-            "Unknown",
+            "DAC2024",
             "Invited: Graph Learning for Parameter Prediction of Quantum Approximate Optimization Algorithm."
         ]
     ],
     "Kecheng Liu, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2024",
             "Invited: Graph Learning for Parameter Prediction of Quantum Approximate Optimization Algorithm."
         ]
     ],
     "Costin Iancu, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2024",
             "Effective Quantum Resource Optimization via Circuit Resizing in BQSKit."
         ]
     ],
     "Wibe Albert de Jong, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2024",
             "Effective Quantum Resource Optimization via Circuit Resizing in BQSKit."
         ]
     ],
     "Xiangyu Ren, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2024",
             "Invited: Leveraging Machine Learning for Quantum Compilation Optimization."
         ]
     ],
     "Shengyu Zhang 0002, Chinese University of Hong Kong, Shatin, Hong Kong": [
         [
-            "Unknown",
+            "DAC2024",
             "Invited: Leveraging Machine Learning for Quantum Compilation Optimization."
         ]
     ],
     "Liqiang Lu, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2024",
             "SpREM: Exploiting Hamming Sparsity for Fast Quantum Readout Error Mitigation."
+        ],
+        [
+            "ICCAD2023",
+            "QPulseLib: Accelerating the Pulse Generation of Quantum Circuit with Reusable Patterns."
         ]
     ],
     "Size Zheng 0001, Peking University, China": [
         [
-            "Unknown",
+            "DAC2024",
             "SpREM: Exploiting Hamming Sparsity for Fast Quantum Readout Error Mitigation."
         ]
     ],
     "Jia Yu, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2024",
             "SpREM: Exploiting Hamming Sparsity for Fast Quantum Readout Error Mitigation."
         ]
     ],
     "Jianwei Yin, Unknown Affiliation": [
         [
-            "Unknown",
+            "DAC2024",
             "SpREM: Exploiting Hamming Sparsity for Fast Quantum Readout Error Mitigation."
+        ],
+        [
+            "ICCAD2023",
+            "QPulseLib: Accelerating the Pulse Generation of Quantum Circuit with Reusable Patterns."
+        ]
+    ],
+    "Sami Khairy, Unknown Affiliation": [
+        [
+            "AAAI2020",
+            "Learning to Optimize Variational Quantum Circuits to Solve Combinatorial Problems."
+        ]
+    ],
+    "Lukasz Cincio, Unknown Affiliation": [
+        [
+            "AAAI2020",
+            "Learning to Optimize Variational Quantum Circuits to Solve Combinatorial Problems."
+        ]
+    ],
+    "Yuri Alexeev, Unknown Affiliation": [
+        [
+            "AAAI2020",
+            "Learning to Optimize Variational Quantum Circuits to Solve Combinatorial Problems."
+        ]
+    ],
+    "Prasanna Balaprakash, Unknown Affiliation": [
+        [
+            "AAAI2020",
+            "Learning to Optimize Variational Quantum Circuits to Solve Combinatorial Problems."
+        ]
+    ],
+    "Tuhin Sahai, SRI International, Menlo Park, USA": [
+        [
+            "AAAI2020",
+            "Estimating the Density of States of Boolean Satisfiability Problems on Classical and Quantum Computing Platforms."
+        ]
+    ],
+    "Anurag Mishra, Unknown Affiliation": [
+        [
+            "AAAI2020",
+            "Estimating the Density of States of Boolean Satisfiability Problems on Classical and Quantum Computing Platforms."
+        ]
+    ],
+    "Susmit Jha, SRI International, Menlo Park, CA, USA": [
+        [
+            "AAAI2020",
+            "Estimating the Density of States of Boolean Satisfiability Problems on Classical and Quantum Computing Platforms."
+        ]
+    ],
+    "Jialin Zhang 0001, Chinese Academy of Sciences, Institute of Computing Technology, Beijing, China": [
+        [
+            "AAAI2020",
+            "Revisiting Online Quantum State Learning."
+        ],
+        [
+            "AAAI2023",
+            "Quantum Multi-Armed Bandits and Stochastic Linear Bandits Enjoy Logarithmic Regrets."
+        ]
+    ],
+    "Xiaoming Sun 0001, Chinese Academy of Sciences, Institute of Computing Technology, Key Lab of Network Data Science and Technology, Beijing, China": [
+        [
+            "AAAI2020",
+            "Revisiting Online Quantum State Learning."
+        ],
+        [
+            "AAAI2023",
+            "Quantum Multi-Armed Bandits and Stochastic Linear Bandits Enjoy Logarithmic Regrets."
+        ]
+    ],
+    "Dimitris Gkoumas, Unknown Affiliation": [
+        [
+            "AAAI2021",
+            "Quantum Cognitively Motivated Decision Fusion for Video Sentiment Analysis."
+        ],
+        [
+            "AAAI2021",
+            "Quantum-inspired Neural Network for Conversational Emotion Recognition."
+        ]
+    ],
+    "Qiuchi Li, Unknown Affiliation": [
+        [
+            "AAAI2021",
+            "Quantum Cognitively Motivated Decision Fusion for Video Sentiment Analysis."
+        ],
+        [
+            "AAAI2021",
+            "Quantum-inspired Neural Network for Conversational Emotion Recognition."
+        ]
+    ],
+    "Massimo Melucci, Unknown Affiliation": [
+        [
+            "AAAI2021",
+            "Quantum Cognitively Motivated Decision Fusion for Video Sentiment Analysis."
+        ],
+        [
+            "AAAI2021",
+            "Quantum-inspired Neural Network for Conversational Emotion Recognition."
+        ]
+    ],
+    "Yijun Yu, The Open University, Milton Keynes, UK": [
+        [
+            "AAAI2021",
+            "Quantum Cognitively Motivated Decision Fusion for Video Sentiment Analysis."
+        ]
+    ],
+    "Dawei Song 0001, Beijing Institute of Technology, School of Computer Science and Technology, Beijing, China": [
+        [
+            "AAAI2021",
+            "Quantum Cognitively Motivated Decision Fusion for Video Sentiment Analysis."
+        ]
+    ],
+    "Alessandro Sordoni, Unknown Affiliation": [
+        [
+            "AAAI2021",
+            "Quantum-inspired Neural Network for Conversational Emotion Recognition."
+        ]
+    ],
+    "Jian-Yun Nie, University of Montreal (UdeM), Department of Computer Science and Operations Research (DIRO), Montreal, QC, Canada": [
+        [
+            "AAAI2021",
+            "Quantum-inspired Neural Network for Conversational Emotion Recognition."
+        ]
+    ],
+    "Yuexian Hou, Unknown Affiliation": [
+        [
+            "AAAI2021",
+            "A Quantum-inspired Complex-valued Representation for Encoding Sentiment Information (Student Abstract)."
+        ]
+    ],
+    "In\u00eas Dutra, University of Porto, Portugal": [
+        [
+            "AAAI2021",
+            "Quantum Binary Classification (Student Abstract)."
+        ]
+    ],
+    "Arijit Sehanobish, Unknown Affiliation": [
+        [
+            "AAAI2021",
+            "Learning Potentials of Quantum Systems using Deep Neural Networks."
+        ]
+    ],
+    "David van Dijk, Unknown Affiliation": [
+        [
+            "AAAI2021",
+            "Learning Potentials of Quantum Systems using Deep Neural Networks."
+        ]
+    ],
+    "Daniel Silver, Unknown Affiliation": [
+        [
+            "AAAI2022",
+            "QUILT: Effective Multi-Class Classification on Quantum Computers Using an Ensemble of Diverse Quantum Classifiers."
+        ],
+        [
+            "AAAI2023",
+            "SLIQ: Quantum Image Similarity Networks on Noisy Quantum Computers."
+        ]
+    ],
+    "Mohsen Heidari, Unknown Affiliation": [
+        [
+            "AAAI2022",
+            "Toward Physically Realizable Quantum Neural Networks."
+        ]
+    ],
+    "Ananth Grama, Purdue University, Center for Science of Information, West Lafayette, IN, USA": [
+        [
+            "AAAI2022",
+            "Toward Physically Realizable Quantum Neural Networks."
+        ]
+    ],
+    "Wojciech Szpankowski, Purdue University, West Lafayette, USA": [
+        [
+            "AAAI2022",
+            "Toward Physically Realizable Quantum Neural Networks."
+        ]
+    ],
+    "Hankyul Baek, Unknown Affiliation": [
+        [
+            "AAAI2023",
+            "FV-Train: Quantum Convolutional Neural Network Training with a Finite Number of Qubits by Extracting Diverse Features (Student Abstract)."
+        ]
+    ],
+    "Won Joon Yun, Unknown Affiliation": [
+        [
+            "AAAI2023",
+            "FV-Train: Quantum Convolutional Neural Network Training with a Finite Number of Qubits by Extracting Diverse Features (Student Abstract)."
+        ],
+        [
+            "AAAI2023",
+            "Quantum Multi-Agent Meta Reinforcement Learning."
+        ]
+    ],
+    "Joongheon Kim, Unknown Affiliation": [
+        [
+            "AAAI2023",
+            "FV-Train: Quantum Convolutional Neural Network Training with a Finite Number of Qubits by Extracting Diverse Features (Student Abstract)."
+        ],
+        [
+            "AAAI2023",
+            "Quantum Multi-Agent Meta Reinforcement Learning."
+        ]
+    ],
+    "Zhihao Cheng, Unknown Affiliation": [
+        [
+            "AAAI2023",
+            "Offline Quantum Reinforcement Learning in a Conservative Manner."
+        ]
+    ],
+    "Li Shen 0008, Peking University, Department of Computer Science, Beijing, China": [
+        [
+            "AAAI2023",
+            "Offline Quantum Reinforcement Learning in a Conservative Manner."
+        ]
+    ],
+    "Fabio A. Gonz\u00e1lez 0001, National University of Colombia, Bogot\u00e1, Colombia": [
+        [
+            "AAAI2023",
+            "LEAN-DMKDE: Quantum Latent Density Estimation for Anomaly Detection (Student Abstract)."
+        ]
+    ],
+    "Zhijie Zhang, Unknown Affiliation": [
+        [
+            "AAAI2023",
+            "Quantum Multi-Armed Bandits and Stochastic Linear Bandits Enjoy Logarithmic Regrets."
+        ]
+    ],
+    "Melanie Swan, Unknown Affiliation": [
+        [
+            "AAAI2023",
+            "Quantum Intelligence: Responsible Human-AI Entities."
+        ]
+    ],
+    "Renato P. dos Santos, Lutheran University of Brazil, Canoas": [
+        [
+            "AAAI2023",
+            "Quantum Intelligence: Responsible Human-AI Entities."
+        ]
+    ],
+    "Hai Wan, Baidu Inc., China": [
+        [
+            "AAAI2024",
+            "QPEN: Quantum Projection and Quantum Entanglement Enhanced Network for Cross-Lingual Aspect-Based Sentiment Analysis."
+        ]
+    ],
+    "Apurva Narayan, Unknown Affiliation": [
+        [
+            "AAAI2024",
+            "Generating Universal Adversarial Perturbations for Quantum Classifiers."
+        ]
+    ],
+    "Yoni Choukroun, Unknown Affiliation": [
+        [
+            "AAAI2024",
+            "Deep Quantum Error Correction."
+        ]
+    ],
+    "Lior Wolf, Tel Aviv University, Blavatnik School of Computer Science, Israel": [
+        [
+            "AAAI2024",
+            "Deep Quantum Error Correction."
+        ]
+    ],
+    "Jing Zhang, Indiana University, Bloomington, IN, USA": [
+        [
+            "AAAI2024",
+            "Quantum-Inspired Neural Network with Runge-Kutta Method."
+        ]
+    ],
+    "Peng Zhang 0002, Tianjin University, Key Laboratory of Cognitive Computing and Application, Tianjin, China": [
+        [
+            "AAAI2024",
+            "Quantum-Inspired Neural Network with Runge-Kutta Method."
+        ]
+    ],
+    "Shenggen Zheng, Unknown Affiliation": [
+        [
+            "AAAI2024",
+            "Training-Free Quantum Architecture Search."
+        ]
+    ],
+    "Haozhen Situ, Unknown Affiliation": [
+        [
+            "AAAI2024",
+            "Training-Free Quantum Architecture Search."
+        ]
+    ],
+    "Hong Zhang, Central South University, School of Business, Changsha, China": [
+        [
+            "AAAI2024",
+            "QI-IRA: Quantum-Inspired Interactive Ranking Aggregation for Person Re-identification."
+        ]
+    ],
+    "Dinesh Kumar Vishwakarma, Unknown Affiliation": [
+        [
+            "AAAI2024",
+            "DQSSA: A Quantum-Inspired Solution for Maximizing Influence in Online Social Networks (Student Abstract)."
+        ]
+    ],
+    "Mukesh Prasad, University of Technology Sydney, Faculty of Engineering and Information Technology, Australia": [
+        [
+            "AAAI2024",
+            "DQSSA: A Quantum-Inspired Solution for Maximizing Influence in Online Social Networks (Student Abstract)."
+        ]
+    ],
+    "Junwei Zhang, Xidian University, School of Cyber Engineering and Shaanxi Key Laboratory of Network and System Security, Xian, China": [
+        [
+            "AAAI2024",
+            "Quantum Interference Model for Semantic Biases of Glosses in Word Sense Disambiguation."
+        ]
+    ],
+    "Xin Wang, Shaanxi Normal University, School of Physics and Information Technology, Xi'an, China": [
+        [
+            "AAAI2024",
+            "Exponential Hardness of Optimization from the Locality in Quantum Neural Networks."
+        ]
+    ],
+    "Anupam Chattopadhyay, Nanyang Technological University, Singapore": [
+        [
+            "ICCAD2020",
+            "Noise Resilient Compilation Policies for Quantum Approximate Optimization Algorithm."
+        ],
+        [
+            "ICCAD2023",
+            "CRYSTALS-Dilithium on RISC-V Processor: Lightweight Secure Boot Using Post-Quantum Digital Signature."
+        ]
+    ],
+    "Debapriya Basu Roy, Unknown Affiliation": [
+        [
+            "ICCAD2020",
+            "Efficient Hardware/Software Co-Design for Post-Quantum Crypto Algorithm SIKE on ARM and RISC-V based Microcontrollers."
+        ]
+    ],
+    "Tim Fritzmann, Unknown Affiliation": [
+        [
+            "ICCAD2020",
+            "Efficient Hardware/Software Co-Design for Post-Quantum Crypto Algorithm SIKE on ARM and RISC-V based Microcontrollers."
+        ]
+    ],
+    "Georg Sigl, Technical University Munich, Germany": [
+        [
+            "ICCAD2020",
+            "Efficient Hardware/Software Co-Design for Post-Quantum Crypto Algorithm SIKE on ARM and RISC-V based Microcontrollers."
+        ]
+    ],
+    "Zhepeng Wang 0001, George Mason University, Fairfax, VA, USA": [
+        [
+            "ICCAD2021",
+            "Can Noise on Qubits Be Learned in Quantum Neural Network? A Case Study on QuantumFlow (Invited Paper)."
+        ],
+        [
+            "ICCAD2021",
+            "Exploration of Quantum Neural Architecture by Mixing Quantum Neuron Designs: (Invited Paper)."
+        ],
+        [
+            "ICCAD2022",
+            "Quantum Neural Network Compression."
+        ]
+    ],
+    "Junhuan Yang, Unknown Affiliation": [
+        [
+            "ICCAD2021",
+            "Can Noise on Qubits Be Learned in Quantum Neural Network? A Case Study on QuantumFlow (Invited Paper)."
+        ]
+    ],
+    "Lei Yang 0018, George Mason University, Department of Information Sciences and Technology, USA": [
+        [
+            "ICCAD2021",
+            "Can Noise on Qubits Be Learned in Quantum Neural Network? A Case Study on QuantumFlow (Invited Paper)."
+        ]
+    ],
+    "Shanglin Zhou, Unknown Affiliation": [
+        [
+            "ICCAD2021",
+            "Exploration of Quantum Neural Architecture by Mixing Quantum Neuron Designs: (Invited Paper)."
+        ]
+    ],
+    "Caiwen Ding, Unknown Affiliation": [
+        [
+            "ICCAD2021",
+            "Exploration of Quantum Neural Architecture by Mixing Quantum Neuron Designs: (Invited Paper)."
+        ]
+    ],
+    "Rasit Onur Topaloglu, IBM": [
+        [
+            "ICCAD2021",
+            "Quantum-Classical Hybrid Machine Learning for Image Classification (ICCAD Special Session Paper)."
+        ],
+        [
+            "ICCAD2021",
+            "Split Compilation for Security of Quantum Circuits."
+        ],
+        [
+            "ICCAD2022",
+            "Quantum Machine Learning for Material Synthesis and Hardware Security (Invited Paper)."
+        ]
+    ],
+    "Ilia Polian, Stuttgart University, Germany": [
+        [
+            "ICCAD2021",
+            "Optimal Mapping for Near-Term Quantum Architectures based on Rydberg Atoms."
+        ]
+    ],
+    "Yi-Chen Chang, Unknown Affiliation": [
+        [
+            "ICCAD2021",
+            "An Optimal Algorithm for Splitter and Buffer Insertion in Adiabatic Quantum-Flux-Parametron Circuits."
+        ]
+    ],
+    "Ming-Jer Tsai, Unknown Affiliation": [
+        [
+            "ICCAD2021",
+            "An Optimal Algorithm for Splitter and Buffer Insertion in Adiabatic Quantum-Flux-Parametron Circuits."
+        ]
+    ],
+    "Shaohan Hu, JPMorgan Chase Bank, New York, NY, USA": [
+        [
+            "ICCAD2021",
+            "Quantum Machine Learning for Finance ICCAD Special Session Paper."
+        ]
+    ],
+    "Wai-Kei Mak, Unknown Affiliation": [
+        [
+            "ICCAD2021",
+            "A Novel Clock Tree Aware Placement Methodology for Single Flux Quantum (SFQ) Logic Circuits."
+        ]
+    ],
+    "Kathleen E. Hamilton, Unknown Affiliation": [
+        [
+            "ICCAD2022",
+            "Quantum Machine Learning Applications in High-Energy Physics."
+        ]
+    ],
+    "Yu Zhang 0086, University of Science and Technology of China, Lab for Intelligent Networking and Knowledge Engineering, Hefei,China": [
+        [
+            "ICCAD2022",
+            "QCIR: Pattern Matching Based Universal Quantum Circuit Rewriting Framework."
+        ]
+    ],
+    "Zhen Wang, Unknown Affiliation": [
+        [
+            "ICCAD2022",
+            "QCIR: Pattern Matching Based Universal Quantum Circuit Rewriting Framework."
+        ]
+    ],
+    "Jun Li 0001, Liaocheng University, School of Computer Science, China": [
+        [
+            "ICCAD2022",
+            "QCIR: Pattern Matching Based Universal Quantum Circuit Rewriting Framework."
+        ]
+    ],
+    "Xiangyang Li 0001, University of Science and Technology of China, School of Computer Science and Technology, Hefei, China": [
+        [
+            "ICCAD2022",
+            "QCIR: Pattern Matching Based Universal Quantum Circuit Rewriting Framework."
+        ]
+    ],
+    "Peiyan Dong, Unknown Affiliation": [
+        [
+            "ICCAD2022",
+            "Quantum Neural Network Compression."
+        ]
+    ],
+    "Shao-Yun Fang, Unknown Affiliation": [
+        [
+            "ICCAD2022",
+            "A Robust Quantum Layout Synthesis Algorithm with a Qubit Mapping Checker."
+        ]
+    ],
+    "Francesco Regazzoni 0001, University of Amsterdam, Amsterdam, The Netherlands": [
+        [
+            "ICCAD2023",
+            "Invited Paper: Instruction Set Extensions for Post-Quantum Cryptography."
+        ]
+    ],
+    "Naina Gupta 0001, Fraunhofer Singapore, Singapore": [
+        [
+            "ICCAD2023",
+            "CRYSTALS-Dilithium on RISC-V Processor: Lightweight Secure Boot Using Post-Quantum Digital Signature."
+        ]
+    ],
+    "Arpan Jati, Unknown Affiliation": [
+        [
+            "ICCAD2023",
+            "CRYSTALS-Dilithium on RISC-V Processor: Lightweight Secure Boot Using Post-Quantum Digital Signature."
+        ]
+    ],
+    "Jaco van de Pol, Aarhus University, Department of Computer Science, Aarhus, Denmark": [
+        [
+            "ICCAD2023",
+            "Optimal Layout Synthesis for Quantum Circuits as Classical Planning."
+        ]
+    ],
+    "Ying Wang 0001, Fuzhou University, School of Economics and Management, China": [
+        [
+            "ICCAD2023",
+            "Full State Quantum Circuit Simulation Beyond Memory Limit."
+        ]
+    ],
+    "Bing Li 0017, Duke University, Durham, NC, USA": [
+        [
+            "ICCAD2023",
+            "Full State Quantum Circuit Simulation Beyond Memory Limit."
+        ]
+    ],
+    "Yinhe Han 0001, Chinese Academy of Sciences, Institute of Computing Technology, Research Center for Intelligent Computing Systems, Beijing, China": [
+        [
+            "ICCAD2023",
+            "Full State Quantum Circuit Simulation Beyond Memory Limit."
         ]
     ]
 }

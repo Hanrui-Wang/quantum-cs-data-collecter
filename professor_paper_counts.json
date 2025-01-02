@@ -1,0 +1,829 @@
+{
+    "Dinesh Khandelwal, Unknown Affiliation": [
+        "NeurIPS2020, 1"
+    ],
+    "Dinesh Garg, Unknown Affiliation": [
+        "NeurIPS2020, 1"
+    ],
+    "Hima Karanam, Unknown Affiliation": [
+        "NeurIPS2020, 1"
+    ],
+    "L. Venkata Subramaniam, IBM India Research Lab": [
+        "NeurIPS2020, 1"
+    ],
+    "Sho Sonoda, Unknown Affiliation": [
+        "NeurIPS2020, 1"
+    ],
+    "Mei Si, Federal University of Pernambuco, Recife, Brazil": [
+        "NeurIPS2020, 1"
+    ],
+    "Hans J. Briegel, University of Innsbruck, Institute for Theoretical Physics, Austria": [
+        "NeurIPS2021, 1"
+    ],
+    "Vedran Dunjko, Leiden University, The Netherlands": [
+        "NeurIPS2021, 2"
+    ],
+    "Bernhard Sch\u00f6lkopf, Max Planck Institute for Intelligent Systems, T\u00fcbingen, Germany": [
+        "NeurIPS2021, 1"
+    ],
+    "Mateusz Ostaszewski, Unknown Affiliation": [
+        "NeurIPS2021, 1"
+    ],
+    "Wojciech Masarczyk, Unknown Affiliation": [
+        "NeurIPS2021, 1"
+    ],
+    "Yihui Quek, Unknown Affiliation": [
+        "NeurIPS2021, 1"
+    ],
+    "Srinivasan Arunachalam, Unknown Affiliation": [
+        "NeurIPS2021, 1"
+    ],
+    "John A. Smolin, Unknown Affiliation": [
+        "NeurIPS2021, 1"
+    ],
+    "Hongwei Chen, Unknown Affiliation": [
+        "NeurIPS2022, 1"
+    ],
+    "Andrew M. Childs, University of Maryland, College Park, MD, USA": [
+        "NeurIPS2022, 1",
+        "AAAI2021, 1"
+    ],
+    "Tongyang Li, Unknown Affiliation": [
+        "NeurIPS2022, 2",
+        "NeurIPS2023, 1",
+        "AAAI2021, 2",
+        "AAAI2023, 1"
+    ],
+    "Jin-Peng Liu, Unknown Affiliation": [
+        "NeurIPS2022, 1"
+    ],
+    "Ruizhe Zhang 0001, University of Texas at Austin, TX, USA": [
+        "NeurIPS2022, 2"
+    ],
+    "Rahul Jain, National University of Singapore, Centre for Quantum Technologies (CQT), Singapore": [
+        "NeurIPS2022, 1"
+    ],
+    "Georgios Piliouras, Singapore University of Technology and Design": [
+        "NeurIPS2022, 1"
+    ],
+    "Yi-Ling Qiao, Unknown Affiliation": [
+        "NeurIPS2022, 1"
+    ],
+    "Xiaodi Wu 0001, University of Maryland, College Park, MA, USA": [
+        "NeurIPS2022, 1",
+        "AAAI2021, 1",
+        "ICCAD2021, 1"
+    ],
+    "Xin Wang 0022, Hong Kong University of Science and Technology, Thrust of Artificial Intelligence, Information Hub, Guangzhou, China": [
+        "NeurIPS2022, 2",
+        "NeurIPS2023, 1",
+        "AAAI2021, 1"
+    ],
+    "Yehui Tang, Unknown Affiliation": [
+        "NeurIPS2022, 1"
+    ],
+    "Junchi Yan, Unknown Affiliation": [
+        "NeurIPS2022, 1"
+    ],
+    "Zhan Yu, Xiamen University, Software School, China": [
+        "NeurIPS2022, 1"
+    ],
+    "Kaining Zhang, Unknown Affiliation": [
+        "NeurIPS2022, 1",
+        "AAAI2023, 1"
+    ],
+    "Min-Hsiu Hsieh, Unknown Affiliation": [
+        "NeurIPS2022, 1"
+    ],
+    "Dacheng Tao, Nanyang Technological University, Singapore": [
+        "NeurIPS2022, 1",
+        "AAAI2023, 1"
+    ],
+    "Kirill Neklyudov, Unknown Affiliation": [
+        "NeurIPS2023, 1"
+    ],
+    "Juan Carrasquilla, Unknown Affiliation": [
+        "NeurIPS2023, 1"
+    ],
+    "Qiang Liu, Unknown Affiliation": [
+        "NeurIPS2023, 1"
+    ],
+    "Max Welling, University of Amsterdam, Informatics Institute, The Netherlands": [
+        "NeurIPS2023, 1"
+    ],
+    "Alireza Makhzani, Unknown Affiliation": [
+        "NeurIPS2023, 1"
+    ],
+    "Hsin-Yuan Huang, Unknown Affiliation": [
+        "NeurIPS2023, 1"
+    ],
+    "Dar Gilboa, Unknown Affiliation": [
+        "NeurIPS2023, 1"
+    ],
+    "Jarrod R. McClean, Unknown Affiliation": [
+        "NeurIPS2023, 1"
+    ],
+    "Noam Razin, Unknown Affiliation": [
+        "NeurIPS2023, 1"
+    ],
+    "Nadav Cohen, Unknown Affiliation": [
+        "NeurIPS2023, 1"
+    ],
+    "Marin Soljacic, Unknown Affiliation": [
+        "NeurIPS2023, 2"
+    ],
+    "Zhongxiang Dai, Unknown Affiliation": [
+        "NeurIPS2023, 1"
+    ],
+    "Arun Verma, Unknown Affiliation": [
+        "NeurIPS2023, 1"
+    ],
+    "Bryan Kian Hsiang Low, Unknown Affiliation": [
+        "NeurIPS2023, 1"
+    ],
+    "Patrick Jaillet, MIT, USA": [
+        "NeurIPS2023, 1"
+    ],
+    "Zhengfeng Ji, Unknown Affiliation": [
+        "NeurIPS2023, 1"
+    ],
+    "Woo Youn Kim, Unknown Affiliation": [
+        "NeurIPS2023, 1"
+    ],
+    "Xiao-Yang Liu, Unknown Affiliation": [
+        "NeurIPS2023, 1"
+    ],
+    "Panayotis Mertikopoulos, Universit\u00e9 Grenoble Alpes, Grenoble INP, LIG, France": [
+        "NeurIPS2023, 1"
+    ],
+    "Nicholas Bambos, Stanford University, USA": [
+        "NeurIPS2023, 1"
+    ],
+    "Jose H. Blanchet, Stanford University, Department of Management Science & Engineering, CA, USA": [
+        "NeurIPS2023, 1"
+    ],
+    "Rumen Dangovski, Unknown Affiliation": [
+        "NeurIPS2023, 1"
+    ],
+    "Christopher J. Anders, Unknown Affiliation": [
+        "NeurIPS2023, 1"
+    ],
+    "Karl Jansen, University of Cyprus, Nicosia, Cyprus": [
+        "NeurIPS2023, 1"
+    ],
+    "Klaus-Robert M\u00fcller, Technical University of Berlin, Germany": [
+        "NeurIPS2023, 1"
+    ],
+    "Pan Kessel, Unknown Affiliation": [
+        "NeurIPS2023, 1"
+    ],
+    "Aaron Sidford, Stanford University, CA, USA": [
+        "NeurIPS2023, 1"
+    ],
+    "Chenyi Zhang, Unknown Affiliation": [
+        "NeurIPS2023, 1"
+    ],
+    "Haiyang Yu, Beijing University of Technology, Data Mining and Security Lab and Beijing Key Laboratory of Trusted Computing, China": [
+        "NeurIPS2023, 1"
+    ],
+    "Meng Liu 0015, Texas A&M University, Department of Computer Science and Engineering, College Station, TX, USA": [
+        "NeurIPS2023, 1"
+    ],
+    "Youzhi Luo, Unknown Affiliation": [
+        "NeurIPS2023, 1"
+    ],
+    "Xiaoning Qian, Unknown Affiliation": [
+        "NeurIPS2023, 1"
+    ],
+    "Shuiwang Ji, Texas A&M University, College Station, TX, USA": [
+        "NeurIPS2023, 1"
+    ],
+    "James Chien-Mo Li, National Taiwan University, Taipei, Taiwan": [
+        "DAC2020, 1"
+    ],
+    "Lukas Burgholzer, Technical University of Munich, Germany": [
+        "DAC2020, 2",
+        "DAC2021, 1",
+        "DAC2022, 4",
+        "DAC2023, 3",
+        "ICCAD2020, 1"
+    ],
+    "Robert Wille, Free University of Amsterdam, Netherlands": [
+        "DAC2020, 5",
+        "DAC2021, 2",
+        "DAC2022, 4",
+        "DAC2023, 4",
+        "DAC2024, 2",
+        "ICCAD2020, 2"
+    ],
+    "Stefan Hillmich, Johannes Kepler Universit\u00e4t Linz, Austria": [
+        "DAC2020, 3",
+        "DAC2021, 1",
+        "DAC2022, 1",
+        "DAC2023, 1",
+        "ICCAD2020, 1"
+    ],
+    "Alwin Zulehner, Johannes Kepler University Linz, Austria": [
+        "DAC2020, 2",
+        "DAC2021, 1"
+    ],
+    "Igor L. Markov, Facebook Inc., Menlo Park, CA, USA": [
+        "DAC2020, 3",
+        "DAC2023, 1"
+    ],
+    "Abdullah Ash-Saki, Unknown Affiliation": [
+        "DAC2020, 1",
+        "ICCAD2020, 1",
+        "ICCAD2021, 1"
+    ],
+    "Swaroop Ghosh, Unknown Affiliation": [
+        "DAC2020, 1",
+        "DAC2021, 1",
+        "DAC2023, 1",
+        "ICCAD2020, 1",
+        "ICCAD2021, 2",
+        "ICCAD2022, 1"
+    ],
+    "Gushu Li, Unknown Affiliation": [
+        "DAC2020, 1",
+        "DAC2024, 1"
+    ],
+    "Yufei Ding, University of California at Santa Barbara, CA, USA": [
+        "DAC2020, 1"
+    ],
+    "Yuan Xie 0001, Alibaba DAMO Academy": [
+        "DAC2020, 1"
+    ],
+    "Richard Kueng, Unknown Affiliation": [
+        "DAC2021, 1"
+    ],
+    "Weiwen Jiang, Unknown Affiliation": [
+        "DAC2021, 1",
+        "DAC2023, 1",
+        "DAC2024, 1",
+        "ICCAD2021, 2",
+        "ICCAD2022, 2"
+    ],
+    "Jinjun Xiong, University at Buffalo, Buffalo, NY, USA": [
+        "DAC2021, 1"
+    ],
+    "Yiyu Shi 0001, University of Notre Dame, Sustainable Computing Laboratory, USA": [
+        "DAC2021, 1",
+        "DAC2023, 1",
+        "DAC2024, 1",
+        "ICCAD2021, 2",
+        "ICCAD2022, 1"
+    ],
+    "Andrea Basso 0002, University of Bristol, UK": [
+        "DAC2021, 1"
+    ],
+    "Sujoy Sinha Roy, Unknown Affiliation": [
+        "DAC2021, 1"
+    ],
+    "Torsten Hoefler, ETH Z\u00fcrich": [
+        "DAC2021, 1"
+    ],
+    "Mingsheng Ying, Centre for Quantum Software and Information, University of Technology Sydney, Australia": [
+        "DAC2021, 1",
+        "ICCAD2022, 1"
+    ],
+    "Yuan Feng 0001, University of Technology Sydney, Center for Quantum Software and Information, NSW, Australia": [
+        "DAC2021, 1",
+        "AAAI2023, 1",
+        "ICCAD2020, 1",
+        "ICCAD2022, 1",
+        "ICCAD2023, 1"
+    ],
+    "Sanjiang Li, University of Technology Sydney, Australia": [
+        "DAC2021, 1",
+        "AAAI2023, 1",
+        "ICCAD2020, 1",
+        "ICCAD2022, 1",
+        "ICCAD2023, 1"
+    ],
+    "Emre Karabulut, Unknown Affiliation": [
+        "DAC2021, 1"
+    ],
+    "Aydin Aysu, Unknown Affiliation": [
+        "DAC2021, 1"
+    ],
+    "Junde Li, Unknown Affiliation": [
+        "DAC2021, 1",
+        "ICCAD2020, 1"
+    ],
+    "Nikolay V. Dokholyan, The University of North Carolina at Chapel Hill, Department of Biochemistry and Biophysics, NC, USA": [
+        "DAC2021, 1"
+    ],
+    "Rudy Raymond, IBM Research": [
+        "DAC2021, 1"
+    ],
+    "Jie-Hong R. Jiang, National Taiwan University, Taipei, Taiwan": [
+        "DAC2021, 1",
+        "DAC2022, 1"
+    ],
+    "Masaaki Kondo, Unknown Affiliation": [
+        "DAC2021, 1"
+    ],
+    "Masamitsu Tanaka, Nagoya University, Japan": [
+        "DAC2021, 1"
+    ],
+    "Prabhat Mishra 0001, University of Florida, Gainesville, USA": [
+        "DAC2021, 1",
+        "DAC2023, 1"
+    ],
+    "Jiafeng Xie, Unknown Affiliation": [
+        "DAC2021, 1"
+    ],
+    "Pengzhou He, Unknown Affiliation": [
+        "DAC2021, 1"
+    ],
+    "Jidong Zhai, Unknown Affiliation": [
+        "DAC2021, 1"
+    ],
+    "Weimin Zheng, Unknown Affiliation": [
+        "DAC2021, 1"
+    ],
+    "Hanrui Wang 0002, Massachusetts Institute of Technology, Cambridge, MA, USA": [
+        "DAC2022, 2",
+        "DAC2023, 1",
+        "ICCAD2022, 1"
+    ],
+    "Jiaqi Gu 0002, University of Texas at Austin, Department of Electrical and Computer Engineering, Austin, TX, USA": [
+        "DAC2022, 2",
+        "ICCAD2022, 1"
+    ],
+    "Yongshan Ding 0001, Yale University, New Haven, CT, USA": [
+        "DAC2022, 2",
+        "ICCAD2022, 1"
+    ],
+    "Zirui Li, University of Minnesota, Minneapolis, MN, USA": [
+        "DAC2022, 2",
+        "ICCAD2022, 1"
+    ],
+    "Frederic T. Chong, University of Chicago, IL, USA": [
+        "DAC2022, 1",
+        "ICCAD2022, 1"
+    ],
+    "David Z. Pan, University of Texas at Austin, USA": [
+        "DAC2022, 2",
+        "ICCAD2022, 1"
+    ],
+    "Song Han 0003, Massachusetts Institute of Technology, Cambridge, MA, USA": [
+        "DAC2022, 2",
+        "DAC2023, 1",
+        "ICCAD2022, 1"
+    ],
+    "Giovanni De Micheli, Swiss Federal Institute of Technology in Lausanne, Switzerland": [
+        "DAC2022, 1"
+    ],
+    "Ali Javadi-Abhari, Unknown Affiliation": [
+        "DAC2022, 1"
+    ],
+    "Hongxiang Fan, Unknown Affiliation": [
+        "DAC2022, 1"
+    ],
+    "Wayne Luk, Imperial College London, UK": [
+        "DAC2022, 1"
+    ],
+    "Jae-Yoon Sim, Unknown Affiliation": [
+        "DAC2022, 1"
+    ],
+    "Seokhyeong Kang, Unknown Affiliation": [
+        "DAC2022, 1",
+        "DAC2023, 1"
+    ],
+    "Mathias Soeken, Microsoft Quantum, Switzerland": [
+        "DAC2022, 1"
+    ],
+    "Zhirui Hu, Unknown Affiliation": [
+        "DAC2023, 1",
+        "ICCAD2022, 1"
+    ],
+    "Youzuo Lin, Unknown Affiliation": [
+        "DAC2023, 1",
+        "DAC2024, 1",
+        "ICCAD2022, 1"
+    ],
+    "Jin-Sung Kim, Unknown Affiliation": [
+        "DAC2023, 1"
+    ],
+    "Alex McCaskey, NVIDIA Corp, Santa Clara, CA, USA": [
+        "DAC2023, 1"
+    ],
+    "Youtao Zhang, University of Pittsburgh, Computer Science Department, PA, USA": [
+        "DAC2023, 1",
+        "DAC2024, 1"
+    ],
+    "Xulong Tang, Unknown Affiliation": [
+        "DAC2023, 1",
+        "DAC2024, 1"
+    ],
+    "Nobuyuki Yoshikawa, Unknown Affiliation": [
+        "DAC2023, 1",
+        "ICCAD2023, 1"
+    ],
+    "Tsung-Yi Ho, Chinese University of Hong Kong, Hong Kong, SAR, China": [
+        "DAC2023, 1",
+        "DAC2024, 1",
+        "ICCAD2021, 1",
+        "ICCAD2023, 1"
+    ],
+    "Olivia Chen, Unknown Affiliation": [
+        "DAC2023, 1",
+        "ICCAD2023, 1"
+    ],
+    "Yung-Chih Chen, Unknown Affiliation": [
+        "DAC2023, 1"
+    ],
+    "Chun-Yao Wang, Unknown Affiliation": [
+        "DAC2023, 1"
+    ],
+    "Shigeru Yamashita, Unknown Affiliation": [
+        "DAC2023, 1",
+        "ICCAD2023, 1"
+    ],
+    "Shamiul Alam, Unknown Affiliation": [
+        "DAC2023, 1"
+    ],
+    "Kai Ni 0004, Rochester Institute of Technology, Department of Electrical and Microelectronic Engineering, NY, USA": [
+        "DAC2023, 1"
+    ],
+    "Vijaykrishnan Narayanan, Penn State, University Park, USA": [
+        "DAC2023, 1"
+    ],
+    "Ahmedullah Aziz, Unknown Affiliation": [
+        "DAC2023, 1"
+    ],
+    "Jason Cong, University of California, Los Angeles, USA": [
+        "DAC2023, 2",
+        "ICCAD2020, 1"
+    ],
+    "Song Bian 0001, Beihang University, Beijing, China": [
+        "DAC2023, 1"
+    ],
+    "Jiliang Zhang 0002, Hunan University, College of Computer Science and Electronic Engineering, Changsha, China": [
+        "DAC2023, 1"
+    ],
+    "Won Woo Ro, Unknown Affiliation": [
+        "DAC2023, 1"
+    ],
+    "Rajiv V. Joshi, Unknown Affiliation": [
+        "DAC2023, 1"
+    ],
+    "Sudipto Chakraborty, Unknown Affiliation": [
+        "DAC2023, 1"
+    ],
+    "Zhiding Liang, Unknown Affiliation": [
+        "DAC2023, 1",
+        "DAC2024, 1",
+        "ICCAD2021, 2",
+        "ICCAD2022, 1"
+    ],
+    "Zhixin Song, Unknown Affiliation": [
+        "DAC2023, 1",
+        "DAC2024, 1",
+        "AAAI2021, 1"
+    ],
+    "Zichang He, Unknown Affiliation": [
+        "DAC2023, 1",
+        "DAC2024, 1"
+    ],
+    "Yiru Wang, Unknown Affiliation": [
+        "DAC2023, 1"
+    ],
+    "Xuehai Qian, Unknown Affiliation": [
+        "DAC2023, 1"
+    ],
+    "Bochen Tan, Unknown Affiliation": [
+        "DAC2023, 1",
+        "ICCAD2020, 1"
+    ],
+    "Nikolaj S. Bj\u00f8rner, Microsoft Research, Redmond, WA, USA": [
+        "DAC2023, 1"
+    ],
+    "Tirthak Patel, Unknown Affiliation": [
+        "DAC2023, 1",
+        "AAAI2022, 1",
+        "AAAI2023, 1",
+        "ICCAD2020, 1"
+    ],
+    "Devesh Tiwari, Unknown Affiliation": [
+        "DAC2023, 1",
+        "AAAI2022, 1",
+        "AAAI2023, 1",
+        "ICCAD2020, 1"
+    ],
+    "Nils Quetschlich, Unknown Affiliation": [
+        "DAC2023, 1"
+    ],
+    "Qingfeng Wang, Zhejiang University, State Key Laboratory of Fluid Power Transmission and Control, Hangzhou, China": [
+        "DAC2023, 1"
+    ],
+    "Ming Li, Dublin City University, School of Electronic Engineering, Dublin, Ireland": [
+        "DAC2023, 1"
+    ],
+    "Georgios Fotiadis, Unknown Affiliation": [
+        "DAC2024, 1"
+    ],
+    "Johann Gro\u00dfsch\u00e4dl, University of Luxembourg": [
+        "DAC2024, 1"
+    ],
+    "Thinh Hung Pham, Nanyang Technological University, Singapore": [
+        "DAC2024, 1"
+    ],
+    "Peter Y. A. Ryan, University of Luxembourg": [
+        "DAC2024, 1"
+    ],
+    "Shouvanik Chakrabarti, Unknown Affiliation": [
+        "DAC2024, 1",
+        "AAAI2021, 1",
+        "ICCAD2021, 2"
+    ],
+    "Changhao Li, Unknown Affiliation": [
+        "DAC2024, 1"
+    ],
+    "Ruslan Shaydulin, JPMorgan Chase & Co, New York, NY, USA": [
+        "DAC2024, 1",
+        "AAAI2020, 1"
+    ],
+    "Yue Sun, Soochow University, School of Rail Transportation, Suzhou, China": [
+        "DAC2024, 1",
+        "ICCAD2021, 1"
+    ],
+    "Marco Pistoia, JPMorgan Chase, New York, NY, USA": [
+        "DAC2024, 1",
+        "ICCAD2021, 1"
+    ],
+    "Alessandro Barenghi, Polytechnic University of Milan, Italy": [
+        "DAC2024, 1"
+    ],
+    "Gerardo Pelosi, Unknown Affiliation": [
+        "DAC2024, 1"
+    ],
+    "Gang Liu 0025, University of Notre Dame, Department of Computer Science and Engineering, IN, USA": [
+        "DAC2024, 1"
+    ],
+    "Zheyuan Liu 0010, University of Notre Dame, IN, USA": [
+        "DAC2024, 1"
+    ],
+    "Kecheng Liu, Unknown Affiliation": [
+        "DAC2024, 1"
+    ],
+    "Costin Iancu, Unknown Affiliation": [
+        "DAC2024, 1"
+    ],
+    "Wibe Albert de Jong, Unknown Affiliation": [
+        "DAC2024, 1"
+    ],
+    "Xiangyu Ren, Unknown Affiliation": [
+        "DAC2024, 1"
+    ],
+    "Shengyu Zhang 0002, Chinese University of Hong Kong, Shatin, Hong Kong": [
+        "DAC2024, 1"
+    ],
+    "Liqiang Lu, Unknown Affiliation": [
+        "DAC2024, 1",
+        "ICCAD2023, 1"
+    ],
+    "Size Zheng 0001, Peking University, China": [
+        "DAC2024, 1"
+    ],
+    "Jia Yu, Unknown Affiliation": [
+        "DAC2024, 1"
+    ],
+    "Jianwei Yin, Unknown Affiliation": [
+        "DAC2024, 1",
+        "ICCAD2023, 1"
+    ],
+    "Sami Khairy, Unknown Affiliation": [
+        "AAAI2020, 1"
+    ],
+    "Lukasz Cincio, Unknown Affiliation": [
+        "AAAI2020, 1"
+    ],
+    "Yuri Alexeev, Unknown Affiliation": [
+        "AAAI2020, 1"
+    ],
+    "Prasanna Balaprakash, Unknown Affiliation": [
+        "AAAI2020, 1"
+    ],
+    "Tuhin Sahai, SRI International, Menlo Park, USA": [
+        "AAAI2020, 1"
+    ],
+    "Anurag Mishra, Unknown Affiliation": [
+        "AAAI2020, 1"
+    ],
+    "Susmit Jha, SRI International, Menlo Park, CA, USA": [
+        "AAAI2020, 1"
+    ],
+    "Jialin Zhang 0001, Chinese Academy of Sciences, Institute of Computing Technology, Beijing, China": [
+        "AAAI2020, 1",
+        "AAAI2023, 1"
+    ],
+    "Xiaoming Sun 0001, Chinese Academy of Sciences, Institute of Computing Technology, Key Lab of Network Data Science and Technology, Beijing, China": [
+        "AAAI2020, 1",
+        "AAAI2023, 1"
+    ],
+    "Dimitris Gkoumas, Unknown Affiliation": [
+        "AAAI2021, 2"
+    ],
+    "Qiuchi Li, Unknown Affiliation": [
+        "AAAI2021, 2"
+    ],
+    "Massimo Melucci, Unknown Affiliation": [
+        "AAAI2021, 2"
+    ],
+    "Yijun Yu, The Open University, Milton Keynes, UK": [
+        "AAAI2021, 1"
+    ],
+    "Dawei Song 0001, Beijing Institute of Technology, School of Computer Science and Technology, Beijing, China": [
+        "AAAI2021, 1"
+    ],
+    "Alessandro Sordoni, Unknown Affiliation": [
+        "AAAI2021, 1"
+    ],
+    "Jian-Yun Nie, University of Montreal (UdeM), Department of Computer Science and Operations Research (DIRO), Montreal, QC, Canada": [
+        "AAAI2021, 1"
+    ],
+    "Yuexian Hou, Unknown Affiliation": [
+        "AAAI2021, 1"
+    ],
+    "In\u00eas Dutra, University of Porto, Portugal": [
+        "AAAI2021, 1"
+    ],
+    "Arijit Sehanobish, Unknown Affiliation": [
+        "AAAI2021, 1"
+    ],
+    "David van Dijk, Unknown Affiliation": [
+        "AAAI2021, 1"
+    ],
+    "Daniel Silver, Unknown Affiliation": [
+        "AAAI2022, 1",
+        "AAAI2023, 1"
+    ],
+    "Mohsen Heidari, Unknown Affiliation": [
+        "AAAI2022, 1"
+    ],
+    "Ananth Grama, Purdue University, Center for Science of Information, West Lafayette, IN, USA": [
+        "AAAI2022, 1"
+    ],
+    "Wojciech Szpankowski, Purdue University, West Lafayette, USA": [
+        "AAAI2022, 1"
+    ],
+    "Hankyul Baek, Unknown Affiliation": [
+        "AAAI2023, 1"
+    ],
+    "Won Joon Yun, Unknown Affiliation": [
+        "AAAI2023, 2"
+    ],
+    "Joongheon Kim, Unknown Affiliation": [
+        "AAAI2023, 2"
+    ],
+    "Zhihao Cheng, Unknown Affiliation": [
+        "AAAI2023, 1"
+    ],
+    "Li Shen 0008, Peking University, Department of Computer Science, Beijing, China": [
+        "AAAI2023, 1"
+    ],
+    "Fabio A. Gonz\u00e1lez 0001, National University of Colombia, Bogot\u00e1, Colombia": [
+        "AAAI2023, 1"
+    ],
+    "Zhijie Zhang, Unknown Affiliation": [
+        "AAAI2023, 1"
+    ],
+    "Melanie Swan, Unknown Affiliation": [
+        "AAAI2023, 1"
+    ],
+    "Renato P. dos Santos, Lutheran University of Brazil, Canoas": [
+        "AAAI2023, 1"
+    ],
+    "Hai Wan, Baidu Inc., China": [
+        "AAAI2024, 1"
+    ],
+    "Apurva Narayan, Unknown Affiliation": [
+        "AAAI2024, 1"
+    ],
+    "Yoni Choukroun, Unknown Affiliation": [
+        "AAAI2024, 1"
+    ],
+    "Lior Wolf, Tel Aviv University, Blavatnik School of Computer Science, Israel": [
+        "AAAI2024, 1"
+    ],
+    "Jing Zhang, Indiana University, Bloomington, IN, USA": [
+        "AAAI2024, 1"
+    ],
+    "Peng Zhang 0002, Tianjin University, Key Laboratory of Cognitive Computing and Application, Tianjin, China": [
+        "AAAI2024, 1"
+    ],
+    "Shenggen Zheng, Unknown Affiliation": [
+        "AAAI2024, 1"
+    ],
+    "Haozhen Situ, Unknown Affiliation": [
+        "AAAI2024, 1"
+    ],
+    "Hong Zhang, Central South University, School of Business, Changsha, China": [
+        "AAAI2024, 1"
+    ],
+    "Dinesh Kumar Vishwakarma, Unknown Affiliation": [
+        "AAAI2024, 1"
+    ],
+    "Mukesh Prasad, University of Technology Sydney, Faculty of Engineering and Information Technology, Australia": [
+        "AAAI2024, 1"
+    ],
+    "Junwei Zhang, Xidian University, School of Cyber Engineering and Shaanxi Key Laboratory of Network and System Security, Xian, China": [
+        "AAAI2024, 1"
+    ],
+    "Xin Wang, Shaanxi Normal University, School of Physics and Information Technology, Xi'an, China": [
+        "AAAI2024, 1"
+    ],
+    "Anupam Chattopadhyay, Nanyang Technological University, Singapore": [
+        "ICCAD2020, 1",
+        "ICCAD2023, 1"
+    ],
+    "Debapriya Basu Roy, Unknown Affiliation": [
+        "ICCAD2020, 1"
+    ],
+    "Tim Fritzmann, Unknown Affiliation": [
+        "ICCAD2020, 1"
+    ],
+    "Georg Sigl, Technical University Munich, Germany": [
+        "ICCAD2020, 1"
+    ],
+    "Zhepeng Wang 0001, George Mason University, Fairfax, VA, USA": [
+        "ICCAD2021, 2",
+        "ICCAD2022, 1"
+    ],
+    "Junhuan Yang, Unknown Affiliation": [
+        "ICCAD2021, 1"
+    ],
+    "Lei Yang 0018, George Mason University, Department of Information Sciences and Technology, USA": [
+        "ICCAD2021, 1"
+    ],
+    "Shanglin Zhou, Unknown Affiliation": [
+        "ICCAD2021, 1"
+    ],
+    "Caiwen Ding, Unknown Affiliation": [
+        "ICCAD2021, 1"
+    ],
+    "Rasit Onur Topaloglu, IBM": [
+        "ICCAD2021, 2",
+        "ICCAD2022, 1"
+    ],
+    "Ilia Polian, Stuttgart University, Germany": [
+        "ICCAD2021, 1"
+    ],
+    "Yi-Chen Chang, Unknown Affiliation": [
+        "ICCAD2021, 1"
+    ],
+    "Ming-Jer Tsai, Unknown Affiliation": [
+        "ICCAD2021, 1"
+    ],
+    "Shaohan Hu, JPMorgan Chase Bank, New York, NY, USA": [
+        "ICCAD2021, 1"
+    ],
+    "Wai-Kei Mak, Unknown Affiliation": [
+        "ICCAD2021, 1"
+    ],
+    "Kathleen E. Hamilton, Unknown Affiliation": [
+        "ICCAD2022, 1"
+    ],
+    "Yu Zhang 0086, University of Science and Technology of China, Lab for Intelligent Networking and Knowledge Engineering, Hefei,China": [
+        "ICCAD2022, 1"
+    ],
+    "Zhen Wang, Unknown Affiliation": [
+        "ICCAD2022, 1"
+    ],
+    "Jun Li 0001, Liaocheng University, School of Computer Science, China": [
+        "ICCAD2022, 1"
+    ],
+    "Xiangyang Li 0001, University of Science and Technology of China, School of Computer Science and Technology, Hefei, China": [
+        "ICCAD2022, 1"
+    ],
+    "Peiyan Dong, Unknown Affiliation": [
+        "ICCAD2022, 1"
+    ],
+    "Shao-Yun Fang, Unknown Affiliation": [
+        "ICCAD2022, 1"
+    ],
+    "Francesco Regazzoni 0001, University of Amsterdam, Amsterdam, The Netherlands": [
+        "ICCAD2023, 1"
+    ],
+    "Naina Gupta 0001, Fraunhofer Singapore, Singapore": [
+        "ICCAD2023, 1"
+    ],
+    "Arpan Jati, Unknown Affiliation": [
+        "ICCAD2023, 1"
+    ],
+    "Jaco van de Pol, Aarhus University, Department of Computer Science, Aarhus, Denmark": [
+        "ICCAD2023, 1"
+    ],
+    "Ying Wang 0001, Fuzhou University, School of Economics and Management, China": [
+        "ICCAD2023, 1"
+    ],
+    "Bing Li 0017, Duke University, Durham, NC, USA": [
+        "ICCAD2023, 1"
+    ],
+    "Yinhe Han 0001, Chinese Academy of Sciences, Institute of Computing Technology, Research Center for Intelligent Computing Systems, Beijing, China": [
+        "ICCAD2023, 1"
+    ]
+}

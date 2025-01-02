@@ -3,7 +3,10 @@
         "title": "Recurrent Quantum Neural Networks.",
         "authors": [
             "Johannes Bausch"
-        ]
+        ],
+        "venue": "NeurIPS",
+        "year": 2020,
+        "conference": "NeurIPS2020"
     },
     {
         "title": "Inductive Quantum Embedding.",
@@ -14,7 +17,10 @@
             "Dinesh Garg",
             "Hima Karanam",
             "L. Venkata Subramaniam"
-        ]
+        ],
+        "venue": "NeurIPS",
+        "year": 2020,
+        "conference": "NeurIPS2020"
     },
     {
         "title": "Learning with Optimized Random Features: Exponential Speedup by Quantum Machine Learning without Sparsity and Low-Rank Assumptions.",
@@ -23,14 +29,20 @@
             "Sathyawageeswar Subramanian",
             "Sho Sonoda",
             "Masato Koashi"
-        ]
+        ],
+        "venue": "NeurIPS",
+        "year": 2020,
+        "conference": "NeurIPS2020"
     },
     {
         "title": "Playing Atari with Hybrid Quantum-Classical Reinforcement Learning.",
         "authors": [
             "Owen Lockwood",
             "Mei Si"
-        ]
+        ],
+        "venue": "NeurIPS",
+        "year": 2020,
+        "conference": "NeurIPS2020"
     },
     {
         "title": "Parametrized Quantum Policies for Reinforcement Learning.",
@@ -40,7 +52,10 @@
             "Simon C. Marshall",
             "Hans J. Briegel",
             "Vedran Dunjko"
-        ]
+        ],
+        "venue": "NeurIPS",
+        "year": 2021,
+        "conference": "NeurIPS2021"
     },
     {
         "title": "The Inductive Bias of Quantum Kernels.",
@@ -48,7 +63,10 @@
             "Jonas M. K\u00fcbler",
             "Simon Buchholz",
             "Bernhard Sch\u00f6lkopf"
-        ]
+        ],
+        "venue": "NeurIPS",
+        "year": 2021,
+        "conference": "NeurIPS2021"
     },
     {
         "title": "Reinforcement learning for optimization of variational quantum circuit architectures.",
@@ -58,7 +76,10 @@
             "Wojciech Masarczyk",
             "Eleanor Scerri",
             "Vedran Dunjko"
-        ]
+        ],
+        "venue": "NeurIPS",
+        "year": 2021,
+        "conference": "NeurIPS2021"
     },
     {
         "title": "Private learning implies quantum stability.",
@@ -66,7 +87,10 @@
             "Yihui Quek",
             "Srinivasan Arunachalam",
             "John A. Smolin"
-        ]
+        ],
+        "venue": "NeurIPS",
+        "year": 2021,
+        "conference": "NeurIPS2021"
     },
     {
         "title": "Systematic improvement of neural network quantum states using Lanczos.",
@@ -75,7 +99,10 @@
             "Douglas Hendry",
             "Phillip Weinberg",
             "Adrian E. Feiguin"
-        ]
+        ],
+        "venue": "NeurIPS",
+        "year": 2022,
+        "conference": "NeurIPS2022"
     },
     {
         "title": "Quantum Algorithms for Sampling Log-Concave Distributions and Estimating Normalizing Constants.",
@@ -85,7 +112,10 @@
             "Jin-Peng Liu",
             "Chunhao Wang",
             "Ruizhe Zhang 0001"
-        ]
+        ],
+        "venue": "NeurIPS",
+        "year": 2022,
+        "conference": "NeurIPS2022"
     },
     {
         "title": "Matrix Multiplicative Weights Updates in Quantum Zero-Sum Games: Conservation Laws & Recurrence.",
@@ -93,7 +123,10 @@
             "Rahul Jain",
             "Georgios Piliouras",
             "Ryann Sim"
-        ]
+        ],
+        "venue": "NeurIPS",
+        "year": 2022,
+        "conference": "NeurIPS2022"
     },
     {
         "title": "Differentiable Analog Quantum Computing for Optimization and Control.",
@@ -103,14 +136,20 @@
             "Yi-Ling Qiao",
             "Ming C. Lin",
             "Xiaodi Wu 0001"
-        ]
+        ],
+        "venue": "NeurIPS",
+        "year": 2022,
+        "conference": "NeurIPS2022"
     },
     {
         "title": "Quantum Speedups of Optimizing Approximately Convex Functions with Applications to Logarithmic Regret Stochastic Convex Bandits.",
         "authors": [
             "Tongyang Li",
             "Ruizhe Zhang 0001"
-        ]
+        ],
+        "venue": "NeurIPS",
+        "year": 2022,
+        "conference": "NeurIPS2022"
     },
     {
         "title": "Concentration of Data Encoding in Parameterized Quantum Circuits.",
@@ -119,14 +158,20 @@
             "Ruilin Ye",
             "Xuanqiang Zhao",
             "Xin Wang 0022"
-        ]
+        ],
+        "venue": "NeurIPS",
+        "year": 2022,
+        "conference": "NeurIPS2022"
     },
     {
         "title": "GraphQNTK: Quantum Neural Tangent Kernel for Graph Data.",
         "authors": [
             "Yehui Tang",
             "Junchi Yan"
-        ]
+        ],
+        "venue": "NeurIPS",
+        "year": 2022,
+        "conference": "NeurIPS2022"
     },
     {
         "title": "Power and limitations of single-qubit native quantum neural networks.",
@@ -135,7 +180,10 @@
             "Hongshun Yao",
             "Mujin Li",
             "Xin Wang 0022"
-        ]
+        ],
+        "venue": "NeurIPS",
+        "year": 2022,
+        "conference": "NeurIPS2022"
     },
     {
         "title": "Escaping from the Barren Plateau via Gaussian Initializations in Deep Variational Quantum Circuits.",
@@ -144,7 +192,10 @@
             "Liu Liu 0014",
             "Min-Hsiu Hsieh",
             "Dacheng Tao"
-        ]
+        ],
+        "venue": "NeurIPS",
+        "year": 2022,
+        "conference": "NeurIPS2022"
     },
     {
         "title": "Wasserstein Quantum Monte Carlo: A Novel Approach for Solving the Quantum Many-Body Schr\u00f6dinger Equation.",
@@ -156,7 +207,10 @@
             "Qiang Liu",
             "Max Welling",
             "Alireza Makhzani"
-        ]
+        ],
+        "venue": "NeurIPS",
+        "year": 2023,
+        "conference": "NeurIPS2023"
     },
     {
         "title": "Statistical Analysis of Quantum State Learning Process in Quantum Neural Networks.",
@@ -165,7 +219,10 @@
             "Chenghong Zhu",
             "Mingrui Jing",
             "Xin Wang 0022"
-        ]
+        ],
+        "venue": "NeurIPS",
+        "year": 2023,
+        "conference": "NeurIPS2023"
     },
     {
         "title": "On quantum backpropagation, information reuse, and cheating measurement collapse.",
@@ -177,7 +234,10 @@
             "Ramis Movassagh",
             "Dar Gilboa",
             "Jarrod R. McClean"
-        ]
+        ],
+        "venue": "NeurIPS",
+        "year": 2023,
+        "conference": "NeurIPS2023"
     },
     {
         "title": "What Makes Data Suitable for a Locally Connected Neural Network? A Necessary and Sufficient Condition Based on Quantum Entanglement.",
@@ -186,7 +246,10 @@
             "Nimrod De La Vega",
             "Noam Razin",
             "Nadav Cohen"
-        ]
+        ],
+        "venue": "NeurIPS",
+        "year": 2023,
+        "conference": "NeurIPS2023"
     },
     {
         "title": "ANTN: Bridging Autoregressive Neural Networks and Tensor Networks for Quantum Many-Body Simulation.",
@@ -196,7 +259,10 @@
             "Eddie Chen",
             "Di Luo",
             "Marin Soljacic"
-        ]
+        ],
+        "venue": "NeurIPS",
+        "year": 2023,
+        "conference": "NeurIPS2023"
     },
     {
         "title": "Quantum Bayesian Optimization.",
@@ -207,7 +273,10 @@
             "Yao Shu",
             "Bryan Kian Hsiang Low",
             "Patrick Jaillet"
-        ]
+        ],
+        "venue": "NeurIPS",
+        "year": 2023,
+        "conference": "NeurIPS2023"
     },
     {
         "title": "Logarithmic-Regret Quantum Learning Algorithms for Zero-Sum Games.",
@@ -216,7 +285,10 @@
             "Zhengfeng Ji",
             "Tongyang Li",
             "Qisheng Wang"
-        ]
+        ],
+        "venue": "NeurIPS",
+        "year": 2023,
+        "conference": "NeurIPS2023"
     },
     {
         "title": "GeoTMI: Predicting Quantum Chemical Property with Easy-to-Obtain Geometry via Positional Denoising.",
@@ -227,14 +299,20 @@
             "Seokhyun Moon",
             "Jun Hyeong Kim",
             "Woo Youn Kim"
-        ]
+        ],
+        "venue": "NeurIPS",
+        "year": 2023,
+        "conference": "NeurIPS2023"
     },
     {
         "title": "Classical Simulation of Quantum Circuits: Parallel Environments and Benchmark.",
         "authors": [
             "Xiao-Yang Liu",
             "Zeliang Zhang"
-        ]
+        ],
+        "venue": "NeurIPS",
+        "year": 2023,
+        "conference": "NeurIPS2023"
     },
     {
         "title": "Payoff-based Learning with Matrix Multiplicative Weights in Quantum Games.",
@@ -243,7 +321,10 @@
             "Panayotis Mertikopoulos",
             "Nicholas Bambos",
             "Jose H. Blanchet"
-        ]
+        ],
+        "venue": "NeurIPS",
+        "year": 2023,
+        "conference": "NeurIPS2023"
     },
     {
         "title": "QuACK: Accelerating Gradient-Based Quantum Optimization with Koopman Operator Learning.",
@@ -252,7 +333,10 @@
             "Jiayu Shen",
             "Rumen Dangovski",
             "Marin Soljacic"
-        ]
+        ],
+        "venue": "NeurIPS",
+        "year": 2023,
+        "conference": "NeurIPS2023"
     },
     {
         "title": "Physics-Informed Bayesian Optimization of Variational Quantum Circuits.",
@@ -267,14 +351,20 @@
             "Paolo Stornati",
             "Pan Kessel",
             "Shinichi Nakajima"
-        ]
+        ],
+        "venue": "NeurIPS",
+        "year": 2023,
+        "conference": "NeurIPS2023"
     },
     {
         "title": "Quantum speedups for stochastic optimization.",
         "authors": [
             "Aaron Sidford",
             "Chenyi Zhang"
-        ]
+        ],
+        "venue": "NeurIPS",
+        "year": 2023,
+        "conference": "NeurIPS2023"
     },
     {
         "title": "QH9: A Quantum Hamiltonian Prediction Benchmark for QM9 Molecules.",
@@ -286,6 +376,1641 @@
             "Xiaofeng Qian",
             "Xiaoning Qian",
             "Shuiwang Ji"
-        ]
+        ],
+        "venue": "NeurIPS",
+        "year": 2023,
+        "conference": "NeurIPS2023"
+    },
+    {
+        "title": "Realistic Fault Models and Fault Simulation for Quantum Dot Quantum Circuits.",
+        "authors": [
+            "Cheng-Yun Hsieh",
+            "Chen-Hung Wu",
+            "Chia-Hsien Huang",
+            "His-Sheng Goan",
+            "James Chien-Mo Li"
+        ],
+        "venue": "DAC",
+        "year": 2020,
+        "conference": "DAC2020"
+    },
+    {
+        "title": "Improved DD-based Equivalence Checking of Quantum Circuits.",
+        "authors": [
+            "Lukas Burgholzer",
+            "Robert Wille"
+        ],
+        "venue": "DAC",
+        "year": 2020,
+        "conference": "DAC2020"
+    },
+    {
+        "title": "Concurrency in DD-based Quantum Circuit Simulation.",
+        "authors": [
+            "Stefan Hillmich",
+            "Alwin Zulehner",
+            "Robert Wille"
+        ],
+        "venue": "DAC",
+        "year": 2020,
+        "conference": "DAC2020"
+    },
+    {
+        "title": "Approximation of Quantum States Using Decision Diagrams.",
+        "authors": [
+            "Alwin Zulehner",
+            "Stefan Hillmich",
+            "Igor L. Markov",
+            "Robert Wille"
+        ],
+        "venue": "DAC",
+        "year": 2020,
+        "conference": "DAC2020"
+    },
+    {
+        "title": "An Efficient Circuit Compilation Flow for Quantum Approximate Optimization Algorithm.",
+        "authors": [
+            "Mahabubul Alam",
+            "Abdullah Ash-Saki",
+            "Swaroop Ghosh"
+        ],
+        "venue": "DAC",
+        "year": 2020,
+        "conference": "DAC2020"
+    },
+    {
+        "title": "The Power of Simulation for Equivalence Checking in Quantum Computing.",
+        "authors": [
+            "Lukas Burgholzer",
+            "Robert Wille"
+        ],
+        "venue": "DAC",
+        "year": 2020,
+        "conference": "DAC2020"
+    },
+    {
+        "title": "Just Like the Real Thing: Fast Weak Simulation of Quantum Computation.",
+        "authors": [
+            "Stefan Hillmich",
+            "Igor L. Markov",
+            "Robert Wille"
+        ],
+        "venue": "DAC",
+        "year": 2020,
+        "conference": "DAC2020"
+    },
+    {
+        "title": "Eliminating Redundant Computation in Noisy Quantum Computing Simulation.",
+        "authors": [
+            "Gushu Li",
+            "Yufei Ding",
+            "Yuan Xie 0001"
+        ],
+        "venue": "DAC",
+        "year": 2020,
+        "conference": "DAC2020"
+    },
+    {
+        "title": "Massively Parallel Approximate Simulation of Hard Quantum Circuits.",
+        "authors": [
+            "Igor L. Markov",
+            "Aneeqa Fatima",
+            "Sergei V. Isakov",
+            "Sergio Boixo"
+        ],
+        "venue": "DAC",
+        "year": 2020,
+        "conference": "DAC2020"
+    },
+    {
+        "title": "Exploiting Quantum Teleportation in Quantum Circuit Mapping.",
+        "authors": [
+            "Stefan Hillmich",
+            "Alwin Zulehner",
+            "Robert Wille"
+        ],
+        "venue": "DAC",
+        "year": 2021,
+        "conference": "DAC2021"
+    },
+    {
+        "title": "Random Stimuli Generation for the Verification of Quantum Circuits.",
+        "authors": [
+            "Lukas Burgholzer",
+            "Richard Kueng",
+            "Robert Wille"
+        ],
+        "venue": "DAC",
+        "year": 2021,
+        "conference": "DAC2021"
+    },
+    {
+        "title": "When Machine Learning Meets Quantum Computers: A Case Study.",
+        "authors": [
+            "Weiwen Jiang",
+            "Jinjun Xiong",
+            "Yiyu Shi 0001"
+        ],
+        "venue": "DAC",
+        "year": 2021,
+        "conference": "DAC2021"
+    },
+    {
+        "title": "Optimized Polynomial Multiplier Architectures for Post-Quantum KEM Saber.",
+        "authors": [
+            "Andrea Basso 0002",
+            "Sujoy Sinha Roy"
+        ],
+        "venue": "DAC",
+        "year": 2021,
+        "conference": "DAC2021"
+    },
+    {
+        "title": "An Efficient Algorithm for Sparse Quantum State Preparation.",
+        "authors": [
+            "Niels Gleinig",
+            "Torsten Hoefler"
+        ],
+        "venue": "DAC",
+        "year": 2021,
+        "conference": "DAC2021"
+    },
+    {
+        "title": "Approximate Equivalence Checking of Noisy Quantum Circuits.",
+        "authors": [
+            "Xin Hong",
+            "Mingsheng Ying",
+            "Yuan Feng 0001",
+            "Xiangzhen Zhou",
+            "Sanjiang Li"
+        ],
+        "venue": "DAC",
+        "year": 2021,
+        "conference": "DAC2021"
+    },
+    {
+        "title": "A Bridge-based Compression Algorithm for Topological Quantum Circuits.",
+        "authors": [
+            "Chen-Hao Hsu",
+            "Wan-Hsuan Lin",
+            "Wei-Hsiang Tseng",
+            "Yao-Wen Chang"
+        ],
+        "venue": "DAC",
+        "year": 2021,
+        "conference": "DAC2021"
+    },
+    {
+        "title": "FALCON Down: Breaking FALCON Post-Quantum Signature Scheme through Side-Channel Attacks.",
+        "authors": [
+            "Emre Karabulut",
+            "Aydin Aysu"
+        ],
+        "venue": "DAC",
+        "year": 2021,
+        "conference": "DAC2021"
+    },
+    {
+        "title": "Invited: Drug Discovery Approaches using Quantum Machine Learning.",
+        "authors": [
+            "Junde Li",
+            "Mahabubul Alam",
+            "Congzhou M. Sha",
+            "Jian Wang 0094",
+            "Nikolay V. Dokholyan",
+            "Swaroop Ghosh"
+        ],
+        "venue": "DAC",
+        "year": 2021,
+        "conference": "DAC2021"
+    },
+    {
+        "title": "Invited: Trainable Discrete Feature Embeddings for Quantum Machine Learning.",
+        "authors": [
+            "Napat Thumwanit",
+            "Chayaphol Lortaraprasert",
+            "Rudy Raymond"
+        ],
+        "venue": "DAC",
+        "year": 2021,
+        "conference": "DAC2021"
+    },
+    {
+        "title": "Bit-Slicing the Hilbert Space: Scaling Up Accurate Quantum Circuit Simulation.",
+        "authors": [
+            "Yuan-Hung Tsai",
+            "Jie-Hong R. Jiang",
+            "Chiao-Shan Jhang"
+        ],
+        "venue": "DAC",
+        "year": 2021,
+        "conference": "DAC2021"
+    },
+    {
+        "title": "QECOOL: On-Line Quantum Error Correction with a Superconducting Decoder for Surface Code.",
+        "authors": [
+            "Yosuke Ueno",
+            "Masaaki Kondo",
+            "Masamitsu Tanaka",
+            "Yasunari Suzuki",
+            "Yutaka Tabuchi"
+        ],
+        "venue": "DAC",
+        "year": 2021,
+        "conference": "DAC2021"
+    },
+    {
+        "title": "Quantum Spectral Clustering of Mixed Graphs.",
+        "authors": [
+            "Daniel Volya",
+            "Prabhat Mishra 0001"
+        ],
+        "venue": "DAC",
+        "year": 2021,
+        "conference": "DAC2021"
+    },
+    {
+        "title": "Efficient Implementation of Finite Field Arithmetic for Binary Ring-LWE Post-Quantum Cryptography Through a Novel Lookup-Table-Like Method.",
+        "authors": [
+            "Jiafeng Xie",
+            "Pengzhou He",
+            "Wujie Wen"
+        ],
+        "venue": "DAC",
+        "year": 2021,
+        "conference": "DAC2021"
+    },
+    {
+        "title": "Mitigating Crosstalk in Quantum Computers through Commutativity-Based Instruction Reordering.",
+        "authors": [
+            "Lei Xie",
+            "Jidong Zhai",
+            "Weimin Zheng"
+        ],
+        "venue": "DAC",
+        "year": 2021,
+        "conference": "DAC2021"
+    },
+    {
+        "title": "QuantumNAT: quantum noise-aware training with noise injection, quantization and normalization.",
+        "authors": [
+            "Hanrui Wang 0002",
+            "Jiaqi Gu 0002",
+            "Yongshan Ding 0001",
+            "Zirui Li",
+            "Frederic T. Chong",
+            "David Z. Pan",
+            "Song Han 0003"
+        ],
+        "venue": "DAC",
+        "year": 2022,
+        "conference": "DAC2022"
+    },
+    {
+        "title": "Limiting the Search Space in Optimal Quantum Circuit Mapping.",
+        "authors": [
+            "Lukas Burgholzer",
+            "Sarah Schneider",
+            "Robert Wille"
+        ],
+        "venue": "DAC",
+        "year": 2022,
+        "conference": "DAC2022"
+    },
+    {
+        "title": "Efficient Preparation of Cyclic Quantum States.",
+        "authors": [
+            "Fereshte Mozafari",
+            "Yuxiang Yang",
+            "Giovanni De Micheli"
+        ],
+        "venue": "DAC",
+        "year": 2022,
+        "conference": "DAC2022"
+    },
+    {
+        "title": "QOC: quantum on-chip training with parameter shift and gradient pruning.",
+        "authors": [
+            "Hanrui Wang 0002",
+            "Zirui Li",
+            "Jiaqi Gu 0002",
+            "Yongshan Ding 0001",
+            "David Z. Pan",
+            "Song Han 0003"
+        ],
+        "venue": "DAC",
+        "year": 2022,
+        "conference": "DAC2022"
+    },
+    {
+        "title": "Handling non-unitaries in quantum circuit equivalence checking.",
+        "authors": [
+            "Lukas Burgholzer",
+            "Robert Wille"
+        ],
+        "venue": "DAC",
+        "year": 2022,
+        "conference": "DAC2022"
+    },
+    {
+        "title": "Optimizing quantum circuit synthesis for permutations using recursion.",
+        "authors": [
+            "Cynthia Chen",
+            "Bruno Schmitt",
+            "Helena Zhang",
+            "Lev S. Bishop",
+            "Ali Javadi-Abhari"
+        ],
+        "venue": "DAC",
+        "year": 2022,
+        "conference": "DAC2022"
+    },
+    {
+        "title": "Optimizing quantum circuit placement via machine learning.",
+        "authors": [
+            "Hongxiang Fan",
+            "Ce Guo",
+            "Wayne Luk"
+        ],
+        "venue": "DAC",
+        "year": 2022,
+        "conference": "DAC2022"
+    },
+    {
+        "title": "A fast and scalable qubit-mapping method for noisy intermediate-scale quantum computers.",
+        "authors": [
+            "Sunghye Park",
+            "Daeyeon Kim",
+            "Minhyuk Kweon",
+            "Jae-Yoon Sim",
+            "Seokhyeong Kang"
+        ],
+        "venue": "DAC",
+        "year": 2022,
+        "conference": "DAC2022"
+    },
+    {
+        "title": "Equivalence checking paradigms in quantum circuit design: a case study.",
+        "authors": [
+            "Tom Peham",
+            "Lukas Burgholzer",
+            "Robert Wille"
+        ],
+        "venue": "DAC",
+        "year": 2022,
+        "conference": "DAC2022"
+    },
+    {
+        "title": "Automatic oracle generation in microsoft's quantum development kit using QIR and LLVM passes.",
+        "authors": [
+            "Mathias Soeken",
+            "Mariia Mykhailova"
+        ],
+        "venue": "DAC",
+        "year": 2022,
+        "conference": "DAC2022"
+    },
+    {
+        "title": "A bridge-based algorithm for simultaneous primal and dual defects compression on topologically quantum-error-corrected circuits.",
+        "authors": [
+            "Wei-Hsiang Tseng",
+            "Yao-Wen Chang"
+        ],
+        "venue": "DAC",
+        "year": 2022,
+        "conference": "DAC2022"
+    },
+    {
+        "title": "Accurate BDD-based unitary operator manipulation for scalable and robust quantum circuit verification.",
+        "authors": [
+            "Chun-Yu Wei",
+            "Yuan-Hung Tsai",
+            "Chiao-Shan Jhang",
+            "Jie-Hong R. Jiang"
+        ],
+        "venue": "DAC",
+        "year": 2022,
+        "conference": "DAC2022"
+    },
+    {
+        "title": "The basis of design tools for quantum computing: arrays, decision diagrams, tensor networks, and ZX-calculus.",
+        "authors": [
+            "Robert Wille",
+            "Lukas Burgholzer",
+            "Stefan Hillmich",
+            "Thomas Grurl",
+            "Alexander Ploier",
+            "Tom Peham"
+        ],
+        "venue": "DAC",
+        "year": 2022,
+        "conference": "DAC2022"
+    },
+    {
+        "title": "Equivalence Checking of Parameterized Quantum Circuits: Verifying the Compilation of Variational Quantum Algorithms.",
+        "authors": [
+            "Tom Peham",
+            "Lukas Burgholzer",
+            "Robert Wille"
+        ],
+        "venue": "DAC",
+        "year": 2023,
+        "conference": "DAC2023"
+    },
+    {
+        "title": "Battle Against Fluctuating Quantum Noise: Compression-Aided Framework to Enable Robust Quantum Neural Network.",
+        "authors": [
+            "Zhirui Hu",
+            "Youzuo Lin",
+            "Qiang Guan",
+            "Weiwen Jiang"
+        ],
+        "venue": "DAC",
+        "year": 2023,
+        "conference": "DAC2023"
+    },
+    {
+        "title": "CUDA Quantum: The Platform for Integrated Quantum-Classical Computing.",
+        "authors": [
+            "Jin-Sung Kim",
+            "Alex McCaskey",
+            "Bettina Heim",
+            "Manish Modani",
+            "Sam Stanwyck",
+            "Timothy B. Costa"
+        ],
+        "venue": "DAC",
+        "year": 2023,
+        "conference": "DAC2023"
+    },
+    {
+        "title": "Orchestrating Measurement-Based Quantum Computation over Photonic Quantum Processors.",
+        "authors": [
+            "Yingheng Li",
+            "Aditya Pawar",
+            "Mohadeseh Azari",
+            "Yanan Guo 0002",
+            "Youtao Zhang",
+            "Jun Yang 0002",
+            "Kaushik Parasuram Seshadreesan",
+            "Xulong Tang"
+        ],
+        "venue": "DAC",
+        "year": 2023,
+        "conference": "DAC2023"
+    },
+    {
+        "title": "Knowledge Distillation in Quantum Neural Network Using Approximate Synthesis.",
+        "authors": [
+            "Mahabubul Alam",
+            "Satwik Kundu",
+            "Swaroop Ghosh"
+        ],
+        "venue": "DAC",
+        "year": 2023,
+        "conference": "DAC2023"
+    },
+    {
+        "title": "Software Tools for Decoding Quantum Low-Density Parity-Check Codes.",
+        "authors": [
+            "Lucas Berent",
+            "Lukas Burgholzer",
+            "Robert Wille"
+        ],
+        "venue": "DAC",
+        "year": 2023,
+        "conference": "DAC2023"
+    },
+    {
+        "title": "A Global Optimization Algorithm for Buffer and Splitter Insertion in Adiabatic Quantum-Flux-Parametron Circuits.",
+        "authors": [
+            "Rongliang Fu",
+            "Mengmeng Wang",
+            "Yirong Kan",
+            "Nobuyuki Yoshikawa",
+            "Tsung-Yi Ho",
+            "Olivia Chen"
+        ],
+        "venue": "DAC",
+        "year": 2023,
+        "conference": "DAC2023"
+    },
+    {
+        "title": "Graph Partitioning Approach for Fast Quantum Circuit Simulation.",
+        "authors": [
+            "Jaekyung Im",
+            "Seokhyeong Kang"
+        ],
+        "venue": "DAC",
+        "year": 2023,
+        "conference": "DAC2023"
+    },
+    {
+        "title": "A Robust Approach to Detecting Non-Equivalent Quantum Circuits Using Specially Designed Stimuli.",
+        "authors": [
+            "Hsiao-Lun Liu",
+            "Yi-Ting Li",
+            "Yung-Chih Chen",
+            "Chun-Yao Wang"
+        ],
+        "venue": "DAC",
+        "year": 2023,
+        "conference": "DAC2023"
+    },
+    {
+        "title": "Compilation of Entangling Gates for High-Dimensional Quantum Systems.",
+        "authors": [
+            "Kevin Mato",
+            "Martin Ringbauer",
+            "Stefan Hillmich",
+            "Robert Wille"
+        ],
+        "venue": "DAC",
+        "year": 2023,
+        "conference": "DAC2023"
+    },
+    {
+        "title": "An SMT-Solver-Based Synthesis of NNA-Compliant Quantum Circuits Consisting of CNOT, H and T Gates.",
+        "authors": [
+            "Kyohei Seino",
+            "Shigeru Yamashita"
+        ],
+        "venue": "DAC",
+        "year": 2023,
+        "conference": "DAC2023"
+    },
+    {
+        "title": "Quantum Data Compression for Efficient Generation of Control Pulses.",
+        "authors": [
+            "Daniel Volya",
+            "Prabhat Mishra 0001"
+        ],
+        "venue": "DAC",
+        "year": 2023,
+        "conference": "DAC2023"
+    },
+    {
+        "title": "Cryogenic In-Memory Matrix-Vector Multiplication using Ferroelectric Superconducting Quantum Interference Device (FE-SQUID).",
+        "authors": [
+            "Shamiul Alam",
+            "Jack Hutchins",
+            "Md. Shafayat Hossain",
+            "Kai Ni 0004",
+            "Vijaykrishnan Narayanan",
+            "Ahmedullah Aziz"
+        ],
+        "venue": "DAC",
+        "year": 2023,
+        "conference": "DAC2023"
+    },
+    {
+        "title": "Lightning Talk: Scaling Up Quantum Compilation - Challenges and Opportunities.",
+        "authors": [
+            "Jason Cong"
+        ],
+        "venue": "DAC",
+        "year": 2023,
+        "conference": "DAC2023"
+    },
+    {
+        "title": "PIMA-LPN: Processing-in-memory Acceleration for Efficient LPN-based Post-Quantum Cryptography.",
+        "authors": [
+            "Lin Ding",
+            "Song Bian 0001",
+            "Jiliang Zhang 0002"
+        ],
+        "venue": "DAC",
+        "year": 2023,
+        "conference": "DAC2023"
+    },
+    {
+        "title": "Quixote: Improving Fidelity of Quantum Program by Independent Execution of Controlled Gates.",
+        "authors": [
+            "Enhyeok Jang",
+            "Seungwoo Choi",
+            "Won Woo Ro"
+        ],
+        "venue": "DAC",
+        "year": 2023,
+        "conference": "DAC2023"
+    },
+    {
+        "title": "(Invited) Predictive analytics for cryogenic CMOS in future quantum computing systems.",
+        "authors": [
+            "Rajiv V. Joshi",
+            "Sudipto Chakraborty"
+        ],
+        "venue": "DAC",
+        "year": 2023,
+        "conference": "DAC2023"
+    },
+    {
+        "title": "Hybrid Gate-Pulse Model for Variational Quantum Algorithms.",
+        "authors": [
+            "Zhiding Liang",
+            "Zhixin Song",
+            "Jinglei Cheng",
+            "Zichang He",
+            "Ji Liu 0007",
+            "Hanrui Wang 0002",
+            "Ruiyang Qin",
+            "Yiru Wang",
+            "Song Han 0003",
+            "Xuehai Qian",
+            "Yiyu Shi 0001"
+        ],
+        "venue": "DAC",
+        "year": 2023,
+        "conference": "DAC2023"
+    },
+    {
+        "title": "Scalable Optimal Layout Synthesis for NISQ Quantum Processors.",
+        "authors": [
+            "Wan-Hsuan Lin",
+            "Jason Kimko",
+            "Bochen Tan",
+            "Nikolaj S. Bj\u00f8rner",
+            "Jason Cong"
+        ],
+        "venue": "DAC",
+        "year": 2023,
+        "conference": "DAC2023"
+    },
+    {
+        "title": "Invited: Building Robust Quantum System Software for Technology-Specific Characteristics.",
+        "authors": [
+            "Tirthak Patel",
+            "Devesh Tiwari"
+        ],
+        "venue": "DAC",
+        "year": 2023,
+        "conference": "DAC2023"
+    },
+    {
+        "title": "Compiler Optimization for Quantum Computing Using Reinforcement Learning.",
+        "authors": [
+            "Nils Quetschlich",
+            "Lukas Burgholzer",
+            "Robert Wille"
+        ],
+        "venue": "DAC",
+        "year": 2023,
+        "conference": "DAC2023"
+    },
+    {
+        "title": "Late Breaking Results: An Efficient Bridge-based Compression Algorithm for Topologically Quantum Error Corrected Circuits.",
+        "authors": [
+            "Wei-Hsiang Tseng",
+            "Yao-Wen Chang"
+        ],
+        "venue": "DAC",
+        "year": 2023,
+        "conference": "DAC2023"
+    },
+    {
+        "title": "Ever more optimized simulations of fermionic systems on a quantum computer.",
+        "authors": [
+            "Qingfeng Wang",
+            "Ze-Pei Cian",
+            "Ming Li",
+            "Igor L. Markov",
+            "Yunseong Nam"
+        ],
+        "venue": "DAC",
+        "year": 2023,
+        "conference": "DAC2023"
+    },
+    {
+        "title": "RISC-V Instruction Set Extensions for Multi-Precision Integer Arithmetic: A Case Study on Post-Quantum Key Exchange Using CSIDH-512.",
+        "authors": [
+            "Hao Cheng 0009",
+            "Georgios Fotiadis",
+            "Johann Gro\u00dfsch\u00e4dl",
+            "Daniel Page",
+            "Thinh Hung Pham",
+            "Peter Y. A. Ryan"
+        ],
+        "venue": "DAC",
+        "year": 2024,
+        "conference": "DAC2024"
+    },
+    {
+        "title": "Fast Virtual Gate Extraction For Silicon Quantum Dot Devices.",
+        "authors": [
+            "Shize Che",
+            "Seongwoo Oh",
+            "Haoyun Qin",
+            "Yuhao Liu",
+            "Anthony Sigillito",
+            "Gushu Li"
+        ],
+        "venue": "DAC",
+        "year": 2024,
+        "conference": "DAC2024"
+    },
+    {
+        "title": "RCGP: An Automatic Synthesis Framework for Reversible Quantum-Flux-Parametron Logic Circuits based on Efficient Cartesian Genetic Programming.",
+        "authors": [
+            "Rongliang Fu",
+            "Robert Wille",
+            "Tsung-Yi Ho"
+        ],
+        "venue": "DAC",
+        "year": 2024,
+        "conference": "DAC2024"
+    },
+    {
+        "title": "Invited: Challenges and Opportunities of Quantum Optimization in Finance.",
+        "authors": [
+            "Zichang He",
+            "Shouvanik Chakrabarti",
+            "Dylan Herman",
+            "Niraj Kumar 0005",
+            "Changhao Li",
+            "Pierre Minssen",
+            "Pradeep Niroula",
+            "Ruslan Shaydulin",
+            "Yue Sun",
+            "Shree Hari Sureshbabu",
+            "Romina Yalovetzky",
+            "Marco Pistoia"
+        ],
+        "venue": "DAC",
+        "year": 2024,
+        "conference": "DAC2024"
+    },
+    {
+        "title": "QuGeo: An End-to-end Quantum Learning Framework for Geoscience - A Case Study on Full-Waveform Inversion.",
+        "authors": [
+            "Weiwen Jiang",
+            "Youzuo Lin"
+        ],
+        "venue": "DAC",
+        "year": 2024,
+        "conference": "DAC2024"
+    },
+    {
+        "title": "Design of a Quantum Walk Circuit to Solve the Subset-Sum Problem.",
+        "authors": [
+            "Giacomo Lancellotti",
+            "Simone Perriello",
+            "Alessandro Barenghi",
+            "Gerardo Pelosi"
+        ],
+        "venue": "DAC",
+        "year": 2024,
+        "conference": "DAC2024"
+    },
+    {
+        "title": "Invited: Graph Learning for Parameter Prediction of Quantum Approximate Optimization Algorithm.",
+        "authors": [
+            "Zhiding Liang",
+            "Gang Liu 0025",
+            "Zheyuan Liu 0010",
+            "Jinglei Cheng",
+            "Tianyi Hao 0003",
+            "Kecheng Liu",
+            "Hang Ren",
+            "Zhixin Song",
+            "Ji Liu 0007",
+            "Fanny Ye",
+            "Yiyu Shi 0001"
+        ],
+        "venue": "DAC",
+        "year": 2024,
+        "conference": "DAC2024"
+    },
+    {
+        "title": "FCM: A Fusion-aware Wire Cutting Approach for Measurement-based Quantum Computing.",
+        "authors": [
+            "Zewei Mo",
+            "Yingheng Li",
+            "Aditya Pawar",
+            "Xulong Tang",
+            "Jun Yang 0002",
+            "Youtao Zhang"
+        ],
+        "venue": "DAC",
+        "year": 2024,
+        "conference": "DAC2024"
+    },
+    {
+        "title": "Effective Quantum Resource Optimization via Circuit Resizing in BQSKit.",
+        "authors": [
+            "Siyuan Niu",
+            "Akel Hashim",
+            "Costin Iancu",
+            "Wibe Albert de Jong",
+            "Ed Younis"
+        ],
+        "venue": "DAC",
+        "year": 2024,
+        "conference": "DAC2024"
+    },
+    {
+        "title": "Invited: Leveraging Machine Learning for Quantum Compilation Optimization.",
+        "authors": [
+            "Xiangyu Ren",
+            "Tianyu Zhang",
+            "Xiong Xu",
+            "Yicong Zheng",
+            "Shengyu Zhang 0002"
+        ],
+        "venue": "DAC",
+        "year": 2024,
+        "conference": "DAC2024"
+    },
+    {
+        "title": "Hybrid Circuit Mapping: Leveraging the Full Spectrum of Computational Capabilities of Neutral Atom Quantum Computers.",
+        "authors": [
+            "Ludwig Schmid",
+            "Sunghye Park",
+            "Robert Wille"
+        ],
+        "venue": "DAC",
+        "year": 2024,
+        "conference": "DAC2024"
+    },
+    {
+        "title": "SpREM: Exploiting Hamming Sparsity for Fast Quantum Readout Error Mitigation.",
+        "authors": [
+            "Hanyu Zhang",
+            "Liqiang Lu",
+            "Siwei Tan",
+            "Size Zheng 0001",
+            "Jia Yu",
+            "Jianwei Yin"
+        ],
+        "venue": "DAC",
+        "year": 2024,
+        "conference": "DAC2024"
+    },
+    {
+        "title": "Learning to Optimize Variational Quantum Circuits to Solve Combinatorial Problems.",
+        "authors": [
+            "Sami Khairy",
+            "Ruslan Shaydulin",
+            "Lukasz Cincio",
+            "Yuri Alexeev",
+            "Prasanna Balaprakash"
+        ],
+        "venue": "AAAI",
+        "year": 2020,
+        "conference": "AAAI2020"
+    },
+    {
+        "title": "Quantum Probabilistic Models Using Feynman Diagram Rules for Better Understanding the Information Diffusion Dynamics in Online Social Networks.",
+        "authors": [
+            "Ece C. Mutlu"
+        ],
+        "venue": "AAAI",
+        "year": 2020,
+        "conference": "AAAI2020"
+    },
+    {
+        "title": "Estimating the Density of States of Boolean Satisfiability Problems on Classical and Quantum Computing Platforms.",
+        "authors": [
+            "Tuhin Sahai",
+            "Anurag Mishra",
+            "Jose Miguel Pasini",
+            "Susmit Jha"
+        ],
+        "venue": "AAAI",
+        "year": 2020,
+        "conference": "AAAI2020"
+    },
+    {
+        "title": "Revisiting Online Quantum State Learning.",
+        "authors": [
+            "Feidiao Yang",
+            "Jiaqing Jiang",
+            "Jialin Zhang 0001",
+            "Xiaoming Sun 0001"
+        ],
+        "venue": "AAAI",
+        "year": 2020,
+        "conference": "AAAI2020"
+    },
+    {
+        "title": "Quantum Cognitively Motivated Decision Fusion for Video Sentiment Analysis.",
+        "authors": [
+            "Dimitris Gkoumas",
+            "Qiuchi Li",
+            "Shahram Dehdashti",
+            "Massimo Melucci",
+            "Yijun Yu",
+            "Dawei Song 0001"
+        ],
+        "venue": "AAAI",
+        "year": 2021,
+        "conference": "AAAI2021"
+    },
+    {
+        "title": "Quantum-inspired Neural Network for Conversational Emotion Recognition.",
+        "authors": [
+            "Qiuchi Li",
+            "Dimitris Gkoumas",
+            "Alessandro Sordoni",
+            "Jian-Yun Nie",
+            "Massimo Melucci"
+        ],
+        "venue": "AAAI",
+        "year": 2021,
+        "conference": "AAAI2021"
+    },
+    {
+        "title": "VSQL: Variational Shadow Quantum Learning for Classification.",
+        "authors": [
+            "Guangxi Li",
+            "Zhixin Song",
+            "Xin Wang 0022"
+        ],
+        "venue": "AAAI",
+        "year": 2021,
+        "conference": "AAAI2021"
+    },
+    {
+        "title": "Sublinear Classical and Quantum Algorithms for General Matrix Games.",
+        "authors": [
+            "Tongyang Li",
+            "Chunhao Wang",
+            "Shouvanik Chakrabarti",
+            "Xiaodi Wu 0001"
+        ],
+        "venue": "AAAI",
+        "year": 2021,
+        "conference": "AAAI2021"
+    },
+    {
+        "title": "A Quantum-inspired Complex-valued Representation for Encoding Sentiment Information (Student Abstract).",
+        "authors": [
+            "Guangcheng Liu",
+            "Yuexian Hou",
+            "Shikai Song"
+        ],
+        "venue": "AAAI",
+        "year": 2021,
+        "conference": "AAAI2021"
+    },
+    {
+        "title": "Quantum Binary Classification (Student Abstract).",
+        "authors": [
+            "Carla Silva 0002",
+            "Ana Aguiar",
+            "In\u00eas Dutra"
+        ],
+        "venue": "AAAI",
+        "year": 2021,
+        "conference": "AAAI2021"
+    },
+    {
+        "title": "Quantum Exploration Algorithms for Multi-Armed Bandits.",
+        "authors": [
+            "Daochen Wang",
+            "Xuchen You",
+            "Tongyang Li",
+            "Andrew M. Childs"
+        ],
+        "venue": "AAAI",
+        "year": 2021,
+        "conference": "AAAI2021"
+    },
+    {
+        "title": "Learning Potentials of Quantum Systems using Deep Neural Networks.",
+        "authors": [
+            "Arijit Sehanobish",
+            "Hector H. Corzo",
+            "Onur Kara",
+            "David van Dijk"
+        ],
+        "venue": "AAAI",
+        "year": 2021,
+        "conference": "AAAI2021"
+    },
+    {
+        "title": "QUILT: Effective Multi-Class Classification on Quantum Computers Using an Ensemble of Diverse Quantum Classifiers.",
+        "authors": [
+            "Daniel Silver",
+            "Tirthak Patel",
+            "Devesh Tiwari"
+        ],
+        "venue": "AAAI",
+        "year": 2022,
+        "conference": "AAAI2022"
+    },
+    {
+        "title": "Toward Physically Realizable Quantum Neural Networks.",
+        "authors": [
+            "Mohsen Heidari",
+            "Ananth Grama",
+            "Wojciech Szpankowski"
+        ],
+        "venue": "AAAI",
+        "year": 2022,
+        "conference": "AAAI2022"
+    },
+    {
+        "title": "SLIQ: Quantum Image Similarity Networks on Noisy Quantum Computers.",
+        "authors": [
+            "Daniel Silver",
+            "Tirthak Patel",
+            "Aditya Ranjan",
+            "Harshitta Gandhi",
+            "William Cutler",
+            "Devesh Tiwari"
+        ],
+        "venue": "AAAI",
+        "year": 2023,
+        "conference": "AAAI2023"
+    },
+    {
+        "title": "FV-Train: Quantum Convolutional Neural Network Training with a Finite Number of Qubits by Extracting Diverse Features (Student Abstract).",
+        "authors": [
+            "Hankyul Baek",
+            "Won Joon Yun",
+            "Joongheon Kim"
+        ],
+        "venue": "AAAI",
+        "year": 2023,
+        "conference": "AAAI2023"
+    },
+    {
+        "title": "Alternating Layered Variational Quantum Circuits Can Be Classically Optimized Efficiently Using Classical Shadows.",
+        "authors": [
+            "Afrad Basheer",
+            "Yuan Feng 0001",
+            "Christopher Ferrie",
+            "Sanjiang Li"
+        ],
+        "venue": "AAAI",
+        "year": 2023,
+        "conference": "AAAI2023"
+    },
+    {
+        "title": "Offline Quantum Reinforcement Learning in a Conservative Manner.",
+        "authors": [
+            "Zhihao Cheng",
+            "Kaining Zhang",
+            "Li Shen 0008",
+            "Dacheng Tao"
+        ],
+        "venue": "AAAI",
+        "year": 2023,
+        "conference": "AAAI2023"
+    },
+    {
+        "title": "LEAN-DMKDE: Quantum Latent Density Estimation for Anomaly Detection (Student Abstract).",
+        "authors": [
+            "Joseph A. Gallego-Mejia",
+            "Oscar A. Bustos-Brinez",
+            "Fabio A. Gonz\u00e1lez 0001"
+        ],
+        "venue": "AAAI",
+        "year": 2023,
+        "conference": "AAAI2023"
+    },
+    {
+        "title": "Quantum Multi-Armed Bandits and Stochastic Linear Bandits Enjoy Logarithmic Regrets.",
+        "authors": [
+            "Zongqi Wan",
+            "Zhijie Zhang",
+            "Tongyang Li",
+            "Jialin Zhang 0001",
+            "Xiaoming Sun 0001"
+        ],
+        "venue": "AAAI",
+        "year": 2023,
+        "conference": "AAAI2023"
+    },
+    {
+        "title": "Quantum Multi-Agent Meta Reinforcement Learning.",
+        "authors": [
+            "Won Joon Yun",
+            "Jihong Park",
+            "Joongheon Kim"
+        ],
+        "venue": "AAAI",
+        "year": 2023,
+        "conference": "AAAI2023"
+    },
+    {
+        "title": "Quantum-Inspired Representation for Long-Tail Senses of Word Sense Disambiguation.",
+        "authors": [
+            "Junwei Zhang 0009",
+            "Ruifang He",
+            "Fengyu Guo"
+        ],
+        "venue": "AAAI",
+        "year": 2023,
+        "conference": "AAAI2023"
+    },
+    {
+        "title": "Quantum Intelligence: Responsible Human-AI Entities.",
+        "authors": [
+            "Melanie Swan",
+            "Renato P. dos Santos"
+        ],
+        "venue": "AAAI",
+        "year": 2023,
+        "conference": "AAAI2023"
+    },
+    {
+        "title": "QPEN: Quantum Projection and Quantum Entanglement Enhanced Network for Cross-Lingual Aspect-Based Sentiment Analysis.",
+        "authors": [
+            "Xingqiang Zhao",
+            "Hai Wan",
+            "Kunxun Qi"
+        ],
+        "venue": "AAAI",
+        "year": 2024,
+        "conference": "AAAI2024"
+    },
+    {
+        "title": "Generating Universal Adversarial Perturbations for Quantum Classifiers.",
+        "authors": [
+            "Gautham Anil",
+            "Vishnu Vinod",
+            "Apurva Narayan"
+        ],
+        "venue": "AAAI",
+        "year": 2024,
+        "conference": "AAAI2024"
+    },
+    {
+        "title": "Deep Quantum Error Correction.",
+        "authors": [
+            "Yoni Choukroun",
+            "Lior Wolf"
+        ],
+        "venue": "AAAI",
+        "year": 2024,
+        "conference": "AAAI2024"
+    },
+    {
+        "title": "Quantum-Inspired Neural Network with Runge-Kutta Method.",
+        "authors": [
+            "Zipeng Fan",
+            "Jing Zhang",
+            "Peng Zhang 0002",
+            "Qianxi Lin",
+            "Hui Gao"
+        ],
+        "venue": "AAAI",
+        "year": 2024,
+        "conference": "AAAI2024"
+    },
+    {
+        "title": "Training-Free Quantum Architecture Search.",
+        "authors": [
+            "Zhimin He",
+            "Maijie Deng",
+            "Shenggen Zheng",
+            "Lvzhou Li",
+            "Haozhen Situ"
+        ],
+        "venue": "AAAI",
+        "year": 2024,
+        "conference": "AAAI2024"
+    },
+    {
+        "title": "QI-IRA: Quantum-Inspired Interactive Ranking Aggregation for Person Re-identification.",
+        "authors": [
+            "Chunyu Hu",
+            "Hong Zhang",
+            "Chao Liang",
+            "Hao Huang"
+        ],
+        "venue": "AAAI",
+        "year": 2024,
+        "conference": "AAAI2024"
+    },
+    {
+        "title": "DQSSA: A Quantum-Inspired Solution for Maximizing Influence in Online Social Networks (Student Abstract).",
+        "authors": [
+            "Aryaman Rao",
+            "Parth Singh",
+            "Dinesh Kumar Vishwakarma",
+            "Mukesh Prasad"
+        ],
+        "venue": "AAAI",
+        "year": 2024,
+        "conference": "AAAI2024"
+    },
+    {
+        "title": "Quantum Interference Model for Semantic Biases of Glosses in Word Sense Disambiguation.",
+        "authors": [
+            "Junwei Zhang",
+            "Ruifang He",
+            "Fengyu Guo",
+            "Chang Liu"
+        ],
+        "venue": "AAAI",
+        "year": 2024,
+        "conference": "AAAI2024"
+    },
+    {
+        "title": "Exponential Hardness of Optimization from the Locality in Quantum Neural Networks.",
+        "authors": [
+            "Hao-Kai Zhang",
+            "Chengkai Zhu",
+            "Geng Liu",
+            "Xin Wang"
+        ],
+        "venue": "AAAI",
+        "year": 2024,
+        "conference": "AAAI2024"
+    },
+    {
+        "title": "DisQ: A Novel Quantum Output State Classification Method on IBM Quantum Computers using OpenPulse.",
+        "authors": [
+            "Tirthak Patel",
+            "Devesh Tiwari"
+        ],
+        "venue": "ICCAD",
+        "year": 2020,
+        "conference": "ICCAD2020"
+    },
+    {
+        "title": "Noise Resilient Compilation Policies for Quantum Approximate Optimization Algorithm.",
+        "authors": [
+            "Mahabubul Alam",
+            "Abdullah Ash-Saki",
+            "Junde Li",
+            "Anupam Chattopadhyay",
+            "Swaroop Ghosh"
+        ],
+        "venue": "ICCAD",
+        "year": 2020,
+        "conference": "ICCAD2020"
+    },
+    {
+        "title": "Considering Decoherence Errors in the Simulation of Quantum Circuits Using Decision Diagrams.",
+        "authors": [
+            "Thomas Grurl",
+            "J\u00fcrgen Fu\u00df",
+            "Robert Wille"
+        ],
+        "venue": "ICCAD",
+        "year": 2020,
+        "conference": "ICCAD2020"
+    },
+    {
+        "title": "Efficient Hardware/Software Co-Design for Post-Quantum Crypto Algorithm SIKE on ARM and RISC-V based Microcontrollers.",
+        "authors": [
+            "Debapriya Basu Roy",
+            "Tim Fritzmann",
+            "Georg Sigl"
+        ],
+        "venue": "ICCAD",
+        "year": 2020,
+        "conference": "ICCAD2020"
+    },
+    {
+        "title": "Optimal Layout Synthesis for Quantum Computing.",
+        "authors": [
+            "Bochen Tan",
+            "Jason Cong"
+        ],
+        "venue": "ICCAD",
+        "year": 2020,
+        "conference": "ICCAD2020"
+    },
+    {
+        "title": "JKQ: JKU Tools for Quantum Computing.",
+        "authors": [
+            "Robert Wille",
+            "Stefan Hillmich",
+            "Lukas Burgholzer"
+        ],
+        "venue": "ICCAD",
+        "year": 2020,
+        "conference": "ICCAD2020"
+    },
+    {
+        "title": "A Monte Carlo Tree Search Framework for Quantum Circuit Transformation.",
+        "authors": [
+            "Xiangzhen Zhou",
+            "Yuan Feng 0001",
+            "Sanjiang Li"
+        ],
+        "venue": "ICCAD",
+        "year": 2020,
+        "conference": "ICCAD2020"
+    },
+    {
+        "title": "ICCAD Special Session Paper: Quantum Variational Methods for Quantum Applications.",
+        "authors": [
+            "Shouvanik Chakrabarti",
+            "Xuchen You",
+            "Xiaodi Wu 0001"
+        ],
+        "venue": "ICCAD",
+        "year": 2021,
+        "conference": "ICCAD2021"
+    },
+    {
+        "title": "Can Noise on Qubits Be Learned in Quantum Neural Network? A Case Study on QuantumFlow (Invited Paper).",
+        "authors": [
+            "Zhiding Liang",
+            "Zhepeng Wang 0001",
+            "Junhuan Yang",
+            "Lei Yang 0018",
+            "Yiyu Shi 0001",
+            "Weiwen Jiang"
+        ],
+        "venue": "ICCAD",
+        "year": 2021,
+        "conference": "ICCAD2021"
+    },
+    {
+        "title": "Exploration of Quantum Neural Architecture by Mixing Quantum Neuron Designs: (Invited Paper).",
+        "authors": [
+            "Zhepeng Wang 0001",
+            "Zhiding Liang",
+            "Shanglin Zhou",
+            "Caiwen Ding",
+            "Yiyu Shi 0001",
+            "Weiwen Jiang"
+        ],
+        "venue": "ICCAD",
+        "year": 2021,
+        "conference": "ICCAD2021"
+    },
+    {
+        "title": "Quantum-Classical Hybrid Machine Learning for Image Classification (ICCAD Special Session Paper).",
+        "authors": [
+            "Mahabubul Alam",
+            "Satwik Kundu",
+            "Rasit Onur Topaloglu",
+            "Swaroop Ghosh"
+        ],
+        "venue": "ICCAD",
+        "year": 2021,
+        "conference": "ICCAD2021"
+    },
+    {
+        "title": "Split Compilation for Security of Quantum Circuits.",
+        "authors": [
+            "Abdullah Ash-Saki",
+            "Aakarshitha Suresh",
+            "Rasit Onur Topaloglu",
+            "Swaroop Ghosh"
+        ],
+        "venue": "ICCAD",
+        "year": 2021,
+        "conference": "ICCAD2021"
+    },
+    {
+        "title": "Optimal Mapping for Near-Term Quantum Architectures based on Rydberg Atoms.",
+        "authors": [
+            "Sebastian Brandhofer",
+            "Ilia Polian",
+            "Hans Peter B\u00fcchler"
+        ],
+        "venue": "ICCAD",
+        "year": 2021,
+        "conference": "ICCAD2021"
+    },
+    {
+        "title": "An Optimal Algorithm for Splitter and Buffer Insertion in Adiabatic Quantum-Flux-Parametron Circuits.",
+        "authors": [
+            "Chao-Yuan Huang",
+            "Yi-Chen Chang",
+            "Ming-Jer Tsai",
+            "Tsung-Yi Ho"
+        ],
+        "venue": "ICCAD",
+        "year": 2021,
+        "conference": "ICCAD2021"
+    },
+    {
+        "title": "Quantum Machine Learning for Finance ICCAD Special Session Paper.",
+        "authors": [
+            "Marco Pistoia",
+            "Syed Farhan Ahmad",
+            "Akshay Ajagekar",
+            "Alexander Buts",
+            "Shouvanik Chakrabarti",
+            "Dylan Herman",
+            "Shaohan Hu",
+            "Andrew Jena",
+            "Pierre Minssen",
+            "Pradeep Niroula",
+            "Arthur G. Rattew",
+            "Yue Sun",
+            "Romina Yalovetzky"
+        ],
+        "venue": "ICCAD",
+        "year": 2021,
+        "conference": "ICCAD2021"
+    },
+    {
+        "title": "A Novel Clock Tree Aware Placement Methodology for Single Flux Quantum (SFQ) Logic Circuits.",
+        "authors": [
+            "Ching-Cheng Wang",
+            "Wai-Kei Mak"
+        ],
+        "venue": "ICCAD",
+        "year": 2021,
+        "conference": "ICCAD2021"
+    },
+    {
+        "title": "Quantum Machine Learning Applications in High-Energy Physics.",
+        "authors": [
+            "Andrea Delgado 0002",
+            "Kathleen E. Hamilton"
+        ],
+        "venue": "ICCAD",
+        "year": 2022,
+        "conference": "ICCAD2022"
+    },
+    {
+        "title": "TorchQuantum Case Study for Robust Quantum Circuits.",
+        "authors": [
+            "Hanrui Wang 0002",
+            "Zhiding Liang",
+            "Jiaqi Gu 0002",
+            "Zirui Li",
+            "Yongshan Ding 0001",
+            "Weiwen Jiang",
+            "Yiyu Shi 0001",
+            "David Z. Pan",
+            "Frederic T. Chong",
+            "Song Han 0003"
+        ],
+        "venue": "ICCAD",
+        "year": 2022,
+        "conference": "ICCAD2022"
+    },
+    {
+        "title": "Quantum Machine Learning for Material Synthesis and Hardware Security (Invited Paper).",
+        "authors": [
+            "Collin Beaudoin",
+            "Satwik Kundu",
+            "Rasit Onur Topaloglu",
+            "Swaroop Ghosh"
+        ],
+        "venue": "ICCAD",
+        "year": 2022,
+        "conference": "ICCAD2022"
+    },
+    {
+        "title": "QCIR: Pattern Matching Based Universal Quantum Circuit Rewriting Framework.",
+        "authors": [
+            "Mingyu Chen 0009",
+            "Yu Zhang 0086",
+            "Yongshang Li",
+            "Zhen Wang",
+            "Jun Li 0001",
+            "Xiangyang Li 0001"
+        ],
+        "venue": "ICCAD",
+        "year": 2022,
+        "conference": "ICCAD2022"
+    },
+    {
+        "title": "Equivalence Checking of Dynamic Quantum Circuits.",
+        "authors": [
+            "Xin Hong",
+            "Yuan Feng 0001",
+            "Sanjiang Li",
+            "Mingsheng Ying"
+        ],
+        "venue": "ICCAD",
+        "year": 2022,
+        "conference": "ICCAD2022"
+    },
+    {
+        "title": "Quantum Neural Network Compression.",
+        "authors": [
+            "Zhirui Hu",
+            "Peiyan Dong",
+            "Zhepeng Wang 0001",
+            "Youzuo Lin",
+            "Yanzhi Wang",
+            "Weiwen Jiang"
+        ],
+        "venue": "ICCAD",
+        "year": 2022,
+        "conference": "ICCAD2022"
+    },
+    {
+        "title": "A Robust Quantum Layout Synthesis Algorithm with a Qubit Mapping Checker.",
+        "authors": [
+            "Tsou-An Wu",
+            "Yun-Jhe Jiang",
+            "Shao-Yun Fang"
+        ],
+        "venue": "ICCAD",
+        "year": 2022,
+        "conference": "ICCAD2022"
+    },
+    {
+        "title": "Invited Paper: Introduction to Hybrid Quantum-Classical Programming Using C++ Quantum Extension.",
+        "authors": [
+            "Xin-Chuan Wu",
+            "Shavindra P. Premaratne",
+            "Kevin Rasch"
+        ],
+        "venue": "ICCAD",
+        "year": 2023,
+        "conference": "ICCAD2023"
+    },
+    {
+        "title": "Invited Paper: Instruction Set Extensions for Post-Quantum Cryptography.",
+        "authors": [
+            "Marco Brohet",
+            "Felipe Valencia",
+            "Francesco Regazzoni 0001"
+        ],
+        "venue": "ICCAD",
+        "year": 2023,
+        "conference": "ICCAD2023"
+    },
+    {
+        "title": "Optimizing LUT-Based Quantum Circuit Synthesis Using Relative Phase Boolean Operations.",
+        "authors": [
+            "David Clarino",
+            "Naoya Asada",
+            "Shigeru Yamashita"
+        ],
+        "venue": "ICCAD",
+        "year": 2023,
+        "conference": "ICCAD2023"
+    },
+    {
+        "title": "Exact Logic Synthesis for Reversible Quantum-Flux-Parametron Logic.",
+        "authors": [
+            "Rongliang Fu",
+            "Olivia Chen",
+            "Nobuyuki Yoshikawa",
+            "Tsung-Yi Ho"
+        ],
+        "venue": "ICCAD",
+        "year": 2023,
+        "conference": "ICCAD2023"
+    },
+    {
+        "title": "CRYSTALS-Dilithium on RISC-V Processor: Lightweight Secure Boot Using Post-Quantum Digital Signature.",
+        "authors": [
+            "Naina Gupta 0001",
+            "Arpan Jati",
+            "Anupam Chattopadhyay"
+        ],
+        "venue": "ICCAD",
+        "year": 2023,
+        "conference": "ICCAD2023"
+    },
+    {
+        "title": "Single-Qubit Gates Matter for Optimising Quantum Circuit Depth in Qubit Mapping.",
+        "authors": [
+            "Sanjiang Li",
+            "Ky Dan Nguyen",
+            "Zachary Clare",
+            "Yuan Feng 0001"
+        ],
+        "venue": "ICCAD",
+        "year": 2023,
+        "conference": "ICCAD2023"
+    },
+    {
+        "title": "Optimal Layout Synthesis for Quantum Circuits as Classical Planning.",
+        "authors": [
+            "Irfansha Shaik",
+            "Jaco van de Pol"
+        ],
+        "venue": "ICCAD",
+        "year": 2023,
+        "conference": "ICCAD2023"
+    },
+    {
+        "title": "QPulseLib: Accelerating the Pulse Generation of Quantum Circuit with Reusable Patterns.",
+        "authors": [
+            "Wuwei Tian",
+            "Xinghui Jia",
+            "Siwei Tan",
+            "Zixuan Song",
+            "Liqiang Lu",
+            "Jianwei Yin"
+        ],
+        "venue": "ICCAD",
+        "year": 2023,
+        "conference": "ICCAD2023"
+    },
+    {
+        "title": "Full State Quantum Circuit Simulation Beyond Memory Limit.",
+        "authors": [
+            "Yilun Zhao 0002",
+            "Yu Chen",
+            "He Li",
+            "Ying Wang 0001",
+            "Kaiyan Chang",
+            "Bingmeng Wang",
+            "Bing Li 0017",
+            "Yinhe Han 0001"
+        ],
+        "venue": "ICCAD",
+        "year": 2023,
+        "conference": "ICCAD2023"
     }
 ]
