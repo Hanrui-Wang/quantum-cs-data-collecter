@@ -1,0 +1,80 @@
+[
+    {
+        "title": "SLIQ: Quantum Image Similarity Networks on Noisy Quantum Computers.",
+        "authors": [
+            "Daniel Silver",
+            "Tirthak Patel",
+            "Aditya Ranjan",
+            "Harshitta Gandhi",
+            "William Cutler",
+            "Devesh Tiwari"
+        ]
+    },
+    {
+        "title": "FV-Train: Quantum Convolutional Neural Network Training with a Finite Number of Qubits by Extracting Diverse Features (Student Abstract).",
+        "authors": [
+            "Hankyul Baek",
+            "Won Joon Yun",
+            "Joongheon Kim"
+        ]
+    },
+    {
+        "title": "Alternating Layered Variational Quantum Circuits Can Be Classically Optimized Efficiently Using Classical Shadows.",
+        "authors": [
+            "Afrad Basheer",
+            "Yuan Feng 0001",
+            "Christopher Ferrie",
+            "Sanjiang Li"
+        ]
+    },
+    {
+        "title": "Offline Quantum Reinforcement Learning in a Conservative Manner.",
+        "authors": [
+            "Zhihao Cheng",
+            "Kaining Zhang",
+            "Li Shen 0008",
+            "Dacheng Tao"
+        ]
+    },
+    {
+        "title": "LEAN-DMKDE: Quantum Latent Density Estimation for Anomaly Detection (Student Abstract).",
+        "authors": [
+            "Joseph A. Gallego-Mejia",
+            "Oscar A. Bustos-Brinez",
+            "Fabio A. Gonz\u00e1lez 0001"
+        ]
+    },
+    {
+        "title": "Quantum Multi-Armed Bandits and Stochastic Linear Bandits Enjoy Logarithmic Regrets.",
+        "authors": [
+            "Zongqi Wan",
+            "Zhijie Zhang",
+            "Tongyang Li",
+            "Jialin Zhang 0001",
+            "Xiaoming Sun 0001"
+        ]
+    },
+    {
+        "title": "Quantum Multi-Agent Meta Reinforcement Learning.",
+        "authors": [
+            "Won Joon Yun",
+            "Jihong Park",
+            "Joongheon Kim"
+        ]
+    },
+    {
+        "title": "Quantum-Inspired Representation for Long-Tail Senses of Word Sense Disambiguation.",
+        "authors": [
+            "Junwei Zhang 0009",
+            "Ruifang He",
+            "Fengyu Guo"
+        ]
+    },
+    {
+        "title": "Quantum Intelligence: Responsible Human-AI Entities.",
+        "authors": [
+            "Melanie Swan",
+            "Renato P. dos Santos"
+        ]
+    }
+]

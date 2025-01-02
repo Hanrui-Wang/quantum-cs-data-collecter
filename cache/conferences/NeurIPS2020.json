@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Recurrent Quantum Neural Networks.",
+        "authors": [
+            "Johannes Bausch"
+        ]
+    },
+    {
+        "title": "Inductive Quantum Embedding.",
+        "authors": [
+            "Santosh K. Srivastava",
+            "Dinesh Khandelwal",
+            "Dhiraj Madan",
+            "Dinesh Garg",
+            "Hima Karanam",
+            "L. Venkata Subramaniam"
+        ]
+    },
+    {
+        "title": "Learning with Optimized Random Features: Exponential Speedup by Quantum Machine Learning without Sparsity and Low-Rank Assumptions.",
+        "authors": [
+            "Hayata Yamasaki",
+            "Sathyawageeswar Subramanian",
+            "Sho Sonoda",
+            "Masato Koashi"
+        ]
+    },
+    {
+        "title": "Playing Atari with Hybrid Quantum-Classical Reinforcement Learning.",
+        "authors": [
+            "Owen Lockwood",
+            "Mei Si"
+        ]
+    }
+]

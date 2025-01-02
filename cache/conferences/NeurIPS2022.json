@@ -1,0 +1,80 @@
+[
+    {
+        "title": "Systematic improvement of neural network quantum states using Lanczos.",
+        "authors": [
+            "Hongwei Chen",
+            "Douglas Hendry",
+            "Phillip Weinberg",
+            "Adrian E. Feiguin"
+        ]
+    },
+    {
+        "title": "Quantum Algorithms for Sampling Log-Concave Distributions and Estimating Normalizing Constants.",
+        "authors": [
+            "Andrew M. Childs",
+            "Tongyang Li",
+            "Jin-Peng Liu",
+            "Chunhao Wang",
+            "Ruizhe Zhang 0001"
+        ]
+    },
+    {
+        "title": "Matrix Multiplicative Weights Updates in Quantum Zero-Sum Games: Conservation Laws & Recurrence.",
+        "authors": [
+            "Rahul Jain",
+            "Georgios Piliouras",
+            "Ryann Sim"
+        ]
+    },
+    {
+        "title": "Differentiable Analog Quantum Computing for Optimization and Control.",
+        "authors": [
+            "Jiaqi Leng",
+            "Yuxiang Peng",
+            "Yi-Ling Qiao",
+            "Ming C. Lin",
+            "Xiaodi Wu 0001"
+        ]
+    },
+    {
+        "title": "Quantum Speedups of Optimizing Approximately Convex Functions with Applications to Logarithmic Regret Stochastic Convex Bandits.",
+        "authors": [
+            "Tongyang Li",
+            "Ruizhe Zhang 0001"
+        ]
+    },
+    {
+        "title": "Concentration of Data Encoding in Parameterized Quantum Circuits.",
+        "authors": [
+            "Guangxi Li",
+            "Ruilin Ye",
+            "Xuanqiang Zhao",
+            "Xin Wang 0022"
+        ]
+    },
+    {
+        "title": "GraphQNTK: Quantum Neural Tangent Kernel for Graph Data.",
+        "authors": [
+            "Yehui Tang",
+            "Junchi Yan"
+        ]
+    },
+    {
+        "title": "Power and limitations of single-qubit native quantum neural networks.",
+        "authors": [
+            "Zhan Yu",
+            "Hongshun Yao",
+            "Mujin Li",
+            "Xin Wang 0022"
+        ]
+    },
+    {
+        "title": "Escaping from the Barren Plateau via Gaussian Initializations in Deep Variational Quantum Circuits.",
+        "authors": [
+            "Kaining Zhang",
+            "Liu Liu 0014",
+            "Min-Hsiu Hsieh",
+            "Dacheng Tao"
+        ]
+    }
+]

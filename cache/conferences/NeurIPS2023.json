@@ -1,0 +1,144 @@
+[
+    {
+        "title": "Wasserstein Quantum Monte Carlo: A Novel Approach for Solving the Quantum Many-Body Schr\u00f6dinger Equation.",
+        "authors": [
+            "Kirill Neklyudov",
+            "Jannes Nys",
+            "Luca A. Thiede",
+            "Juan Carrasquilla",
+            "Qiang Liu",
+            "Max Welling",
+            "Alireza Makhzani"
+        ]
+    },
+    {
+        "title": "Statistical Analysis of Quantum State Learning Process in Quantum Neural Networks.",
+        "authors": [
+            "Hao-Kai Zhang",
+            "Chenghong Zhu",
+            "Mingrui Jing",
+            "Xin Wang 0022"
+        ]
+    },
+    {
+        "title": "On quantum backpropagation, information reuse, and cheating measurement collapse.",
+        "authors": [
+            "Amira Abbas",
+            "Robbie King",
+            "Hsin-Yuan Huang",
+            "William J. Huggins",
+            "Ramis Movassagh",
+            "Dar Gilboa",
+            "Jarrod R. McClean"
+        ]
+    },
+    {
+        "title": "What Makes Data Suitable for a Locally Connected Neural Network? A Necessary and Sufficient Condition Based on Quantum Entanglement.",
+        "authors": [
+            "Yotam Alexander",
+            "Nimrod De La Vega",
+            "Noam Razin",
+            "Nadav Cohen"
+        ]
+    },
+    {
+        "title": "ANTN: Bridging Autoregressive Neural Networks and Tensor Networks for Quantum Many-Body Simulation.",
+        "authors": [
+            "Zhuo Chen",
+            "Laker Newhouse",
+            "Eddie Chen",
+            "Di Luo",
+            "Marin Soljacic"
+        ]
+    },
+    {
+        "title": "Quantum Bayesian Optimization.",
+        "authors": [
+            "Zhongxiang Dai",
+            "Gregory Kang Ruey Lau",
+            "Arun Verma",
+            "Yao Shu",
+            "Bryan Kian Hsiang Low",
+            "Patrick Jaillet"
+        ]
+    },
+    {
+        "title": "Logarithmic-Regret Quantum Learning Algorithms for Zero-Sum Games.",
+        "authors": [
+            "Minbo Gao",
+            "Zhengfeng Ji",
+            "Tongyang Li",
+            "Qisheng Wang"
+        ]
+    },
+    {
+        "title": "GeoTMI: Predicting Quantum Chemical Property with Easy-to-Obtain Geometry via Positional Denoising.",
+        "authors": [
+            "Hyeonsu Kim",
+            "Jeheon Woo",
+            "Seonghwan Kim 0004",
+            "Seokhyun Moon",
+            "Jun Hyeong Kim",
+            "Woo Youn Kim"
+        ]
+    },
+    {
+        "title": "Classical Simulation of Quantum Circuits: Parallel Environments and Benchmark.",
+        "authors": [
+            "Xiao-Yang Liu",
+            "Zeliang Zhang"
+        ]
+    },
+    {
+        "title": "Payoff-based Learning with Matrix Multiplicative Weights in Quantum Games.",
+        "authors": [
+            "Kyriakos Lotidis",
+            "Panayotis Mertikopoulos",
+            "Nicholas Bambos",
+            "Jose H. Blanchet"
+        ]
+    },
+    {
+        "title": "QuACK: Accelerating Gradient-Based Quantum Optimization with Koopman Operator Learning.",
+        "authors": [
+            "Di Luo",
+            "Jiayu Shen",
+            "Rumen Dangovski",
+            "Marin Soljacic"
+        ]
+    },
+    {
+        "title": "Physics-Informed Bayesian Optimization of Variational Quantum Circuits.",
+        "authors": [
+            "Kim Nicoli",
+            "Christopher J. Anders",
+            "Lena Funcke",
+            "Tobias Hartung",
+            "Karl Jansen",
+            "Stefan K\u00fchn",
+            "Klaus-Robert M\u00fcller",
+            "Paolo Stornati",
+            "Pan Kessel",
+            "Shinichi Nakajima"
+        ]
+    },
+    {
+        "title": "Quantum speedups for stochastic optimization.",
+        "authors": [
+            "Aaron Sidford",
+            "Chenyi Zhang"
+        ]
+    },
+    {
+        "title": "QH9: A Quantum Hamiltonian Prediction Benchmark for QM9 Molecules.",
+        "authors": [
+            "Haiyang Yu",
+            "Meng Liu 0015",
+            "Youzhi Luo",
+            "Alex Strasser",
+            "Xiaofeng Qian",
+            "Xiaoning Qian",
+            "Shuiwang Ji"
+        ]
+    }
+]

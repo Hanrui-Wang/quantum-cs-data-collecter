@@ -1,0 +1,126 @@
+[
+    {
+        "title": "Exploiting Quantum Teleportation in Quantum Circuit Mapping.",
+        "authors": [
+            "Stefan Hillmich",
+            "Alwin Zulehner",
+            "Robert Wille"
+        ]
+    },
+    {
+        "title": "Random Stimuli Generation for the Verification of Quantum Circuits.",
+        "authors": [
+            "Lukas Burgholzer",
+            "Richard Kueng",
+            "Robert Wille"
+        ]
+    },
+    {
+        "title": "When Machine Learning Meets Quantum Computers: A Case Study.",
+        "authors": [
+            "Weiwen Jiang",
+            "Jinjun Xiong",
+            "Yiyu Shi 0001"
+        ]
+    },
+    {
+        "title": "Optimized Polynomial Multiplier Architectures for Post-Quantum KEM Saber.",
+        "authors": [
+            "Andrea Basso 0002",
+            "Sujoy Sinha Roy"
+        ]
+    },
+    {
+        "title": "An Efficient Algorithm for Sparse Quantum State Preparation.",
+        "authors": [
+            "Niels Gleinig",
+            "Torsten Hoefler"
+        ]
+    },
+    {
+        "title": "Approximate Equivalence Checking of Noisy Quantum Circuits.",
+        "authors": [
+            "Xin Hong",
+            "Mingsheng Ying",
+            "Yuan Feng 0001",
+            "Xiangzhen Zhou",
+            "Sanjiang Li"
+        ]
+    },
+    {
+        "title": "A Bridge-based Compression Algorithm for Topological Quantum Circuits.",
+        "authors": [
+            "Chen-Hao Hsu",
+            "Wan-Hsuan Lin",
+            "Wei-Hsiang Tseng",
+            "Yao-Wen Chang"
+        ]
+    },
+    {
+        "title": "FALCON Down: Breaking FALCON Post-Quantum Signature Scheme through Side-Channel Attacks.",
+        "authors": [
+            "Emre Karabulut",
+            "Aydin Aysu"
+        ]
+    },
+    {
+        "title": "Invited: Drug Discovery Approaches using Quantum Machine Learning.",
+        "authors": [
+            "Junde Li",
+            "Mahabubul Alam",
+            "Congzhou M. Sha",
+            "Jian Wang 0094",
+            "Nikolay V. Dokholyan",
+            "Swaroop Ghosh"
+        ]
+    },
+    {
+        "title": "Invited: Trainable Discrete Feature Embeddings for Quantum Machine Learning.",
+        "authors": [
+            "Napat Thumwanit",
+            "Chayaphol Lortaraprasert",
+            "Rudy Raymond"
+        ]
+    },
+    {
+        "title": "Bit-Slicing the Hilbert Space: Scaling Up Accurate Quantum Circuit Simulation.",
+        "authors": [
+            "Yuan-Hung Tsai",
+            "Jie-Hong R. Jiang",
+            "Chiao-Shan Jhang"
+        ]
+    },
+    {
+        "title": "QECOOL: On-Line Quantum Error Correction with a Superconducting Decoder for Surface Code.",
+        "authors": [
+            "Yosuke Ueno",
+            "Masaaki Kondo",
+            "Masamitsu Tanaka",
+            "Yasunari Suzuki",
+            "Yutaka Tabuchi"
+        ]
+    },
+    {
+        "title": "Quantum Spectral Clustering of Mixed Graphs.",
+        "authors": [
+            "Daniel Volya",
+            "Prabhat Mishra 0001"
+        ]
+    },
+    {
+        "title": "Efficient Implementation of Finite Field Arithmetic for Binary Ring-LWE Post-Quantum Cryptography Through a Novel Lookup-Table-Like Method.",
+        "authors": [
+            "Jiafeng Xie",
+            "Pengzhou He",
+            "Wujie Wen"
+        ]
+    },
+    {
+        "title": "Mitigating Crosstalk in Quantum Computers through Commutativity-Based Instruction Reordering.",
+        "authors": [
+            "Lei Xie",
+            "Jidong Zhai",
+            "Weimin Zheng"
+        ]
+    }
+]

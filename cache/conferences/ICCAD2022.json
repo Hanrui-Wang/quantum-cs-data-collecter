@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Quantum Machine Learning Applications in High-Energy Physics.",
+        "authors": [
+            "Andrea Delgado 0002",
+            "Kathleen E. Hamilton"
+        ]
+    },
+    {
+        "title": "TorchQuantum Case Study for Robust Quantum Circuits.",
+        "authors": [
+            "Hanrui Wang 0002",
+            "Zhiding Liang",
+            "Jiaqi Gu 0002",
+            "Zirui Li",
+            "Yongshan Ding 0001",
+            "Weiwen Jiang",
+            "Yiyu Shi 0001",
+            "David Z. Pan",
+            "Frederic T. Chong",
+            "Song Han 0003"
+        ]
+    },
+    {
+        "title": "Quantum Machine Learning for Material Synthesis and Hardware Security (Invited Paper).",
+        "authors": [
+            "Collin Beaudoin",
+            "Satwik Kundu",
+            "Rasit Onur Topaloglu",
+            "Swaroop Ghosh"
+        ]
+    },
+    {
+        "title": "QCIR: Pattern Matching Based Universal Quantum Circuit Rewriting Framework.",
+        "authors": [
+            "Mingyu Chen 0009",
+            "Yu Zhang 0086",
+            "Yongshang Li",
+            "Zhen Wang",
+            "Jun Li 0001",
+            "Xiangyang Li 0001"
+        ]
+    },
+    {
+        "title": "Equivalence Checking of Dynamic Quantum Circuits.",
+        "authors": [
+            "Xin Hong",
+            "Yuan Feng 0001",
+            "Sanjiang Li",
+            "Mingsheng Ying"
+        ]
+    },
+    {
+        "title": "Quantum Neural Network Compression.",
+        "authors": [
+            "Zhirui Hu",
+            "Peiyan Dong",
+            "Zhepeng Wang 0001",
+            "Youzuo Lin",
+            "Yanzhi Wang",
+            "Weiwen Jiang"
+        ]
+    },
+    {
+        "title": "A Robust Quantum Layout Synthesis Algorithm with a Qubit Mapping Checker.",
+        "authors": [
+            "Tsou-An Wu",
+            "Yun-Jhe Jiang",
+            "Shao-Yun Fang"
+        ]
+    }
+]

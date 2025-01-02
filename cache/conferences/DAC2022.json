@@ -1,0 +1,118 @@
+[
+    {
+        "title": "QuantumNAT: quantum noise-aware training with noise injection, quantization and normalization.",
+        "authors": [
+            "Hanrui Wang 0002",
+            "Jiaqi Gu 0002",
+            "Yongshan Ding 0001",
+            "Zirui Li",
+            "Frederic T. Chong",
+            "David Z. Pan",
+            "Song Han 0003"
+        ]
+    },
+    {
+        "title": "Limiting the Search Space in Optimal Quantum Circuit Mapping.",
+        "authors": [
+            "Lukas Burgholzer",
+            "Sarah Schneider",
+            "Robert Wille"
+        ]
+    },
+    {
+        "title": "Efficient Preparation of Cyclic Quantum States.",
+        "authors": [
+            "Fereshte Mozafari",
+            "Yuxiang Yang",
+            "Giovanni De Micheli"
+        ]
+    },
+    {
+        "title": "QOC: quantum on-chip training with parameter shift and gradient pruning.",
+        "authors": [
+            "Hanrui Wang 0002",
+            "Zirui Li",
+            "Jiaqi Gu 0002",
+            "Yongshan Ding 0001",
+            "David Z. Pan",
+            "Song Han 0003"
+        ]
+    },
+    {
+        "title": "Handling non-unitaries in quantum circuit equivalence checking.",
+        "authors": [
+            "Lukas Burgholzer",
+            "Robert Wille"
+        ]
+    },
+    {
+        "title": "Optimizing quantum circuit synthesis for permutations using recursion.",
+        "authors": [
+            "Cynthia Chen",
+            "Bruno Schmitt",
+            "Helena Zhang",
+            "Lev S. Bishop",
+            "Ali Javadi-Abhari"
+        ]
+    },
+    {
+        "title": "Optimizing quantum circuit placement via machine learning.",
+        "authors": [
+            "Hongxiang Fan",
+            "Ce Guo",
+            "Wayne Luk"
+        ]
+    },
+    {
+        "title": "A fast and scalable qubit-mapping method for noisy intermediate-scale quantum computers.",
+        "authors": [
+            "Sunghye Park",
+            "Daeyeon Kim",
+            "Minhyuk Kweon",
+            "Jae-Yoon Sim",
+            "Seokhyeong Kang"
+        ]
+    },
+    {
+        "title": "Equivalence checking paradigms in quantum circuit design: a case study.",
+        "authors": [
+            "Tom Peham",
+            "Lukas Burgholzer",
+            "Robert Wille"
+        ]
+    },
+    {
+        "title": "Automatic oracle generation in microsoft's quantum development kit using QIR and LLVM passes.",
+        "authors": [
+            "Mathias Soeken",
+            "Mariia Mykhailova"
+        ]
+    },
+    {
+        "title": "A bridge-based algorithm for simultaneous primal and dual defects compression on topologically quantum-error-corrected circuits.",
+        "authors": [
+            "Wei-Hsiang Tseng",
+            "Yao-Wen Chang"
+        ]
+    },
+    {
+        "title": "Accurate BDD-based unitary operator manipulation for scalable and robust quantum circuit verification.",
+        "authors": [
+            "Chun-Yu Wei",
+            "Yuan-Hung Tsai",
+            "Chiao-Shan Jhang",
+            "Jie-Hong R. Jiang"
+        ]
+    },
+    {
+        "title": "The basis of design tools for quantum computing: arrays, decision diagrams, tensor networks, and ZX-calculus.",
+        "authors": [
+            "Robert Wille",
+            "Lukas Burgholzer",
+            "Stefan Hillmich",
+            "Thomas Grurl",
+            "Alexander Ploier",
+            "Tom Peham"
+        ]
+    }
+]

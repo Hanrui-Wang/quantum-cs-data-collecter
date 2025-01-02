@@ -1,0 +1,81 @@
+[
+    {
+        "title": "QPEN: Quantum Projection and Quantum Entanglement Enhanced Network for Cross-Lingual Aspect-Based Sentiment Analysis.",
+        "authors": [
+            "Xingqiang Zhao",
+            "Hai Wan",
+            "Kunxun Qi"
+        ]
+    },
+    {
+        "title": "Generating Universal Adversarial Perturbations for Quantum Classifiers.",
+        "authors": [
+            "Gautham Anil",
+            "Vishnu Vinod",
+            "Apurva Narayan"
+        ]
+    },
+    {
+        "title": "Deep Quantum Error Correction.",
+        "authors": [
+            "Yoni Choukroun",
+            "Lior Wolf"
+        ]
+    },
+    {
+        "title": "Quantum-Inspired Neural Network with Runge-Kutta Method.",
+        "authors": [
+            "Zipeng Fan",
+            "Jing Zhang",
+            "Peng Zhang 0002",
+            "Qianxi Lin",
+            "Hui Gao"
+        ]
+    },
+    {
+        "title": "Training-Free Quantum Architecture Search.",
+        "authors": [
+            "Zhimin He",
+            "Maijie Deng",
+            "Shenggen Zheng",
+            "Lvzhou Li",
+            "Haozhen Situ"
+        ]
+    },
+    {
+        "title": "QI-IRA: Quantum-Inspired Interactive Ranking Aggregation for Person Re-identification.",
+        "authors": [
+            "Chunyu Hu",
+            "Hong Zhang",
+            "Chao Liang",
+            "Hao Huang"
+        ]
+    },
+    {
+        "title": "DQSSA: A Quantum-Inspired Solution for Maximizing Influence in Online Social Networks (Student Abstract).",
+        "authors": [
+            "Aryaman Rao",
+            "Parth Singh",
+            "Dinesh Kumar Vishwakarma",
+            "Mukesh Prasad"
+        ]
+    },
+    {
+        "title": "Quantum Interference Model for Semantic Biases of Glosses in Word Sense Disambiguation.",
+        "authors": [
+            "Junwei Zhang",
+            "Ruifang He",
+            "Fengyu Guo",
+            "Chang Liu"
+        ]
+    },
+    {
+        "title": "Exponential Hardness of Optimization from the Locality in Quantum Neural Networks.",
+        "authors": [
+            "Hao-Kai Zhang",
+            "Chengkai Zhu",
+            "Geng Liu",
+            "Xin Wang"
+        ]
+    }
+]

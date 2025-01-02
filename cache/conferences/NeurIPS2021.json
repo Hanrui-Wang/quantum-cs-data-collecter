@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Parametrized Quantum Policies for Reinforcement Learning.",
+        "authors": [
+            "Sofi\u00e8ne Jerbi",
+            "Casper Gyurik",
+            "Simon C. Marshall",
+            "Hans J. Briegel",
+            "Vedran Dunjko"
+        ]
+    },
+    {
+        "title": "The Inductive Bias of Quantum Kernels.",
+        "authors": [
+            "Jonas M. K\u00fcbler",
+            "Simon Buchholz",
+            "Bernhard Sch\u00f6lkopf"
+        ]
+    },
+    {
+        "title": "Reinforcement learning for optimization of variational quantum circuit architectures.",
+        "authors": [
+            "Mateusz Ostaszewski",
+            "Lea M. Trenkwalder",
+            "Wojciech Masarczyk",
+            "Eleanor Scerri",
+            "Vedran Dunjko"
+        ]
+    },
+    {
+        "title": "Private learning implies quantum stability.",
+        "authors": [
+            "Yihui Quek",
+            "Srinivasan Arunachalam",
+            "John A. Smolin"
+        ]
+    }
+]

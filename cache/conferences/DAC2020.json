@@ -1,0 +1,76 @@
+[
+    {
+        "title": "Realistic Fault Models and Fault Simulation for Quantum Dot Quantum Circuits.",
+        "authors": [
+            "Cheng-Yun Hsieh",
+            "Chen-Hung Wu",
+            "Chia-Hsien Huang",
+            "His-Sheng Goan",
+            "James Chien-Mo Li"
+        ]
+    },
+    {
+        "title": "Improved DD-based Equivalence Checking of Quantum Circuits.",
+        "authors": [
+            "Lukas Burgholzer",
+            "Robert Wille"
+        ]
+    },
+    {
+        "title": "Concurrency in DD-based Quantum Circuit Simulation.",
+        "authors": [
+            "Stefan Hillmich",
+            "Alwin Zulehner",
+            "Robert Wille"
+        ]
+    },
+    {
+        "title": "Approximation of Quantum States Using Decision Diagrams.",
+        "authors": [
+            "Alwin Zulehner",
+            "Stefan Hillmich",
+            "Igor L. Markov",
+            "Robert Wille"
+        ]
+    },
+    {
+        "title": "An Efficient Circuit Compilation Flow for Quantum Approximate Optimization Algorithm.",
+        "authors": [
+            "Mahabubul Alam",
+            "Abdullah Ash-Saki",
+            "Swaroop Ghosh"
+        ]
+    },
+    {
+        "title": "The Power of Simulation for Equivalence Checking in Quantum Computing.",
+        "authors": [
+            "Lukas Burgholzer",
+            "Robert Wille"
+        ]
+    },
+    {
+        "title": "Just Like the Real Thing: Fast Weak Simulation of Quantum Computation.",
+        "authors": [
+            "Stefan Hillmich",
+            "Igor L. Markov",
+            "Robert Wille"
+        ]
+    },
+    {
+        "title": "Eliminating Redundant Computation in Noisy Quantum Computing Simulation.",
+        "authors": [
+            "Gushu Li",
+            "Yufei Ding",
+            "Yuan Xie 0001"
+        ]
+    },
+    {
+        "title": "Massively Parallel Approximate Simulation of Hard Quantum Circuits.",
+        "authors": [
+            "Igor L. Markov",
+            "Aneeqa Fatima",
+            "Sergei V. Isakov",
+            "Sergio Boixo"
+        ]
+    }
+]

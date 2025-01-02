@@ -1,0 +1,92 @@
+[
+    {
+        "title": "ICCAD Special Session Paper: Quantum Variational Methods for Quantum Applications.",
+        "authors": [
+            "Shouvanik Chakrabarti",
+            "Xuchen You",
+            "Xiaodi Wu 0001"
+        ]
+    },
+    {
+        "title": "Can Noise on Qubits Be Learned in Quantum Neural Network? A Case Study on QuantumFlow (Invited Paper).",
+        "authors": [
+            "Zhiding Liang",
+            "Zhepeng Wang 0001",
+            "Junhuan Yang",
+            "Lei Yang 0018",
+            "Yiyu Shi 0001",
+            "Weiwen Jiang"
+        ]
+    },
+    {
+        "title": "Exploration of Quantum Neural Architecture by Mixing Quantum Neuron Designs: (Invited Paper).",
+        "authors": [
+            "Zhepeng Wang 0001",
+            "Zhiding Liang",
+            "Shanglin Zhou",
+            "Caiwen Ding",
+            "Yiyu Shi 0001",
+            "Weiwen Jiang"
+        ]
+    },
+    {
+        "title": "Quantum-Classical Hybrid Machine Learning for Image Classification (ICCAD Special Session Paper).",
+        "authors": [
+            "Mahabubul Alam",
+            "Satwik Kundu",
+            "Rasit Onur Topaloglu",
+            "Swaroop Ghosh"
+        ]
+    },
+    {
+        "title": "Split Compilation for Security of Quantum Circuits.",
+        "authors": [
+            "Abdullah Ash-Saki",
+            "Aakarshitha Suresh",
+            "Rasit Onur Topaloglu",
+            "Swaroop Ghosh"
+        ]
+    },
+    {
+        "title": "Optimal Mapping for Near-Term Quantum Architectures based on Rydberg Atoms.",
+        "authors": [
+            "Sebastian Brandhofer",
+            "Ilia Polian",
+            "Hans Peter B\u00fcchler"
+        ]
+    },
+    {
+        "title": "An Optimal Algorithm for Splitter and Buffer Insertion in Adiabatic Quantum-Flux-Parametron Circuits.",
+        "authors": [
+            "Chao-Yuan Huang",
+            "Yi-Chen Chang",
+            "Ming-Jer Tsai",
+            "Tsung-Yi Ho"
+        ]
+    },
+    {
+        "title": "Quantum Machine Learning for Finance ICCAD Special Session Paper.",
+        "authors": [
+            "Marco Pistoia",
+            "Syed Farhan Ahmad",
+            "Akshay Ajagekar",
+            "Alexander Buts",
+            "Shouvanik Chakrabarti",
+            "Dylan Herman",
+            "Shaohan Hu",
+            "Andrew Jena",
+            "Pierre Minssen",
+            "Pradeep Niroula",
+            "Arthur G. Rattew",
+            "Yue Sun",
+            "Romina Yalovetzky"
+        ]
+    },
+    {
+        "title": "A Novel Clock Tree Aware Placement Methodology for Single Flux Quantum (SFQ) Logic Circuits.",
+        "authors": [
+            "Ching-Cheng Wang",
+            "Wai-Kei Mak"
+        ]
+    }
+]

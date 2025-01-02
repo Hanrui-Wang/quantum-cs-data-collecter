@@ -1,0 +1,131 @@
+[
+    {
+        "title": "RISC-V Instruction Set Extensions for Multi-Precision Integer Arithmetic: A Case Study on Post-Quantum Key Exchange Using CSIDH-512.",
+        "authors": [
+            "Hao Cheng 0009",
+            "Georgios Fotiadis",
+            "Johann Gro\u00dfsch\u00e4dl",
+            "Daniel Page",
+            "Thinh Hung Pham",
+            "Peter Y. A. Ryan"
+        ]
+    },
+    {
+        "title": "Fast Virtual Gate Extraction For Silicon Quantum Dot Devices.",
+        "authors": [
+            "Shize Che",
+            "Seongwoo Oh",
+            "Haoyun Qin",
+            "Yuhao Liu",
+            "Anthony Sigillito",
+            "Gushu Li"
+        ]
+    },
+    {
+        "title": "RCGP: An Automatic Synthesis Framework for Reversible Quantum-Flux-Parametron Logic Circuits based on Efficient Cartesian Genetic Programming.",
+        "authors": [
+            "Rongliang Fu",
+            "Robert Wille",
+            "Tsung-Yi Ho"
+        ]
+    },
+    {
+        "title": "Invited: Challenges and Opportunities of Quantum Optimization in Finance.",
+        "authors": [
+            "Zichang He",
+            "Shouvanik Chakrabarti",
+            "Dylan Herman",
+            "Niraj Kumar 0005",
+            "Changhao Li",
+            "Pierre Minssen",
+            "Pradeep Niroula",
+            "Ruslan Shaydulin",
+            "Yue Sun",
+            "Shree Hari Sureshbabu",
+            "Romina Yalovetzky",
+            "Marco Pistoia"
+        ]
+    },
+    {
+        "title": "QuGeo: An End-to-end Quantum Learning Framework for Geoscience - A Case Study on Full-Waveform Inversion.",
+        "authors": [
+            "Weiwen Jiang",
+            "Youzuo Lin"
+        ]
+    },
+    {
+        "title": "Design of a Quantum Walk Circuit to Solve the Subset-Sum Problem.",
+        "authors": [
+            "Giacomo Lancellotti",
+            "Simone Perriello",
+            "Alessandro Barenghi",
+            "Gerardo Pelosi"
+        ]
+    },
+    {
+        "title": "Invited: Graph Learning for Parameter Prediction of Quantum Approximate Optimization Algorithm.",
+        "authors": [
+            "Zhiding Liang",
+            "Gang Liu 0025",
+            "Zheyuan Liu 0010",
+            "Jinglei Cheng",
+            "Tianyi Hao 0003",
+            "Kecheng Liu",
+            "Hang Ren",
+            "Zhixin Song",
+            "Ji Liu 0007",
+            "Fanny Ye",
+            "Yiyu Shi 0001"
+        ]
+    },
+    {
+        "title": "FCM: A Fusion-aware Wire Cutting Approach for Measurement-based Quantum Computing.",
+        "authors": [
+            "Zewei Mo",
+            "Yingheng Li",
+            "Aditya Pawar",
+            "Xulong Tang",
+            "Jun Yang 0002",
+            "Youtao Zhang"
+        ]
+    },
+    {
+        "title": "Effective Quantum Resource Optimization via Circuit Resizing in BQSKit.",
+        "authors": [
+            "Siyuan Niu",
+            "Akel Hashim",
+            "Costin Iancu",
+            "Wibe Albert de Jong",
+            "Ed Younis"
+        ]
+    },
+    {
+        "title": "Invited: Leveraging Machine Learning for Quantum Compilation Optimization.",
+        "authors": [
+            "Xiangyu Ren",
+            "Tianyu Zhang",
+            "Xiong Xu",
+            "Yicong Zheng",
+            "Shengyu Zhang 0002"
+        ]
+    },
+    {
+        "title": "Hybrid Circuit Mapping: Leveraging the Full Spectrum of Computational Capabilities of Neutral Atom Quantum Computers.",
+        "authors": [
+            "Ludwig Schmid",
+            "Sunghye Park",
+            "Robert Wille"
+        ]
+    },
+    {
+        "title": "SpREM: Exploiting Hamming Sparsity for Fast Quantum Readout Error Mitigation.",
+        "authors": [
+            "Hanyu Zhang",
+            "Liqiang Lu",
+            "Siwei Tan",
+            "Size Zheng 0001",
+            "Jia Yu",
+            "Jianwei Yin"
+        ]
+    }
+]

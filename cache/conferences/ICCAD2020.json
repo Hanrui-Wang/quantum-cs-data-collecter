@@ -1,0 +1,58 @@
+[
+    {
+        "title": "DisQ: A Novel Quantum Output State Classification Method on IBM Quantum Computers using OpenPulse.",
+        "authors": [
+            "Tirthak Patel",
+            "Devesh Tiwari"
+        ]
+    },
+    {
+        "title": "Noise Resilient Compilation Policies for Quantum Approximate Optimization Algorithm.",
+        "authors": [
+            "Mahabubul Alam",
+            "Abdullah Ash-Saki",
+            "Junde Li",
+            "Anupam Chattopadhyay",
+            "Swaroop Ghosh"
+        ]
+    },
+    {
+        "title": "Considering Decoherence Errors in the Simulation of Quantum Circuits Using Decision Diagrams.",
+        "authors": [
+            "Thomas Grurl",
+            "J\u00fcrgen Fu\u00df",
+            "Robert Wille"
+        ]
+    },
+    {
+        "title": "Efficient Hardware/Software Co-Design for Post-Quantum Crypto Algorithm SIKE on ARM and RISC-V based Microcontrollers.",
+        "authors": [
+            "Debapriya Basu Roy",
+            "Tim Fritzmann",
+            "Georg Sigl"
+        ]
+    },
+    {
+        "title": "Optimal Layout Synthesis for Quantum Computing.",
+        "authors": [
+            "Bochen Tan",
+            "Jason Cong"
+        ]
+    },
+    {
+        "title": "JKQ: JKU Tools for Quantum Computing.",
+        "authors": [
+            "Robert Wille",
+            "Stefan Hillmich",
+            "Lukas Burgholzer"
+        ]
+    },
+    {
+        "title": "A Monte Carlo Tree Search Framework for Quantum Circuit Transformation.",
+        "authors": [
+            "Xiangzhen Zhou",
+            "Yuan Feng 0001",
+            "Sanjiang Li"
+        ]
+    }
+]

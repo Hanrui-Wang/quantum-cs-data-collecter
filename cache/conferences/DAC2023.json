@@ -1,0 +1,207 @@
+[
+    {
+        "title": "Equivalence Checking of Parameterized Quantum Circuits: Verifying the Compilation of Variational Quantum Algorithms.",
+        "authors": [
+            "Tom Peham",
+            "Lukas Burgholzer",
+            "Robert Wille"
+        ]
+    },
+    {
+        "title": "Battle Against Fluctuating Quantum Noise: Compression-Aided Framework to Enable Robust Quantum Neural Network.",
+        "authors": [
+            "Zhirui Hu",
+            "Youzuo Lin",
+            "Qiang Guan",
+            "Weiwen Jiang"
+        ]
+    },
+    {
+        "title": "CUDA Quantum: The Platform for Integrated Quantum-Classical Computing.",
+        "authors": [
+            "Jin-Sung Kim",
+            "Alex McCaskey",
+            "Bettina Heim",
+            "Manish Modani",
+            "Sam Stanwyck",
+            "Timothy B. Costa"
+        ]
+    },
+    {
+        "title": "Orchestrating Measurement-Based Quantum Computation over Photonic Quantum Processors.",
+        "authors": [
+            "Yingheng Li",
+            "Aditya Pawar",
+            "Mohadeseh Azari",
+            "Yanan Guo 0002",
+            "Youtao Zhang",
+            "Jun Yang 0002",
+            "Kaushik Parasuram Seshadreesan",
+            "Xulong Tang"
+        ]
+    },
+    {
+        "title": "Knowledge Distillation in Quantum Neural Network Using Approximate Synthesis.",
+        "authors": [
+            "Mahabubul Alam",
+            "Satwik Kundu",
+            "Swaroop Ghosh"
+        ]
+    },
+    {
+        "title": "Software Tools for Decoding Quantum Low-Density Parity-Check Codes.",
+        "authors": [
+            "Lucas Berent",
+            "Lukas Burgholzer",
+            "Robert Wille"
+        ]
+    },
+    {
+        "title": "A Global Optimization Algorithm for Buffer and Splitter Insertion in Adiabatic Quantum-Flux-Parametron Circuits.",
+        "authors": [
+            "Rongliang Fu",
+            "Mengmeng Wang",
+            "Yirong Kan",
+            "Nobuyuki Yoshikawa",
+            "Tsung-Yi Ho",
+            "Olivia Chen"
+        ]
+    },
+    {
+        "title": "Graph Partitioning Approach for Fast Quantum Circuit Simulation.",
+        "authors": [
+            "Jaekyung Im",
+            "Seokhyeong Kang"
+        ]
+    },
+    {
+        "title": "A Robust Approach to Detecting Non-Equivalent Quantum Circuits Using Specially Designed Stimuli.",
+        "authors": [
+            "Hsiao-Lun Liu",
+            "Yi-Ting Li",
+            "Yung-Chih Chen",
+            "Chun-Yao Wang"
+        ]
+    },
+    {
+        "title": "Compilation of Entangling Gates for High-Dimensional Quantum Systems.",
+        "authors": [
+            "Kevin Mato",
+            "Martin Ringbauer",
+            "Stefan Hillmich",
+            "Robert Wille"
+        ]
+    },
+    {
+        "title": "An SMT-Solver-Based Synthesis of NNA-Compliant Quantum Circuits Consisting of CNOT, H and T Gates.",
+        "authors": [
+            "Kyohei Seino",
+            "Shigeru Yamashita"
+        ]
+    },
+    {
+        "title": "Quantum Data Compression for Efficient Generation of Control Pulses.",
+        "authors": [
+            "Daniel Volya",
+            "Prabhat Mishra 0001"
+        ]
+    },
+    {
+        "title": "Cryogenic In-Memory Matrix-Vector Multiplication using Ferroelectric Superconducting Quantum Interference Device (FE-SQUID).",
+        "authors": [
+            "Shamiul Alam",
+            "Jack Hutchins",
+            "Md. Shafayat Hossain",
+            "Kai Ni 0004",
+            "Vijaykrishnan Narayanan",
+            "Ahmedullah Aziz"
+        ]
+    },
+    {
+        "title": "Lightning Talk: Scaling Up Quantum Compilation - Challenges and Opportunities.",
+        "authors": [
+            "Jason Cong"
+        ]
+    },
+    {
+        "title": "PIMA-LPN: Processing-in-memory Acceleration for Efficient LPN-based Post-Quantum Cryptography.",
+        "authors": [
+            "Lin Ding",
+            "Song Bian 0001",
+            "Jiliang Zhang 0002"
+        ]
+    },
+    {
+        "title": "Quixote: Improving Fidelity of Quantum Program by Independent Execution of Controlled Gates.",
+        "authors": [
+            "Enhyeok Jang",
+            "Seungwoo Choi",
+            "Won Woo Ro"
+        ]
+    },
+    {
+        "title": "(Invited) Predictive analytics for cryogenic CMOS in future quantum computing systems.",
+        "authors": [
+            "Rajiv V. Joshi",
+            "Sudipto Chakraborty"
+        ]
+    },
+    {
+        "title": "Hybrid Gate-Pulse Model for Variational Quantum Algorithms.",
+        "authors": [
+            "Zhiding Liang",
+            "Zhixin Song",
+            "Jinglei Cheng",
+            "Zichang He",
+            "Ji Liu 0007",
+            "Hanrui Wang 0002",
+            "Ruiyang Qin",
+            "Yiru Wang",
+            "Song Han 0003",
+            "Xuehai Qian",
+            "Yiyu Shi 0001"
+        ]
+    },
+    {
+        "title": "Scalable Optimal Layout Synthesis for NISQ Quantum Processors.",
+        "authors": [
+            "Wan-Hsuan Lin",
+            "Jason Kimko",
+            "Bochen Tan",
+            "Nikolaj S. Bj\u00f8rner",
+            "Jason Cong"
+        ]
+    },
+    {
+        "title": "Invited: Building Robust Quantum System Software for Technology-Specific Characteristics.",
+        "authors": [
+            "Tirthak Patel",
+            "Devesh Tiwari"
+        ]
+    },
+    {
+        "title": "Compiler Optimization for Quantum Computing Using Reinforcement Learning.",
+        "authors": [
+            "Nils Quetschlich",
+            "Lukas Burgholzer",
+            "Robert Wille"
+        ]
+    },
+    {
+        "title": "Late Breaking Results: An Efficient Bridge-based Compression Algorithm for Topologically Quantum Error Corrected Circuits.",
+        "authors": [
+            "Wei-Hsiang Tseng",
+            "Yao-Wen Chang"
+        ]
+    },
+    {
+        "title": "Ever more optimized simulations of fermionic systems on a quantum computer.",
+        "authors": [
+            "Qingfeng Wang",
+            "Ze-Pei Cian",
+            "Ming Li",
+            "Igor L. Markov",
+            "Yunseong Nam"
+        ]
+    }
+]

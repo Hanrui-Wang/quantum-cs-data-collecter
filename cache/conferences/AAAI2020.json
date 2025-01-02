@@ -1,0 +1,36 @@
+[
+    {
+        "title": "Learning to Optimize Variational Quantum Circuits to Solve Combinatorial Problems.",
+        "authors": [
+            "Sami Khairy",
+            "Ruslan Shaydulin",
+            "Lukasz Cincio",
+            "Yuri Alexeev",
+            "Prasanna Balaprakash"
+        ]
+    },
+    {
+        "title": "Quantum Probabilistic Models Using Feynman Diagram Rules for Better Understanding the Information Diffusion Dynamics in Online Social Networks.",
+        "authors": [
+            "Ece C. Mutlu"
+        ]
+    },
+    {
+        "title": "Estimating the Density of States of Boolean Satisfiability Problems on Classical and Quantum Computing Platforms.",
+        "authors": [
+            "Tuhin Sahai",
+            "Anurag Mishra",
+            "Jose Miguel Pasini",
+            "Susmit Jha"
+        ]
+    },
+    {
+        "title": "Revisiting Online Quantum State Learning.",
+        "authors": [
+            "Feidiao Yang",
+            "Jiaqing Jiang",
+            "Jialin Zhang 0001",
+            "Xiaoming Sun 0001"
+        ]
+    }
+]

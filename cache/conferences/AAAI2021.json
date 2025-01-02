@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Quantum Cognitively Motivated Decision Fusion for Video Sentiment Analysis.",
+        "authors": [
+            "Dimitris Gkoumas",
+            "Qiuchi Li",
+            "Shahram Dehdashti",
+            "Massimo Melucci",
+            "Yijun Yu",
+            "Dawei Song 0001"
+        ]
+    },
+    {
+        "title": "Quantum-inspired Neural Network for Conversational Emotion Recognition.",
+        "authors": [
+            "Qiuchi Li",
+            "Dimitris Gkoumas",
+            "Alessandro Sordoni",
+            "Jian-Yun Nie",
+            "Massimo Melucci"
+        ]
+    },
+    {
+        "title": "VSQL: Variational Shadow Quantum Learning for Classification.",
+        "authors": [
+            "Guangxi Li",
+            "Zhixin Song",
+            "Xin Wang 0022"
+        ]
+    },
+    {
+        "title": "Sublinear Classical and Quantum Algorithms for General Matrix Games.",
+        "authors": [
+            "Tongyang Li",
+            "Chunhao Wang",
+            "Shouvanik Chakrabarti",
+            "Xiaodi Wu 0001"
+        ]
+    },
+    {
+        "title": "A Quantum-inspired Complex-valued Representation for Encoding Sentiment Information (Student Abstract).",
+        "authors": [
+            "Guangcheng Liu",
+            "Yuexian Hou",
+            "Shikai Song"
+        ]
+    },
+    {
+        "title": "Quantum Binary Classification (Student Abstract).",
+        "authors": [
+            "Carla Silva 0002",
+            "Ana Aguiar",
+            "In\u00eas Dutra"
+        ]
+    },
+    {
+        "title": "Quantum Exploration Algorithms for Multi-Armed Bandits.",
+        "authors": [
+            "Daochen Wang",
+            "Xuchen You",
+            "Tongyang Li",
+            "Andrew M. Childs"
+        ]
+    },
+    {
+        "title": "Learning Potentials of Quantum Systems using Deep Neural Networks.",
+        "authors": [
+            "Arijit Sehanobish",
+            "Hector H. Corzo",
+            "Onur Kara",
+            "David van Dijk"
+        ]
+    }
+]

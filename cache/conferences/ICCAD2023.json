@@ -1,0 +1,83 @@
+[
+    {
+        "title": "Invited Paper: Introduction to Hybrid Quantum-Classical Programming Using C++ Quantum Extension.",
+        "authors": [
+            "Xin-Chuan Wu",
+            "Shavindra P. Premaratne",
+            "Kevin Rasch"
+        ]
+    },
+    {
+        "title": "Invited Paper: Instruction Set Extensions for Post-Quantum Cryptography.",
+        "authors": [
+            "Marco Brohet",
+            "Felipe Valencia",
+            "Francesco Regazzoni 0001"
+        ]
+    },
+    {
+        "title": "Optimizing LUT-Based Quantum Circuit Synthesis Using Relative Phase Boolean Operations.",
+        "authors": [
+            "David Clarino",
+            "Naoya Asada",
+            "Shigeru Yamashita"
+        ]
+    },
+    {
+        "title": "Exact Logic Synthesis for Reversible Quantum-Flux-Parametron Logic.",
+        "authors": [
+            "Rongliang Fu",
+            "Olivia Chen",
+            "Nobuyuki Yoshikawa",
+            "Tsung-Yi Ho"
+        ]
+    },
+    {
+        "title": "CRYSTALS-Dilithium on RISC-V Processor: Lightweight Secure Boot Using Post-Quantum Digital Signature.",
+        "authors": [
+            "Naina Gupta 0001",
+            "Arpan Jati",
+            "Anupam Chattopadhyay"
+        ]
+    },
+    {
+        "title": "Single-Qubit Gates Matter for Optimising Quantum Circuit Depth in Qubit Mapping.",
+        "authors": [
+            "Sanjiang Li",
+            "Ky Dan Nguyen",
+            "Zachary Clare",
+            "Yuan Feng 0001"
+        ]
+    },
+    {
+        "title": "Optimal Layout Synthesis for Quantum Circuits as Classical Planning.",
+        "authors": [
+            "Irfansha Shaik",
+            "Jaco van de Pol"
+        ]
+    },
+    {
+        "title": "QPulseLib: Accelerating the Pulse Generation of Quantum Circuit with Reusable Patterns.",
+        "authors": [
+            "Wuwei Tian",
+            "Xinghui Jia",
+            "Siwei Tan",
+            "Zixuan Song",
+            "Liqiang Lu",
+            "Jianwei Yin"
+        ]
+    },
+    {
+        "title": "Full State Quantum Circuit Simulation Beyond Memory Limit.",
+        "authors": [
+            "Yilun Zhao 0002",
+            "Yu Chen",
+            "He Li",
+            "Ying Wang 0001",
+            "Kaiyan Chang",
+            "Bingmeng Wang",
+            "Bing Li 0017",
+            "Yinhe Han 0001"
+        ]
+    }
+]
